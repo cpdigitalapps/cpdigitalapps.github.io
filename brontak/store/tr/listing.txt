@@ -1,0 +1,35 @@
+TITLE: Brontak: Robot Hayatta Kalma
+SHORT: Dev robotu yönet, canavarları yen, hayatta kalanları kurtar. Çevrimdışı.
+NOTES: Brontak'ın ilk sürümü! 4 bölgede 40 seviyede dev bir savaş robotunu yönet, 9 canavar türü ve 5 devasa patronla savaş, hayatta kalanları kurtar ve sığınağını kur. 16 dilde, çevrimdışı çalışır, görevler sırasında reklam yok.
+FULL:
+Dev bir savaş robotu olan BRONTAK'ın kontrolünü ele al ve canavarların istila ettiği bir dünyada ilerle.
+
+Robotun kendi kendine ateş eder: onu hareket ettirmek için parmağını sürükle, düşman saldırılarından kaç ve en iyi yolu seç. Toplarını güçlendirmek için mavi kapılardan geç, kırmızılardan kaçın ve yolda bulduğun tüm hayatta kalanları kurtar.
+
+4 BÖLGEDE 40 SEVİYE
+- Gün batımında sular altındaki şehir
+- Mesalar arasında kavurucu çöl
+- Kutup ışıkları altında donmuş şehir
+- Lav nehirleriyle dolu ateş diyarı
+Her bölgede bir mini patron ve devasa bir final patronu var: Kum Solucanı, Buz Devi, Lav Örümceği ve Sürü Kraliçesi.
+
+9 CANAVAR TÜRÜ
+Sürücü, Brut, Asit tükürür, uçan Harpi, patlayan Şişkin, saldıran Zırhlı, Yuva, Sıçrayan ve Yılan. Her bölge onları farklı şekilde karıştırır.
+
+HANGAR
+- Farklı zırh, hasar ve toplara sahip 4 robot
+- Güç, atış hızı, zırh ve yeteneği geliştir
+- Özel yeteneklere sahip 3 komutan: Füze fırtınası, Enerji kalkanı ve Aşırı yük
+
+SIĞINAK
+Kurtardığın hayatta kalanlar sığınağında yaşar ve oyun kapalıyken bile kredi üretmeye devam eder. Atölyeyi, yurdu ve laboratuvarı genişlet.
+
+ADİL VE ÇEVRİMDIŞI
+- Çevrimdışı çalışır, hesap gerekmez
+- Görevler sırasında reklam yok
+- İsteğe bağlı videolar her zaman senin seçimin
+- Uygulama içi satın alma yok
+- Her telefon için grafik kalitesi seçenekleri
+- 16 dil
+
+Her seviyede 3 yıldıza kadar kazan ve son hayatta kalanların kahramanı ol. Brontak'ı hemen indir!

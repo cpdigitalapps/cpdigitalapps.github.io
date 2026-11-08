@@ -1,0 +1,35 @@
+TITLE: Brontak: Robot Supervivencia
+SHORT: Pilota un robot gigante, vence monstruos y rescata supervivientes. Offline.
+NOTES: ¡Primera versión de Brontak! Pilota un robot de combate gigante en 40 niveles y 4 zonas, lucha contra 9 tipos de monstruos y 5 enormes jefes, rescata supervivientes y construye tu refugio. Disponible en 16 idiomas, funciona sin conexión, sin anuncios durante las misiones.
+FULL:
+Toma el control de BRONTAK, un robot de combate gigante, y avanza por un mundo invadido por monstruos.
+
+Tu robot dispara solo: arrastra el dedo para moverlo, esquiva los ataques enemigos y elige el mejor camino. Atraviesa los portales azules para potenciar tus cañones, evita los rojos y salva a todos los supervivientes que encuentres por el camino.
+
+40 NIVELES EN 4 ZONAS
+- Ciudad inundada al atardecer
+- Desierto abrasador entre mesetas
+- Ciudad helada bajo la aurora polar
+- Tierras de fuego con ríos de lava
+Cada zona tiene un minijefe y un enorme jefe final: el Gusano de arena, el Coloso de hielo, la Araña de lava y la Reina del enjambre.
+
+9 TIPOS DE MONSTRUOS
+Enjambreros, Brutos, Escupeácidos, Arpías voladoras, Hinchados que explotan, Acorazados que embisten, Nidos, Saltadores y Serpientes. Cada zona los mezcla de forma distinta.
+
+HANGAR
+- 4 robots con distinta armadura, daño y cañones
+- Mejora potencia, cadencia de disparo, armadura y habilidad
+- 3 comandantes con habilidades especiales: Tormenta de misiles, Escudo de energía y Sobrecarga
+
+REFUGIO
+Los supervivientes que rescates viven en tu refugio y siguen produciendo créditos, incluso con el juego cerrado. Amplía el taller, el dormitorio y el laboratorio.
+
+JUSTO Y SIN CONEXIÓN
+- Funciona sin conexión, sin necesidad de cuenta
+- Sin anuncios durante las misiones
+- Los vídeos opcionales son siempre decisión tuya
+- Sin compras dentro de la aplicación
+- Opciones de calidad gráfica para cada móvil
+- 16 idiomas
+
+Consigue hasta 3 estrellas en cada nivel y conviértete en el héroe de los últimos supervivientes. ¡Descarga Brontak ya!
