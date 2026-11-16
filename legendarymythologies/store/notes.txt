@@ -1,0 +1,48 @@
+<en-US>
+First release: choose your hero and save Crete from the Bull, the Minotaur and Talos. Action combat, loot in 5 rarities, crafting, levels, day and night, weather, game modes and online co-op.
+</en-US>
+<it-IT>
+Prima versione: scegli il tuo eroe e salva Creta dal Toro, dal Minotauro e da Talos. Combattimenti d'azione, bottino in 5 rarità, creazione di oggetti, livelli, giorno e notte, meteo, modalità e cooperativa online.
+</it-IT>
+<es-ES>
+Primera versión: elige a tu héroe y salva Creta del Toro, el Minotauro y Talos. Combate de acción, botín en 5 rarezas, crafteo, niveles, día y noche, clima, modos y cooperativo en línea.
+</es-ES>
+<fr-FR>
+Première version : choisissez votre héros et sauvez la Crète du Taureau, du Minotaure et de Talos. Combats d'action, butin en 5 raretés, artisanat, niveaux, jour et nuit, météo, modes et coopération en ligne.
+</fr-FR>
+<de-DE>
+Erste Version: Wähle deinen Helden und rette Kreta vor dem Stier, dem Minotaurus und Talos. Action-Kämpfe, Beute in 5 Seltenheiten, Handwerk, Stufen, Tag und Nacht, Wetter, Modi und Online-Koop.
+</de-DE>
+<pt-BR>
+Primeira versão: escolha seu herói e salve Creta do Touro, do Minotauro e de Talos. Combate de ação, espólios em 5 raridades, criação, níveis, dia e noite, clima, modos e cooperativo online.
+</pt-BR>
+<ru-RU>
+Первая версия: выбери героя и спаси Крит от Быка, Минотавра и Талоса. Экшен-бои, добыча 5 редкостей, крафт, уровни, день и ночь, погода, режимы и онлайн-кооператив.
+</ru-RU>
+<tr-TR>
+İlk sürüm: kahramanını seç ve Girit'i Boğa'dan, Minotor'dan ve Talos'tan kurtar. Aksiyon savaşları, 5 nadirlikte ganimet, üretim, seviyeler, gece ve gündüz, hava durumu, modlar ve çevrimiçi ortak oyun.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja: wybierz bohatera i ocal Kretę przed Bykiem, Minotaurem i Talosem. Walka akcji, łupy w 5 rzadkościach, rzemiosło, poziomy, dzień i noc, pogoda, tryby i kooperacja online.
+</pl-PL>
+<nl-NL>
+Eerste versie: kies je held en red Kreta van de Stier, de Minotaurus en Talos. Actiegevechten, buit in 5 zeldzaamheden, crafting, niveaus, dag en nacht, weer, modi en online co-op.
+</nl-NL>
+<uk>
+Перша версія: обери героя та врятуй Крит від Бика, Мінотавра й Талоса. Екшн-бої, здобич 5 рідкісностей, крафт, рівні, день і ніч, погода, режими та онлайн-кооператив.
+</uk>
+<id>
+Rilis pertama: pilih pahlawanmu dan selamatkan Kreta dari Banteng, Minotaur, dan Talos. Pertarungan aksi, jarahan 5 kelangkaan, crafting, level, siang dan malam, cuaca, mode, dan main bersama online.
+</id>
+<vi>
+Phiên bản đầu tiên: chọn anh hùng và cứu Crete khỏi Con Bò, Minotaur và Talos. Chiến đấu hành động, chiến lợi phẩm 5 độ hiếm, chế tạo, cấp độ, ngày và đêm, thời tiết, chế độ chơi và chơi chung trực tuyến.
+</vi>
+<ja-JP>
+初リリース:英雄を選び、雄牛、ミノタウロス、タロスからクレタ島を救おう。アクションバトル、5段階のレア度の戦利品、クラフト、レベル、昼と夜、天気、モード、オンライン協力プレイ。
+</ja-JP>
+<ko-KR>
+첫 출시: 영웅을 선택하고 황소, 미노타우로스, 탈로스로부터 크레타를 구하세요. 액션 전투, 5단계 희귀도 전리품, 제작, 레벨, 낮과 밤, 날씨, 모드, 온라인 협동.
+</ko-KR>
+<zh-CN>
+首个版本:选择你的英雄,从公牛、弥诺陶洛斯和塔罗斯手中拯救克里特岛。动作战斗、5种稀有度的战利品、制作、等级、昼夜、天气、多种模式和在线合作。
+</zh-CN>
