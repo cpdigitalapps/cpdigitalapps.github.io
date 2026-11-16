@@ -1,0 +1,48 @@
+<en-US>
+First release of Kickoff Super Hit! Fast 5 vs 5 arcade soccer with Super Hit power shots, goal replays, live commentary, Quick match, Cup, League, Penalties, Golden Goal and 3 vs 3. Create your team, train, complete 20 missions and play online or in co-op. Free, no in-app purchases, works offline, 16 languages.
+</en-US>
+<it-IT>
+Prima versione di Kickoff Super Hit! Calcio arcade 5 contro 5 con tiri potenti Super Hit, replay dei gol, telecronaca dal vivo, partita veloce, coppa, campionato, rigori, Golden Goal e 3 contro 3. Crea la tua squadra, allenati, completa 20 missioni e gioca online o in cooperativa. Gratis, senza acquisti in-app, funziona offline, 16 lingue.
+</it-IT>
+<es-ES>
+¡Primera versión de Kickoff Super Hit! Fútbol arcade 5 contra 5 con tiros potentes Super Hit, repeticiones de goles, comentarios en directo, partido rápido, copa, liga, penaltis, gol de oro y 3 contra 3. Crea tu equipo, entrena, completa 20 misiones y juega en línea o en cooperativo. Gratis, sin compras integradas, funciona sin conexión, 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version de Kickoff Super Hit ! Foot arcade 5 contre 5 avec tirs puissants Super Hit, ralentis des buts, commentaires en direct, match rapide, coupe, ligue, tirs au but, but en or et 3 contre 3. Créez votre équipe, entraînez-vous, relevez 20 missions et jouez en ligne ou en coopération. Gratuit, sans achats intégrés, fonctionne hors ligne, 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version von Kickoff Super Hit! Arcade-Fußball 5 gegen 5 mit kraftvollen Super-Hit-Schüssen, Tor-Wiederholungen, Live-Kommentar, Schnellspiel, Pokal, Liga, Elfmeterschießen, Golden Goal und 3 gegen 3. Erstelle dein Team, trainiere, schließe 20 Missionen ab und spiele online oder im Koop-Modus. Kostenlos, keine In-App-Käufe, läuft offline, 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão de Kickoff Super Hit! Futebol arcade 5 contra 5 com chutes poderosos Super Hit, replays de gols, narração ao vivo, partida rápida, copa, liga, pênaltis, Gol de Ouro e 3 contra 3. Crie seu time, treine, complete 20 missões e jogue online ou em cooperação. Grátis, sem compras no app, funciona offline, 16 idiomas.
+</pt-BR>
+<ru-RU>
+Первый выпуск Kickoff Super Hit! Аркадный футбол 5 на 5 с мощными ударами Super Hit, повторами голов, живыми комментариями, быстрым матчем, кубком, лигой, пенальти, золотым голом и режимом 3 на 3. Создайте команду, тренируйтесь, выполняйте 20 заданий и играйте онлайн или в кооперативе. Бесплатно, без покупок, работает без интернета, 16 языков.
+</ru-RU>
+<tr-TR>
+Kickoff Super Hit'in ilk sürümü! Güçlü Super Hit şutları, gol tekrarları, canlı spiker, hızlı maç, kupa, lig, penaltılar, Altın Gol ve 3'e 3 modlarıyla 5'e 5 arcade futbol. Takımını oluştur, antrenman yap, 20 görevi tamamla ve online ya da ortak oyna. Ücretsiz, uygulama içi satın alma yok, internetsiz çalışır, 16 dil.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Kickoff Super Hit! Piłka nożna arcade 5 na 5 z potężnymi strzałami Super Hit, powtórkami goli, komentarzem na żywo, szybkim meczem, pucharem, ligą, rzutami karnymi, złotym golem i trybem 3 na 3. Stwórz drużynę, trenuj, wykonaj 20 misji i graj online lub w kooperacji. Za darmo, bez zakupów w aplikacji, działa offline, 16 języków.
+</pl-PL>
+<nl-NL>
+Eerste versie van Kickoff Super Hit! Arcade voetbal 5 tegen 5 met krachtige Super Hit schoten, doelpuntherhalingen, live commentaar, snelle wedstrijd, beker, competitie, strafschoppen, Golden Goal en 3 tegen 3. Maak je team, train, voltooi 20 missies en speel online of in coöp. Gratis, geen aankopen in de app, werkt offline, 16 talen.
+</nl-NL>
+<uk>
+Перший випуск Kickoff Super Hit! Аркадний футбол 5 на 5 з потужними ударами Super Hit, повторами голів, живими коментарями, швидким матчем, кубком, лігою, пенальті, золотим голом і режимом 3 на 3. Створіть команду, тренуйтеся, виконуйте 20 завдань і грайте онлайн або в кооперативі. Безкоштовно, без покупок, працює без інтернету, 16 мов.
+</uk>
+<id>
+Rilis pertama Kickoff Super Hit! Sepak bola arcade 5 lawan 5 dengan tendangan dahsyat Super Hit, replay gol, komentar langsung, pertandingan cepat, piala, liga, adu penalti, Gol Emas, dan 3 lawan 3. Buat timmu, berlatih, selesaikan 20 misi, dan main online atau kooperatif. Gratis, tanpa pembelian dalam aplikasi, bisa offline, 16 bahasa.
+</id>
+<vi>
+Phiên bản đầu tiên của Kickoff Super Hit! Bóng đá arcade 5 đấu 5 với cú sút Super Hit mạnh mẽ, phát lại bàn thắng, bình luận trực tiếp, trận nhanh, cúp, giải đấu, đá luân lưu, bàn thắng vàng và 3 đấu 3. Tạo đội, luyện tập, hoàn thành 20 nhiệm vụ và chơi online hoặc hợp tác. Miễn phí, không mua trong ứng dụng, chơi được offline, 16 ngôn ngữ.
+</vi>
+<ja-JP>
+Kickoff Super Hit の最初のリリースです！強力なスーパーヒット、ゴールリプレイ、ライブ実況を備えた5対5のアーケードサッカー。クイックマッチ、カップ、リーグ、PK戦、ゴールデンゴール、3対3で遊べます。チーム作成、トレーニング、20のミッション、オンライン対戦と協力プレイに対応。無料、アプリ内課金なし、オフライン対応、16言語。
+</ja-JP>
+<ko-KR>
+Kickoff Super Hit의 첫 출시입니다! 강력한 슈퍼 히트 슛, 골 리플레이, 실시간 해설을 갖춘 5대5 아케이드 축구. 빠른 경기, 컵, 리그, 승부차기, 골든 골, 3대3을 즐기세요. 팀 만들기, 훈련, 20개 미션, 온라인 대전과 협동 플레이를 지원합니다. 무료, 인앱 결제 없음, 오프라인 가능, 16개 언어.
+</ko-KR>
+<zh-CN>
+Kickoff Super Hit 首次发布！5对5街机足球，包含强力的超级重击射门、进球回放和实时解说。支持快速比赛、杯赛、联赛、点球大战、金球制和3对3。可创建球队、训练、完成20个任务，并支持在线对战与合作。免费，无应用内购买，可离线玩，支持16种语言。
+</zh-CN>
