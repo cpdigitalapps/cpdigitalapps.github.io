@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Ceny paliw Włochy
+SHORT: Oficjalne ceny benzyny, diesla, LPG i CNG we Włoszech, tania stacja w pobliżu
+FULL:
+PienoFuel znajduje stację, która naprawdę pozwala zaoszczędzić, z oficjalnymi cenami z całych Włoch.
+
+OFICJALNE CENY, ZAWSZE KOMPLETNE
+Ceny pochodzą z otwartych danych włoskiego Ministerstwa Przedsiębiorstw i Made in Italy (Osservaprezzi Carburanti): ponad 20 000 stacji, zgłaszanych z mocy prawa przez operatorów. Żadnych zmyślonych cen, żadnych zgłoszeń od obcych osób.
+
+CENA W JEDNYM SPOJRZENIU
+Każda stacja pokazuje cenę dużymi cyframi od razu na liście, z odległością, samoobsługą lub obsługą i marką. Najlepszy wybór jest wyróżniony na górze.
+
+PRAWDZIWY KOSZT TANKOWANIA
+Stacja tańsza o 2 centy, ale oddalona o 15 km, to nie okazja. PienoFuel liczy prawdziwy koszt: cenę tankowania plus paliwo spalone w drodze tam i z powrotem. Ustaw swoją zwykłą liczbę litrów i spalanie auta i zobacz, ile więcej wydajesz na każdej stacji.
+
+WSZYSTKIE PALIWA
+Benzyna, diesel, LPG, CNG, HVO, LNG i paliwa premium. Wybierz promień od 3 do 50 km i, jeśli chcesz, pokaż tylko stacje samoobsługowe.
+
+GDZIE JESTEŚ LUB DOKĄD JEDZIESZ
+Użyj swojej lokalizacji lub wyszukaj włoską miejscowość, nawet bez internetu. Twoja pozycja zostaje w telefonie: nikomu jej nie wysyłamy.
+
+JEDNO DOTKNIĘCIE I JEDZIESZ
+Dotknij stacji, a otworzy się Twoja ulubiona aplikacja nawigacyjna.
+
+DZIAŁA TAKŻE OFFLINE
+Aplikacja zachowuje ostatnią kopię cen i używa jej, gdy nie ma zasięgu.
+
+W 16 JĘZYKACH
+Idealna dla podróżnych jeżdżących po Włoszech.
+
+Uwaga: ceny są tymi obowiązującymi o 8:00 poprzedniego dnia, opublikowanymi przez Ministerstwo; cena na dystrybutorze może się różnić. Źródło danych: MIMIT, Osservaprezzi Carburanti, licencja IODL 2.0 (https://www.mimit.gov.it). PienoFuel to niezależna aplikacja i nie jest powiązana z żadnym organem rządowym.
+
+Aplikacja jest darmowa i zawiera reklamy. Możesz je wyłączyć na 30 minut, oglądając film, kiedy zechcesz.

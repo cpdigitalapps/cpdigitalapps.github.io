@@ -1,0 +1,48 @@
+<en-US>
+First version: official fuel prices for all of Italy, real cost of the refuel, 16 languages.
+</en-US>
+<it-IT>
+Prima versione: prezzi ufficiali dei carburanti in tutta Italia, costo vero del pieno, 16 lingue.
+</it-IT>
+<es-ES>
+Primera versión: precios oficiales de combustible de toda Italia, coste real del repostaje, 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version : prix officiels des carburants dans toute l'Italie, coût réel du plein, 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version: offizielle Spritpreise für ganz Italien, wahre Kosten der Tankfüllung, 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão: preços oficiais de combustível de toda a Itália, custo real do abastecimento, 16 idiomas.
+</pt-BR>
+<ru-RU>
+Первая версия: официальные цены на топливо по всей Италии, реальная стоимость заправки, 16 языков.
+</ru-RU>
+<tr-TR>
+İlk sürüm: tüm İtalya için resmi akaryakıt fiyatları, dolumun gerçek maliyeti, 16 dil.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja: oficjalne ceny paliw z całych Włoch, prawdziwy koszt tankowania, 16 języków.
+</pl-PL>
+<nl-NL>
+Eerste versie: officiële brandstofprijzen voor heel Italië, echte kosten van je tankbeurt, 16 talen.
+</nl-NL>
+<uk>
+Перша версія: офіційні ціни на пальне по всій Італії, реальна вартість заправлення, 16 мов.
+</uk>
+<id>
+Versi pertama: harga BBM resmi di seluruh Italia, biaya sebenarnya isi BBM, 16 bahasa.
+</id>
+<vi>
+Phiên bản đầu tiên: giá nhiên liệu chính thức trên toàn nước Ý, chi phí thực của lần đổ xăng, 16 ngôn ngữ.
+</vi>
+<ja-JP>
+初回バージョン:イタリア全土の公式燃料価格、給油の本当のコスト、16言語に対応。
+</ja-JP>
+<ko-KR>
+첫 번째 버전: 이탈리아 전역의 공식 연료 가격, 주유의 진짜 비용, 16개 언어 지원.
+</ko-KR>
+<zh-CN>
+首个版本：意大利全国官方燃油价格，加油的真实成本，支持 16 种语言。
+</zh-CN>

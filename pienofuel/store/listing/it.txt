@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Distributori Vicini
+SHORT: Prezzi ufficiali di benzina, diesel, GPL e metano: il distributore che conviene
+FULL:
+PienoFuel trova il distributore che ti conviene davvero, con i prezzi ufficiali di tutta Italia.
+
+PREZZI UFFICIALI, SEMPRE COMPLETI
+I prezzi vengono dai dati aperti del Ministero delle Imprese e del Made in Italy (Osservaprezzi Carburanti): oltre 20.000 distributori, comunicati per legge dai gestori. Nessun prezzo inventato o segnalato da sconosciuti.
+
+IL PREZZO SUBITO, SENZA APRIRE NIENTE
+Ogni distributore mostra il prezzo grande nella lista, con distanza, self o servito e marchio. Il più conveniente è evidenziato in alto.
+
+IL COSTO VERO DEL PIENO
+Un distributore 2 centesimi più economico ma a 15 km non conviene. PienoFuel calcola il costo vero: il prezzo del tuo pieno più il carburante che consumi per andare e tornare. Imposta i litri del tuo pieno e il consumo della tua auto e vedi quanto spendi in più in ogni distributore.
+
+TUTTI I CARBURANTI
+Benzina, gasolio, GPL, metano, HVO, GNL e carburanti premium. Scegli il raggio da 3 a 50 km e mostra solo i self, se vuoi.
+
+DOVE SEI O DOVE VAI
+Usa la tua posizione oppure cerca un comune, anche senza internet. La tua posizione resta sul telefono: non la inviamo a nessuno.
+
+UN TOCCO E PARTI
+Tocca un distributore e si apre il tuo navigatore preferito.
+
+FUNZIONA ANCHE OFFLINE
+L'app salva l'ultima copia dei prezzi e la usa quando non c'è campo.
+
+IN 16 LINGUE
+Comoda anche per chi viaggia in Italia dall'estero.
+
+Nota: i prezzi sono quelli in vigore alle 8 del giorno prima, come pubblicati dal Ministero; alla pompa il prezzo può essere diverso. Fonte dei dati: MIMIT, Osservaprezzi Carburanti, licenza IODL 2.0 (https://www.mimit.gov.it). PienoFuel è un'app indipendente e non è affiliata ad alcun ente governativo.
+
+L'app è gratuita e contiene pubblicità. Puoi toglierla per 30 minuti guardando un video, quando vuoi tu.

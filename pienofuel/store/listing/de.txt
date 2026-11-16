@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Spritpreise Italien
+SHORT: Offizielle Preise für Benzin, Diesel, LPG und CNG in Italien, Tankstellen nah
+FULL:
+PienoFuel findet die Tankstelle, die dir wirklich Geld spart, mit offiziellen Preisen für ganz Italien.
+
+OFFIZIELLE PREISE, IMMER VOLLSTÄNDIG
+Die Preise stammen aus den offenen Daten des italienischen Ministeriums für Unternehmen und Made in Italy (Osservaprezzi Carburanti): mehr als 20.000 Tankstellen, gesetzlich von den Betreibern gemeldet. Keine erfundenen Preise, keine Meldungen von Fremden.
+
+DER PREIS AUF EINEN BLICK
+Jede Tankstelle zeigt ihren Preis in großen Zahlen direkt in der Liste, mit Entfernung, Selbstbedienung oder Bedienung und Marke. Die beste Wahl steht hervorgehoben ganz oben.
+
+DIE WAHREN KOSTEN DEINER TANKFÜLLUNG
+Eine Tankstelle, die 2 Cent günstiger, aber 15 km entfernt ist, ist kein Schnäppchen. PienoFuel berechnet die wahren Kosten: den Preis deiner Tankfüllung plus den Kraftstoff, den du für Hin- und Rückfahrt verbrauchst. Gib deine üblichen Liter und den Verbrauch deines Autos ein und sieh, wie viel du an jeder Tankstelle mehr zahlst.
+
+ALLE KRAFTSTOFFE
+Benzin, Diesel, LPG, CNG, HVO, LNG und Premiumkraftstoffe. Wähle einen Radius von 3 bis 50 km und zeige auf Wunsch nur Selbstbedienungstankstellen an.
+
+WO DU BIST ODER WOHIN DU FÄHRST
+Nutze deinen Standort oder suche einen italienischen Ort, auch ohne Internet. Deine Position bleibt auf deinem Handy: Wir senden sie an niemanden.
+
+EIN TIPPEN UND LOS
+Tippe auf eine Tankstelle und deine bevorzugte Navigations-App öffnet sich.
+
+FUNKTIONIERT AUCH OFFLINE
+Die App speichert die letzte Kopie der Preise und nutzt sie, wenn kein Empfang besteht.
+
+IN 16 SPRACHEN
+Ideal für Reisende, die durch Italien fahren.
+
+Hinweis: Die Preise gelten um 8:00 Uhr des Vortags, wie vom Ministerium veröffentlicht; der Preis an der Zapfsäule kann abweichen. Datenquelle: MIMIT, Osservaprezzi Carburanti, Lizenz IODL 2.0 (https://www.mimit.gov.it). PienoFuel ist eine unabhängige App und nicht mit einer Regierungsstelle verbunden.
+
+Die App ist kostenlos und enthält Werbung. Du kannst sie jederzeit für 30 Minuten entfernen, indem du ein Video ansiehst.

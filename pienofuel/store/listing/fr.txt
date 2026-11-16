@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Carburant Italie
+SHORT: Prix officiels essence, diesel, GPL et GNV en Italie, la station la moins chère
+FULL:
+PienoFuel trouve la station-service qui vous fait vraiment économiser, avec les prix officiels de toute l'Italie.
+
+PRIX OFFICIELS, TOUJOURS COMPLETS
+Les prix viennent des données ouvertes du ministère italien des Entreprises et du Made in Italy (Osservaprezzi Carburanti) : plus de 20 000 stations, déclarées par les exploitants comme la loi l'exige. Pas de prix inventés, pas de signalements d'inconnus.
+
+LE PRIX D'UN COUP D'OEIL
+Chaque station affiche son prix en gros chiffres directement dans la liste, avec la distance, self-service ou service à la pompe, et l'enseigne. Le meilleur choix est mis en avant en haut.
+
+LE COÛT RÉEL DE VOTRE PLEIN
+Une station 2 centimes moins chère mais à 15 km n'est pas une bonne affaire. PienoFuel calcule le coût réel : le prix de votre plein plus le carburant brûlé pour l'aller-retour. Indiquez vos litres habituels et la consommation de votre voiture et voyez combien vous dépensez en plus dans chaque station.
+
+TOUS LES CARBURANTS
+Essence, diesel, GPL, GNV, HVO, GNL et carburants premium. Choisissez un rayon de 3 à 50 km et n'affichez que les stations en self-service si vous le souhaitez.
+
+OÙ VOUS ÊTES OU OÙ VOUS ALLEZ
+Utilisez votre position ou cherchez une ville italienne, même sans internet. Votre position reste sur votre téléphone : nous ne l'envoyons à personne.
+
+UN SEUL TOUCHER ET C'EST PARTI
+Touchez une station et votre application de navigation préférée s'ouvre.
+
+FONCTIONNE AUSSI HORS CONNEXION
+L'application garde la dernière copie des prix et l'utilise quand il n'y a pas de réseau.
+
+EN 16 LANGUES
+Idéale pour les voyageurs qui roulent en Italie.
+
+Remarque : les prix sont ceux en vigueur à 8h00 la veille, publiés par le ministère ; le prix à la pompe peut différer. Source des données : MIMIT, Osservaprezzi Carburanti, licence IODL 2.0 (https://www.mimit.gov.it). PienoFuel est une application indépendante et n'est affiliée à aucun organisme gouvernemental.
+
+L'application est gratuite et contient des publicités. Vous pouvez les supprimer pendant 30 minutes en regardant une vidéo, quand vous le souhaitez.

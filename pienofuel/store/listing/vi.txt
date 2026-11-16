@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Giá xăng Ý
+SHORT: Giá xăng dầu, LPG và CNG chính thức tại Ý, trạm xăng giá rẻ gần bạn
+FULL:
+PienoFuel tìm ra cây xăng thật sự giúp bạn tiết kiệm, với giá chính thức trên toàn nước Ý.
+
+GIÁ CHÍNH THỨC, LUÔN ĐẦY ĐỦ
+Giá lấy từ dữ liệu mở của Bộ Doanh nghiệp và Made in Italy của Ý (Osservaprezzi Carburanti): hơn 20.000 cây xăng, do các nhà vận hành báo cáo theo luật. Không có giá bịa đặt, không có báo cáo từ người lạ.
+
+GIÁ HIỆN RÕ NGAY
+Mỗi cây xăng hiển thị giá bằng số lớn ngay trong danh sách, kèm khoảng cách, tự phục vụ hay có nhân viên, và thương hiệu. Lựa chọn tốt nhất được làm nổi bật ở trên cùng.
+
+CHI PHÍ THỰC CỦA LẦN ĐỔ XĂNG
+Cây xăng rẻ hơn 2 cent nhưng xa 15 km thì không hời. PienoFuel tính chi phí thực: giá lần đổ xăng của bạn cộng với nhiên liệu tiêu hao cho chuyến đi và về. Đặt số lít thường dùng và mức tiêu hao của xe để xem bạn tốn thêm bao nhiêu ở mỗi cây xăng.
+
+TẤT CẢ LOẠI NHIÊN LIỆU
+Xăng, dầu diesel, LPG, CNG, HVO, LNG và nhiên liệu cao cấp. Chọn bán kính từ 3 đến 50 km và chỉ hiện các cây xăng tự phục vụ nếu bạn muốn.
+
+NƠI BẠN ĐANG Ở HOẶC NƠI BẠN ĐẾN
+Dùng vị trí của bạn hoặc tìm một thị trấn ở Ý, kể cả khi không có internet. Vị trí của bạn ở lại trên điện thoại: chúng tôi không gửi cho ai.
+
+CHẠM MỘT LẦN LÀ ĐI
+Chạm vào một cây xăng và ứng dụng chỉ đường yêu thích của bạn sẽ mở ra.
+
+HOẠT ĐỘNG CẢ KHI NGOẠI TUYẾN
+Ứng dụng giữ bản sao giá gần nhất và dùng khi không có sóng.
+
+16 NGÔN NGỮ
+Hoàn hảo cho du khách lái xe ở Ý.
+
+Lưu ý: giá là giá có hiệu lực lúc 8:00 của ngày hôm trước, do Bộ công bố; giá tại cột bơm có thể khác. Nguồn dữ liệu: MIMIT, Osservaprezzi Carburanti, giấy phép IODL 2.0 (https://www.mimit.gov.it). PienoFuel là ứng dụng độc lập và không liên kết với bất kỳ cơ quan chính phủ nào.
+
+Ứng dụng miễn phí và có quảng cáo. Bạn có thể tắt quảng cáo trong 30 phút bằng cách xem một video, bất cứ khi nào bạn muốn.

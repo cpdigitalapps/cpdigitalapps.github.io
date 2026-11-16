@@ -1,0 +1,32 @@
+TITLE: PienoFuel: Italy Fuel Prices
+SHORT: Official petrol, diesel, LPG and CNG prices in Italy, cheapest station nearby
+FULL:
+PienoFuel finds the fuel station that really saves you money, with official prices for all of Italy.
+
+OFFICIAL PRICES, ALWAYS COMPLETE
+Prices come from the open data of the Italian Ministry of Enterprises and Made in Italy (Osservaprezzi Carburanti): more than 20,000 stations, reported by law by the operators. No invented prices, no reports from strangers.
+
+THE PRICE AT A GLANCE
+Every station shows its price in big numbers right in the list, with distance, self-service or served, and brand. The best choice is highlighted at the top.
+
+THE REAL COST OF YOUR REFUEL
+A station 2 cents cheaper but 15 km away is not a bargain. PienoFuel calculates the real cost: the price of your refuel plus the fuel you burn to get there and back. Set your usual litres and your car's consumption and see how much more you spend at each station.
+
+ALL FUELS
+Petrol, diesel, LPG, CNG, HVO, LNG and premium fuels. Choose a radius from 3 to 50 km and show only self-service stations if you like.
+
+WHERE YOU ARE OR WHERE YOU GO
+Use your location or search an Italian town, even without internet. Your position stays on your phone: we never send it to anyone.
+
+ONE TAP AND GO
+Tap a station and your favourite navigation app opens.
+
+WORKS OFFLINE TOO
+The app keeps the last copy of the prices and uses it when there is no signal.
+
+IN 16 LANGUAGES
+Perfect for travellers driving in Italy.
+
+Note: prices are those in force at 8:00 of the previous day, as published by the Ministry; the price at the pump may differ. Data source: MIMIT, Osservaprezzi Carburanti, licence IODL 2.0 (https://www.mimit.gov.it). PienoFuel is an independent app and is not affiliated with any government body.
+
+The app is free and contains ads. You can remove them for 30 minutes by watching a video, whenever you choose.

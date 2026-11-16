@@ -1,0 +1,32 @@
+TITLE: PienoFuel: İtalya Akaryakıt
+SHORT: İtalya'da resmi benzin, dizel, LPG ve CNG fiyatları, yakındaki en ucuz istasyon
+FULL:
+PienoFuel, tüm İtalya için resmi fiyatlarla sana gerçekten tasarruf ettiren akaryakıt istasyonunu bulur.
+
+RESMİ FİYATLAR, HER ZAMAN EKSİKSİZ
+Fiyatlar, İtalya Girişimler ve Made in Italy Bakanlığı'nın açık verilerinden (Osservaprezzi Carburanti) gelir: işletmecilerin yasa gereği bildirdiği 20.000'den fazla istasyon. Uydurma fiyat yok, yabancıların bildirimi yok.
+
+FİYAT TEK BAKIŞTA
+Her istasyon fiyatını doğrudan listede büyük rakamlarla gösterir; ayrıca mesafe, self servis ya da servisli olması ve marka da yer alır. En iyi seçenek üstte vurgulanır.
+
+DOLUMUN GERÇEK MALİYETİ
+2 sent daha ucuz ama 15 km uzaktaki bir istasyon kelepir değildir. PienoFuel gerçek maliyeti hesaplar: dolumunun fiyatı artı gidiş dönüşte yaktığın yakıt. Alışkın olduğun litreyi ve aracının tüketimini gir, her istasyonda ne kadar fazla harcadığını gör.
+
+TÜM YAKITLAR
+Benzin, dizel, LPG, CNG, HVO, LNG ve premium yakıtlar. 3 ile 50 km arasında bir yarıçap seç, istersen yalnızca self servis istasyonları göster.
+
+NEREDE OLDUĞUN YA DA NEREYE GİTTİĞİN
+Konumunu kullan ya da internet olmadan bile bir İtalyan şehri ara. Konumun telefonunda kalır: kimseye göndermeyiz.
+
+TEK DOKUNUŞ, YOLA ÇIK
+Bir istasyona dokun, en sevdiğin navigasyon uygulaması açılır.
+
+ÇEVRİMDIŞI DA ÇALIŞIR
+Uygulama fiyatların son kopyasını saklar ve sinyal olmadığında kullanır.
+
+16 DİLDE
+İtalya'da araç kullanan gezginler için ideal.
+
+Not: fiyatlar, Bakanlık tarafından yayımlanan, önceki gün saat 8:00'de geçerli olan fiyatlardır; pompadaki fiyat farklı olabilir. Veri kaynağı: MIMIT, Osservaprezzi Carburanti, IODL 2.0 lisansı (https://www.mimit.gov.it). PienoFuel bağımsız bir uygulamadır ve hiçbir devlet kurumuyla bağlantılı değildir.
+
+Uygulama ücretsizdir ve reklam içerir. İstediğin zaman bir video izleyerek reklamları 30 dakika kaldırabilirsin.
