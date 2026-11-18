@@ -1,0 +1,39 @@
+TITLE:
+Costarossa: Retro Yarış Oyunu
+
+SHORT:
+Sahilde piksel art arcade yarış, 30 pist, hafif, çevrimdışı ve ücretsiz
+
+FULL:
+Costarossa ile gün batımına doğru sür: 80'lerin ve 90'ların ruhunu taşıyan bir piksel art arcade yarış oyunu!
+
+Gazı kökle: sahil yolları, palmiyeler, şehir sokakları, yeşil tepeler, çöller ve karlı dağlar seni bekliyor. Manzara tur boyunca değişir, yol yükselir, alçalır ve kıvrılır; yedi rakip de her sıra için sana meydan okur.
+
+30 PİST
+Her pistin kendi virajları, tepeleri ve manzaraları var; gökyüzü gündüz, gün batımı ve şafak olarak değişiyor. Her pistte en iyi süreni geçmeye çalış.
+
+5 OYUN MODU
+- Yarış: sekiz araba, sıralamana göre para ödülü
+- Zamana karşı: altın, gümüş veya bronz madalya için tek başına, kronometreye karşı
+- Eleme: her 25 saniyede son sıradaki araba yarıştan çıkar
+- Kontrol noktası: süre dolmadan kapılara ulaş
+- Düello: bire bir, senin kadar hızlı bir rakibe karşı
+
+10 ARABA VE GERÇEK BİR GARAJ
+Küçük hatchback'ten süper arabaya kadar her aracın kendi azami hızı, ivmesi, yol tutuşu ve nitrosu var. Yarışlarda para kazan, yeni arabalar al, motoru, türbosu, lastikleri ve nitro tankını geliştir, arabanı 15 renkle boya.
+
+RETRO TARZ, SENİN İSTEDİĞİN GİBİ
+Sevdiğin görünümü seç: net pikseller, yumuşak HD, 80'ler televizyonu, 8 bit, yeşil el konsolu, canlı renkler veya siyah beyaz. Synthwave müzik ve arcade sesleri seni bekliyor.
+
+TELEFONUN İÇİN TASARLANDI
+- Hafif ve çevrimdışı: internet olmadan her yerde oyna
+- Butonlarla veya telefonu yatırarak direksiyon çevir
+- Kolay, normal veya zor seviye; 1, 3 veya 5 tur
+- Saniyede 30 veya 60 kare
+- 16 dil
+- Yarış sırasında reklam yok
+
+Costarossa ücretsizdir ve reklamlar yalnızca menülerde ve yarışlar arasında görünür. Video izlemek her zaman senin tercihindir ve yarışın ödülünü ikiye katlar.
+
+RELEASE NOTES:
+İlk sürüm: 30 pist, 5 oyun modu, geliştirmeli 10 araba, 7 grafik stili ve 16 dil.

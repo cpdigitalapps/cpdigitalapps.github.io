@@ -1,0 +1,39 @@
+TITLE:
+Costarossa: Corrida Retro 80
+
+SHORT:
+Corrida arcade pixel art na costa, 30 pistas, leve, offline e grátis
+
+FULL:
+Dirija rumo ao pôr do sol em Costarossa, um jogo de corrida arcade em pixel art direto dos anos 80 e 90!
+
+Acelere por estradas costeiras, entre palmeiras, ruas da cidade, colinas verdes, desertos e montanhas nevadas. O cenário muda durante a volta, a pista sobe, desce e serpenteia, e sete rivais lutam por cada posição.
+
+30 PISTAS
+Cada pista tem suas próprias curvas, subidas e paisagens, com céus de dia, pôr do sol e amanhecer. Bata seu melhor tempo em cada uma.
+
+5 MODOS DE JOGO
+- Corrida: oito carros, prêmio em dinheiro conforme a posição
+- Contra o tempo: você sozinho contra o cronômetro por ouro, prata ou bronze
+- Eliminação: a cada 25 segundos o último carro sai da disputa
+- Checkpoint: chegue aos portões antes que o tempo acabe
+- Duelo: um contra um, contra um rival tão rápido quanto você
+
+10 CARROS E UMA GARAGEM DE VERDADE
+Do pequeno hatch ao supercarro, cada carro tem sua própria velocidade máxima, aceleração, dirigibilidade e nitro. Ganhe dinheiro nas corridas, compre carros novos, melhore motor, turbo, pneus e tanque de nitro, e pinte tudo em 15 cores.
+
+ESTILO RETRÔ, DO SEU JEITO
+Escolha o visual que você preferir: pixels nítidos, HD suave, TV dos anos 80, 8 bits, portátil verde, cores vivas ou preto e branco. Música synthwave e sons de arcade.
+
+FEITO PARA O SEU CELULAR
+- Leve e offline: jogue em qualquer lugar, sem internet
+- Dirija com botões ou inclinando o celular
+- Dificuldade fácil, normal ou difícil, 1, 3 ou 5 voltas
+- 30 ou 60 quadros por segundo
+- 16 idiomas
+- Sem anúncios durante a corrida
+
+Costarossa é grátis e tem anúncios apenas nos menus e entre as corridas. Assistir a um vídeo é sempre opcional e dobra o prêmio da corrida.
+
+RELEASE NOTES:
+Primeira versão: 30 pistas, 5 modos de jogo, 10 carros com melhorias, 7 estilos gráficos e 16 idiomas.

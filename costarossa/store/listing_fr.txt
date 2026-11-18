@@ -1,0 +1,39 @@
+TITLE:
+Costarossa: Course Retro 80
+
+SHORT:
+Course arcade pixel art sur la côte, 30 circuits, léger, hors ligne et gratuit
+
+FULL:
+Roule vers le coucher du soleil dans Costarossa, un jeu de course arcade pixel art tout droit sorti des années 80 et 90 !
+
+Fonce sur les routes côtières, entre les palmiers, dans les rues de la ville, sur les collines vertes, dans les déserts et sur les montagnes enneigées. Le décor change pendant le tour, la route monte, descend et serpente, et sept rivaux se battent pour chaque place.
+
+30 CIRCUITS
+Chaque circuit a ses propres virages, côtes et paysages, avec des ciels de jour, de coucher de soleil et d'aube. Bats ton meilleur temps sur chacun.
+
+5 MODES DE JEU
+- Course : huit voitures, gains d'argent selon ta position
+- Contre la montre : seul face au chrono pour l'or, l'argent ou le bronze
+- Élimination : toutes les 25 secondes, la dernière voiture est éliminée
+- Points de contrôle : atteins les portiques avant la fin du temps
+- Duel : un contre un, face à un rival aussi rapide que toi
+
+10 VOITURES ET UN VRAI GARAGE
+De la petite citadine à la supercar, chaque voiture a sa propre vitesse de pointe, son accélération, sa tenue de route et son nitro. Gagne de l'argent en course, achète de nouvelles voitures, améliore le moteur, le turbo, les pneus et le réservoir de nitro, et peins-les en 15 couleurs.
+
+STYLE RÉTRO, À TA FAÇON
+Choisis le rendu que tu préfères : pixels nets, HD lisse, télé des années 80, 8 bits, console portable verte, couleurs vives ou noir et blanc. Musique synthwave et sons d'arcade.
+
+PENSÉ POUR TON TÉLÉPHONE
+- Léger et hors ligne : joue partout, sans internet
+- Conduis avec des boutons ou en inclinant le téléphone
+- Difficulté facile, normale ou difficile, 1, 3 ou 5 tours
+- 30 ou 60 images par seconde
+- 16 langues
+- Aucune pub pendant la course
+
+Costarossa est gratuit et ne contient des publicités que dans les menus et entre les courses. Regarder une vidéo est toujours facultatif et double le gain de la course.
+
+RELEASE NOTES:
+Première version : 30 circuits, 5 modes de jeu, 10 voitures avec améliorations, 7 styles graphiques et 16 langues.

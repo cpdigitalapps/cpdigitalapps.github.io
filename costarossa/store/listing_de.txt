@@ -1,0 +1,39 @@
+TITLE:
+Costarossa: Retro Rennspiel
+
+SHORT:
+Pixel-Arcade-Rennspiel an der Küste, 30 Strecken, leicht, offline und gratis
+
+FULL:
+Fahr in den Sonnenuntergang mit Costarossa, einem Pixel-Art-Arcade-Rennspiel direkt aus den 80ern und 90ern!
+
+Gib Gas auf Küstenstraßen, vorbei an Palmen, durch Stadtstraßen, über grüne Hügel, durch Wüsten und über verschneite Berge. Die Landschaft wechselt während der Runde, die Straße steigt, fällt und windet sich, und sieben Gegner kämpfen um jeden Platz.
+
+30 STRECKEN
+Jede Strecke hat ihre eigenen Kurven, Hügel und Landschaften, mit Himmel bei Tag, Sonnenuntergang und Morgendämmerung. Schlag auf jeder deine Bestzeit.
+
+5 SPIELMODI
+- Rennen: acht Autos, Preisgeld nach Platzierung
+- Zeitfahren: allein gegen die Uhr um Gold, Silber oder Bronze
+- Ausscheidung: alle 25 Sekunden fliegt das letzte Auto raus
+- Checkpoints: erreiche die Tore, bevor die Zeit abläuft
+- Duell: eins gegen eins, gegen einen Gegner, der so schnell ist wie du
+
+10 AUTOS UND EINE ECHTE GARAGE
+Vom kleinen Kompaktwagen bis zum Supersportwagen hat jedes Auto eigene Höchstgeschwindigkeit, Beschleunigung, Handling und Nitro. Gewinne Geld in Rennen, kauf neue Autos, rüste Motor, Turbo, Reifen und Nitrotank auf und lackiere sie in 15 Farben.
+
+RETRO-STIL, WIE DU ES MAGST
+Wähl den Look, der dir gefällt: scharfe Pixel, weiches HD, 80er-Fernseher, 8-Bit, grüner Handheld, kräftige Farben oder Schwarzweiß. Synthwave-Musik und Arcade-Sounds.
+
+FÜR DEIN HANDY GEMACHT
+- Leicht und offline: spiel überall, ganz ohne Internet
+- Lenke mit Tasten oder durch Neigen des Handys
+- Leicht, normal oder schwer, 1, 3 oder 5 Runden
+- 30 oder 60 Bilder pro Sekunde
+- 16 Sprachen
+- Keine Werbung während des Rennens
+
+Costarossa ist kostenlos und zeigt Werbung nur in den Menüs und zwischen den Rennen. Ein Video anzusehen ist immer freiwillig und verdoppelt das Preisgeld des Rennens.
+
+RELEASE NOTES:
+Erste Version: 30 Strecken, 5 Spielmodi, 10 Autos mit Upgrades, 7 Grafikstile und 16 Sprachen.
