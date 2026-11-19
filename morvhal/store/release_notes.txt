@@ -1,0 +1,51 @@
+<en-US>
+First release of Morvhal: Dark Action RPG. Choose one of 5 dark heroes, break the curse of the Faceless Queen across 11 places, collect legendary loot and face huge bosses. Pits of the Abyss and 7 game modes. Playable offline, in 16 languages.
+</en-US>
+<it-IT>
+Prima versione di Morvhal: GDR d'Azione Dark. Scegli uno dei 5 eroi oscuri, spezza la maledizione della Regina Senza Volto in 11 luoghi, raccogli bottino leggendario e affronta boss enormi. Pozzi dell'Abisso e 7 modalità. Si gioca offline, in 16 lingue.
+</it-IT>
+<es-ES>
+Primera versión de Morvhal. Elige uno de los 5 héroes oscuros, rompe la maldición de la Reina Sin Rostro en 11 lugares, consigue botín legendario y enfréntate a jefes enormes. Pozos del Abismo y 7 modos de juego. Se juega sin conexión, en 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version de Morvhal. Choisis l'un des 5 héros sombres, brise la malédiction de la Reine Sans Visage dans 11 lieux, récolte du butin légendaire et affronte des boss gigantesques. Puits de l'Abîme et 7 modes de jeu. Jouable hors ligne, en 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version von Morvhal. Wähle einen von 5 dunklen Helden, brich den Fluch der Gesichtslosen Königin an 11 Orten, sammle legendäre Beute und stelle dich riesigen Bossen. Gruben des Abgrunds und 7 Spielmodi. Offline spielbar, in 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão de Morvhal. Escolha um dos 5 heróis sombrios, quebre a maldição da Rainha Sem Rosto em 11 lugares, colete saque lendário e enfrente chefes enormes. Poços do Abismo e 7 modos de jogo. Jogue offline, em 16 idiomas.
+</pt-BR>
+<pt-PT>
+Primeira versão de Morvhal. Escolhe um dos 5 heróis sombrios, quebra a maldição da Rainha Sem Rosto em 11 lugares, recolhe saque lendário e enfrenta chefes enormes. Poços do Abismo e 7 modos de jogo. Joga offline, em 16 idiomas.
+</pt-PT>
+<ru-RU>
+Первая версия Morvhal. Выбери одного из 5 тёмных героев, разрушь проклятие Безликой Королевы в 11 локациях, собирай легендарную добычу и сражайся с огромными боссами. Колодцы Бездны и 7 режимов. Играй офлайн, на 16 языках.
+</ru-RU>
+<tr-TR>
+Morvhal'ın ilk sürümü. 5 karanlık kahramandan birini seç, Yüzsüz Kraliçe'nin lanetini 11 bölgede kır, efsanevi ganimet topla ve devasa boss'larla yüzleş. Uçurum Kuyuları ve 7 oyun modu. Çevrimdışı oynanır, 16 dilde.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Morvhal. Wybierz jednego z 5 mrocznych bohaterów, złam klątwę Królowej Bez Twarzy w 11 miejscach, zbieraj legendarne łupy i walcz z ogromnymi bossami. Studnie Otchłani i 7 trybów gry. Gra offline, w 16 językach.
+</pl-PL>
+<nl-NL>
+Eerste versie van Morvhal. Kies een van de 5 duistere helden, verbreek de vloek van de Gezichtloze Koningin op 11 plekken, verzamel legendarische buit en versla reusachtige bazen. Putten van de Afgrond en 7 spelmodi. Offline te spelen, in 16 talen.
+</nl-NL>
+<uk>
+Перша версія Morvhal. Обери одного з 5 темних героїв, зламай прокляття Безликої Королеви в 11 локаціях, збирай легендарну здобич і бийся з величезними босами. Колодязі Безодні та 7 режимів. Гра офлайн, 16 мовами.
+</uk>
+<id>
+Rilis pertama Morvhal. Pilih satu dari 5 pahlawan gelap, patahkan kutukan Ratu Tanpa Wajah di 11 tempat, kumpulkan jarahan legendaris, dan hadapi bos raksasa. Sumur Jurang dan 7 mode permainan. Bisa dimainkan offline, dalam 16 bahasa.
+</id>
+<vi>
+Phiên bản đầu tiên của Morvhal. Chọn một trong 5 anh hùng bóng tối, phá lời nguyền của Nữ Hoàng Không Mặt qua 11 địa điểm, thu thập chiến lợi phẩm huyền thoại và đối đầu những con trùm khổng lồ. Giếng Vực Thẳm và 7 chế độ chơi. Chơi offline, 16 ngôn ngữ.
+</vi>
+<ja-JP>
+Morvhal最初のバージョン。5人のダークヒーローから1人を選び、11のエリアで顔なき女王の呪いを打ち破ろう。伝説の装備を集め、巨大ボスに挑め。深淵の竪穴と7つのモード。オフライン対応、16言語。
+</ja-JP>
+<ko-KR>
+Morvhal 첫 버전. 5명의 어둠의 영웅 중 하나를 골라 11개 지역에서 얼굴 없는 여왕의 저주를 깨고, 전설 장비를 모으며 거대 보스에 맞서세요. 심연의 구덩이와 7가지 모드. 오프라인 플레이, 16개 언어.
+</ko-KR>
+<zh-CN>
+Morvhal 首个版本。从5位暗黑英雄中选择一位，在11个地点打破无面女王的诅咒，收集传奇装备，挑战巨型首领。深渊之井与7种游戏模式。可离线游玩，支持16种语言。
+</zh-CN>
