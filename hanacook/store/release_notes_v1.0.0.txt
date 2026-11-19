@@ -1,0 +1,48 @@
+<en-US>
+First release of Hanacook: cook 48 recipes from 8 world kitchens with Hana and Miso, 10 finger gestures, medals and stars, dish album, 16 languages. Free and offline.
+</en-US>
+<it-IT>
+Prima versione di Hanacook: cucina 48 ricette di 8 cucine del mondo con Hana e Miso, 10 gesti con le dita, medaglie e stelle, album dei piatti, 16 lingue. Gratis e offline.
+</it-IT>
+<es-ES>
+Primera versión de Hanacook: cocina 48 recetas de 8 cocinas del mundo con Hana y Miso, 10 gestos con los dedos, medallas y estrellas, álbum de platos, 16 idiomas. Gratis y sin conexión.
+</es-ES>
+<fr-FR>
+Première version de Hanacook : cuisine 48 recettes de 8 cuisines du monde avec Hana et Miso, 10 gestes du doigt, médailles et étoiles, album des plats, 16 langues. Gratuit et hors ligne.
+</fr-FR>
+<de-DE>
+Erste Version von Hanacook: Koche 48 Rezepte aus 8 Küchen der Welt mit Hana und Miso, 10 Fingergesten, Medaillen und Sterne, Gerichte-Album, 16 Sprachen. Kostenlos und offline.
+</de-DE>
+<pt-BR>
+Primeira versão de Hanacook: cozinhe 48 receitas de 8 cozinhas do mundo com Hana e Miso, 10 gestos com os dedos, medalhas e estrelas, álbum de pratos, 16 idiomas. Grátis e offline.
+</pt-BR>
+<ru-RU>
+Первая версия Hanacook: готовьте 48 рецептов 8 кухонь мира вместе с Ханой и Мисо, 10 жестов пальцем, медали и звёзды, альбом блюд, 16 языков. Бесплатно и без интернета.
+</ru-RU>
+<tr-TR>
+Hanacook'un ilk sürümü: Hana ve Miso ile 8 dünya mutfağından 48 tarif pişir, 10 parmak hareketi, madalyalar ve yıldızlar, yemek albümü, 16 dil. Ücretsiz ve çevrimdışı.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Hanacook: gotuj 48 przepisów z 8 kuchni świata z Haną i Miso, 10 gestów palcem, medale i gwiazdki, album dań, 16 języków. Za darmo i offline.
+</pl-PL>
+<nl-NL>
+Eerste versie van Hanacook: kook 48 recepten uit 8 keukens van de wereld met Hana en Miso, 10 vingerbewegingen, medailles en sterren, gerechtenalbum, 16 talen. Gratis en offline.
+</nl-NL>
+<uk>
+Перша версія Hanacook: готуйте 48 рецептів 8 кухонь світу разом із Ханою та Місо, 10 жестів пальцем, медалі й зірки, альбом страв, 16 мов. Безкоштовно та без інтернету.
+</uk>
+<id>
+Versi pertama Hanacook: masak 48 resep dari 8 dapur dunia bersama Hana dan Miso, 10 gerakan jari, medali dan bintang, album hidangan, 16 bahasa. Gratis dan offline.
+</id>
+<vi>
+Phiên bản đầu tiên của Hanacook: nấu 48 công thức từ 8 nền ẩm thực thế giới cùng Hana và Miso, 10 thao tác ngón tay, huy chương và ngôi sao, album món ăn, 16 ngôn ngữ. Miễn phí và ngoại tuyến.
+</vi>
+<ja-JP>
+Hanacook最初のバージョン：ハナとミソと一緒に世界8か国の料理48レシピを作ろう。指で10種類の操作、メダルと星、料理アルバム、16言語。無料・オフライン。
+</ja-JP>
+<ko-KR>
+Hanacook 첫 버전: 하나와 미소와 함께 세계 8개 요리 48가지 레시피, 손가락 동작 10가지, 메달과 별, 요리 앨범, 16개 언어. 무료, 오프라인.
+</ko-KR>
+<zh-CN>
+Hanacook 首个版本：和花与味噌一起烹饪来自世界8种料理的48道菜谱，10种手指操作，奖牌和星星，菜品相册，16种语言。免费，可离线游玩。
+</zh-CN>
