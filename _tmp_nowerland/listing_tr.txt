@@ -1,0 +1,46 @@
+TITLE (max 30)
+Nowerland: Alice'in Macerası
+
+SHORT DESCRIPTION (max 80)
+Alice'in rüyasında 3D hikâye macerası: bulmaca, ses, çevrimdışı, enerjisiz
+
+FULL DESCRIPTION (max 4000)
+Beyaz Tavşan'ın peşinden deliğe atla ve anlatılmış en tuhaf rüyanın içine adım at.
+
+Nowerland, Lewis Carroll'ın klasik hikâyesini bölüm bölüm izleyen bir 3D macera oyunu. Kitaptaki her yeri keşfet, ünlü karakterlerle konuş ve boyunu değiştirerek bulmacaları çöz: bir kedi kapağından süzülecek kadar minik, ağaçların tepesinden bakacak kadar uzun.
+
+KİTAPTAN ON BİR BÖLÜM
+Nehir kıyısı ve tavşan deliğinden uzun düşüş, küçük altın anahtarlı kapılar salonu, Gözyaşı Gölü ve Kurultay Yarışı, ikizler Tweedledum ve Tweedledee, Beyaz Tavşan'ın evi, mantarın üstündeki Tırtıl, Düşes'in biberli mutfağı ve sırıtan Cheshire Kedisi, çılgın çay partisi, Kupa Kraliçesi'nin flamingolu ve kirpili kroket oyunu, deniz kıyısında Istakoz Kadrili ve çalınan turtaların davası.
+
+BÜYÜ VE KÜÇÜL
+Şişeden içmek, küçük pastayı yemek, mantarın iki yanından ısırmak senin elinde. Her yerde yalnızca minik ya da dev bir Alice'in ulaşabileceği yollar ve nesneler var.
+
+ASLA TAKILMAZSIN
+Hedefin her zaman ekranda. Yardıma ihtiyacın olursa ipucu düğmesi sana üç seviyede ipucu verir: küçük bir işaretten kesin çözüme kadar.
+
+16 DİLDE TAM SESLENDİRME
+Her karakter konuşuyor; diyaloglar kitaptan alındı.
+
+İSKAMBİL KARTLARI KİTABI
+Bölümlere 52 iskambil kartı gizlendi. Bir bölümün tüm kartlarını bulursan Kitap'tan bir sayfa açılır: John Tenniel'in özgün çizimleri ve hikâyeden ünlü bir cümle seni bekler.
+
+OYNAMANIN DAHA FAZLA YOLU
+- Otomatik kayıtlı Hikâye modu
+- Zamana Karşı: her bölümü olabildiğince hızlı bitir
+- Saat Avı: her yere saklanmış altın cep saatlerini bul
+- Serbest gezinti: bulmaca olmadan dilediğin gibi dolaş ve fotoğraf çek
+
+TELEFONUN İÇİN YAPILDI
+- Kolay dokunmatik kontroller: joystick'le yürü ya da gitmek istediğin yere dokun
+- Her telefona uygun grafik seçenekleri
+- Çevrimdışı çalışır: internet gerekmez
+- Enerji yok, süre yok, can yok: istediğin kadar oyna
+
+Ücretsiz, reklamlı. Reklamlar yalnızca ana menüde ve bazı bölümlerin arasında görünür, oynarken asla. İstersen isteğe bağlı bir video reklam izleyip hemen ipucu alabilirsin.
+
+Karakter sesleri bilgisayarla üretilmiş sentetik seslerdir.
+
+Nowerland, Lewis Carroll'ın kamu malı kitaplarından esinlenen bağımsız bir oyundur. Hiçbir film ya da başka bir uyarlamayla bağlantısı yoktur.
+
+RELEASE NOTES (max 500)
+Nowerland'in ilk sürümü: hikâyenin 11 bölümü, 16 dilde tam seslendirme, 52 gizli iskambil kartı ve resimli Kitap; Zamana Karşı, Saat Avı ve Serbest gezinti modları.
