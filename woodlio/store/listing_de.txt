@@ -1,0 +1,36 @@
+TITLE:
+Woodlio: Holzblock-Puzzle
+
+SHORT:
+Entspannendes Holzblock-Puzzle: Blätter sammeln, Zuhause einrichten, offline
+
+FULL:
+Woodlio ist ein ruhiges, gemütliches Holzblock-Puzzle. Ziehe die Holzteile aufs Spielfeld, fülle eine Reihe oder Spalte, um sie zu leeren, und sammle alle Blätter, um das Level zu gewinnen. Jeder Sieg bringt Sterne, und mit den Sternen richtest du dein eigenes Zuhause ein, Zimmer für Zimmer.
+
+500 LEVEL
+Kurze, befriedigende Level, deren Anspruch langsam wächst. Alle 50 Level kommen neue Holzfarben und neue Spielfelder dazu, damit sich das Spiel immer frisch anfühlt. Ein freundlicher Roboter hat jedes Level getestet: keine unlösbaren Rätsel.
+
+RICHTE 10 ZIMMER EIN
+Starte mit einem Wohnzimmer am Meer und geh weiter zur Berghütte, zum Stadt-Loft, zum Haus am See, zur verschneiten Hütte, zum Dachboden unter den Sternen und zum Bungalow auf der Insel. Jedes Zimmer hat 12 Objekte: Boden, Tapete, Vorhänge, Sofa, Lampe, Pflanzen, Bücherregal, Uhr und ein schläfriges Kätzchen in seinem Körbchen. Tippe auf ein Objekt, um den Stil zu wechseln (3 Stile pro Objekt), kostenlos.
+
+MEHR SPIELMODI
+- Endlos: spiele, solange noch Platz ist, und schlage deinen Rekord.
+- Zeitrausch: sammle in 90 Sekunden so viele Punkte wie möglich.
+- Tägliche Herausforderung: jeden Tag ein neues Spezial-Level.
+- Minispiele: Blätter fangen und Holz-Memory.
+- Tägliches Geschenk: jeden Tag kostenlose Sterne.
+
+ZUM ENTSPANNEN GEMACHT
+- Keine Leben, kein Zeitlimit in den Leveln, kein Druck.
+- Läuft komplett offline.
+- Schont Handy und Akku.
+- 5 entspannende Musikstücke, extra für das Spiel komponiert: wähle deinen Favoriten oder schalte die Musik in den Optionen aus.
+- In 16 Sprachen verfügbar.
+
+FAIRE WERBUNG
+Woodlio ist kostenlos und zeigt wenig Werbung: ein Banner nur auf dem Zuhause-Bildschirm und kurze Pausen zwischen den Leveln (nie in deinen ersten Spielen und nie während du spielst). Videos sind immer deine Entscheidung, mit einem klaren Button „Werbung ansehen“, und geben echte Belohnungen wie Extra-Sterne oder neue Teile.
+
+Entspann dich, denk nach, leere das Feld und baue dir mit Woodlio das Zuhause deiner Träume!
+
+RELEASE NOTES:
+Erste Version von Woodlio: 500 Level, 10 Zimmer zum Einrichten, Endlos, Zeitrausch, tägliche Herausforderung, zwei Minispiele und entspannende Musik.

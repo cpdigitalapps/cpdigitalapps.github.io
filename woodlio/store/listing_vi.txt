@@ -1,0 +1,36 @@
+TITLE:
+Woodlio: Xếp Khối Gỗ
+
+SHORT:
+Xếp khối gỗ thư giãn: thu thập lá và trang trí ngôi nhà, chơi offline
+
+FULL:
+Woodlio là trò xếp khối gỗ nhẹ nhàng và ấm cúng. Kéo các mảnh gỗ vào bàn chơi, lấp đầy một hàng hoặc một cột để xóa nó, rồi thu thập hết lá để thắng màn. Mỗi lần thắng bạn nhận được sao, và dùng sao để trang trí ngôi nhà của riêng mình, từng phòng một.
+
+500 MÀN CHƠI
+Các màn ngắn, dễ chịu, độ khó tăng dần từ từ. Cứ 50 màn lại có màu gỗ và bàn chơi mới, nên trò chơi luôn tươi mới. Một chú robot thân thiện đã thử mọi màn: không có câu đố bất khả thi.
+
+TRANG TRÍ 10 PHÒNG
+Bắt đầu với phòng khách bên bờ biển, rồi đến nhà gỗ trên núi, căn loft giữa phố, nhà bên hồ, nhà nghỉ trong tuyết, gác mái dưới bầu trời sao và căn bungalow trên đảo. Mỗi phòng có 12 món đồ: sàn nhà, giấy dán tường, rèm cửa, ghế sofa, đèn, cây cảnh, giá sách, đồng hồ và một chú mèo con buồn ngủ trong chiếc ổ của nó. Chạm vào bất kỳ món đồ nào để đổi kiểu dáng, hoàn toàn miễn phí.
+
+THÊM CÁCH CHƠI
+- Vô tận: chơi chừng nào còn chỗ và phá kỷ lục của bạn.
+- Đua thời gian: ghi nhiều điểm nhất có thể trong 90 giây.
+- Thử thách mỗi ngày: mỗi ngày một màn đặc biệt mới.
+- Trò chơi nhỏ: Bắt lá và Trí nhớ gỗ.
+- Quà mỗi ngày: sao miễn phí mỗi ngày.
+
+SINH RA ĐỂ THƯ GIÃN
+- Không có mạng sống, không đếm giờ trong màn, không áp lực.
+- Chơi hoàn toàn offline.
+- Nhẹ cho điện thoại và pin.
+- 5 bản nhạc thư giãn được sáng tác riêng cho trò chơi: chọn bài bạn thích hoặc tắt nhạc trong Tùy chọn.
+- Có 16 ngôn ngữ.
+
+QUẢNG CÁO CÔNG BẰNG
+Woodlio miễn phí và chỉ hiển thị ít quảng cáo: một banner chỉ ở màn hình nhà, và những quãng nghỉ ngắn giữa các màn (không bao giờ trong những ván đầu và không bao giờ khi đang chơi). Video luôn do bạn chọn, với nút "Xem quảng cáo" rõ ràng, và mang lại phần thưởng thật như thêm sao hoặc mảnh mới.
+
+Thư giãn, suy nghĩ, dọn sạch bàn chơi và xây ngôi nhà mơ ước cùng Woodlio!
+
+RELEASE NOTES:
+Phiên bản đầu tiên của Woodlio: 500 màn, 10 phòng để trang trí, Vô tận, Đua thời gian, Thử thách mỗi ngày, hai trò chơi nhỏ và nhạc thư giãn.
