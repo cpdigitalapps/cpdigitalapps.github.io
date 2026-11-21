@@ -2,7 +2,7 @@ TITLE:
 Woodlio: Wood Block Puzzle
 
 SHORT:
-Relaxing wood block puzzle: clear the leaves and decorate your cozy home, offline
+Relaxing wood block puzzle: clear leaves and decorate your cozy home, offline
 
 FULL:
 Woodlio is a calm and cozy wood block puzzle. Drag the wooden pieces onto the board, fill a row or a column to clear it, and collect every leaf to win the level. Each win gives you stars, and with the stars you decorate your own home, room after room.
