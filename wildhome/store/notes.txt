@@ -1,0 +1,48 @@
+<en-US>
+First release of Wildhome: farm, animals, mines, helpers, story chapters, new lands, day and night, seasons and weather.
+</en-US>
+<it-IT>
+Prima versione di Wildhome: fattoria, animali, miniere, aiutanti, storia a capitoli, nuove terre, giorno e notte, stagioni e meteo.
+</it-IT>
+<es-ES>
+Primera versión de Wildhome: granja, animales, minas, ayudantes, historia por capítulos, nuevas tierras, día y noche, estaciones y clima.
+</es-ES>
+<fr-FR>
+Première version de Wildhome : ferme, animaux, mines, aides, histoire en chapitres, nouvelles terres, jour et nuit, saisons et météo.
+</fr-FR>
+<de-DE>
+Erste Version von Wildhome: Farm, Tiere, Minen, Helfer, Geschichte in Kapiteln, neue Länder, Tag und Nacht, Jahreszeiten und Wetter.
+</de-DE>
+<pt-BR>
+Primeira versão de Wildhome: fazenda, animais, minas, ajudantes, história em capítulos, novas terras, dia e noite, estações e clima.
+</pt-BR>
+<ru-RU>
+Первая версия Wildhome: ферма, животные, шахты, помощники, история в главах, новые земли, день и ночь, времена года и погода.
+</ru-RU>
+<tr-TR>
+Wildhome'un ilk sürümü: çiftlik, hayvanlar, madenler, yardımcılar, bölüm bölüm hikâye, yeni topraklar, gece ve gündüz, mevsimler ve hava durumu.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Wildhome: farma, zwierzęta, kopalnie, pomocnicy, historia w rozdziałach, nowe krainy, dzień i noc, pory roku i pogoda.
+</pl-PL>
+<nl-NL>
+Eerste versie van Wildhome: boerderij, dieren, mijnen, helpers, verhaal in hoofdstukken, nieuwe landen, dag en nacht, seizoenen en weer.
+</nl-NL>
+<uk>
+Перша версія Wildhome: ферма, тварини, шахти, помічники, історія в розділах, нові землі, день і ніч, пори року й погода.
+</uk>
+<id>
+Versi pertama Wildhome: peternakan, hewan, tambang, pembantu, cerita berbab, tanah baru, siang dan malam, musim, dan cuaca.
+</id>
+<vi>
+Phiên bản đầu tiên của Wildhome: nông trại, vật nuôi, mỏ, người giúp, câu chuyện theo chương, vùng đất mới, ngày và đêm, các mùa và thời tiết.
+</vi>
+<ja-JP>
+Wildhome最初のバージョン：農場、動物、鉱山、助っ人、章ごとの物語、新しい土地、昼と夜、四季と天気。
+</ja-JP>
+<ko-KR>
+Wildhome 첫 버전: 농장, 동물, 광산, 도우미, 장별 이야기, 새로운 땅, 낮과 밤, 사계절과 날씨.
+</ko-KR>
+<zh-CN>
+Wildhome 首个版本：农场、动物、矿山、帮手、章节故事、新土地、昼夜交替、四季和天气。
+</zh-CN>

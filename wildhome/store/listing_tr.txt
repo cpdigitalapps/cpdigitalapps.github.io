@@ -1,0 +1,35 @@
+TITLE:
+Wildhome: Öncü Çiftliği 3D
+
+SHORT:
+3D öncü çiftliğini kur: tarlalar, hayvanlar, madenler ve keşfedilecek bir vadi
+
+FULL:
+Wildhome, vahşi sınırda geçen huzurlu bir 3D çiftlik oyunudur. Bir çadır ve bir baltayla sakin bir vadiye gelirsin: araziyi temizle, ilk tarlalarını ek ve doğayı hareketli bir öncü köyüne dönüştür.
+
+EK VE HASAT ET
+Ağaç kes, kaya kır, böğürtlen topla ve toprağı sür. Buğday, mısır, balkabağı, havuç, ayçiçeği ve gül yetiştir. Öncün kendi gider: dokun, o da işleri sırayla yapar.
+
+HAYVANLAR VE BİNALAR
+Tavuk, ördek, lama, inek, koyun ve at besle. Kütük kulübe, yel değirmeni, fırın, dokuma tezgâhı, kuyu ve ambar kur; un, ekmek ve kumaş üret.
+
+MADENLER VE DEĞERLİ TAŞLAR
+Kömür, demir ve altın madenleri, sonra yakut, zümrüt ve elmas madenleri aç. Senin yerine madenlerde çalışan yardımcılar tut.
+
+CANLI BİR VADİ
+Gece ve gündüz, mevsimler, yağmur, kar ve sis kümeleri. Geceyi sokak lambalarıyla aydınlat, çiçekler, patikalar ve heykellerle süsle, geyik, tilki ve tavşanlarla karşılaş, komşularının siparişlerini tamamla.
+
+DAHA FAZLASI
+- Sevimli köylülerle bölüm bölüm bir hikâye
+- Açılacak yeni topraklar, istediğin zaman geri dönebilirsin
+- Günlük görevler, ödüller, koleksiyonlar ve pazar
+- Öncünü yarat: beden, ten, saç ve kıyafet
+- Mola vermek istediğinde 15 dakikalık otomatik pilot (reklam izleyerek)
+
+ADİL VE RAHATLATICI
+Can yok, uzun bekleme yok. Çevrimdışı oynanır. Reklamlar sadece menüde ve doğal aralarda çıkar, ilk dakikalarda asla. Videolar her zaman senin seçimin, düğmelerde "Reklam izle" yazar. Country müzik, 16 dil.
+
+Vahşi yuvanı bugün kur!
+
+RELEASE NOTES:
+Wildhome'un ilk sürümü: çiftlik, hayvanlar, madenler, yardımcılar, bölüm bölüm hikâye, yeni topraklar, gece ve gündüz, mevsimler ve hava durumu.

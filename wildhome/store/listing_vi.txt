@@ -1,0 +1,35 @@
+TITLE:
+Wildhome: Nông Trại Tiên Phong
+
+SHORT:
+Xây nông trại tiên phong 3D: ruộng, vật nuôi, mỏ và cả một thung lũng
+
+FULL:
+Wildhome là trò chơi nông trại 3D thư giãn nơi miền biên cương hoang dã. Bạn đến một thung lũng yên bình với chiếc lều và cây rìu: dọn đất, gieo những thửa ruộng đầu tiên và biến thiên nhiên hoang dã thành một ngôi làng tiên phong nhộn nhịp.
+
+TRỒNG TRỌT VÀ THU HOẠCH
+Chặt cây, đập đá, hái quả mọng và cày đất. Trồng lúa mì, ngô, bí ngô, cà rốt, hoa hướng dương và hoa hồng. Nhân vật tự đi tới: chỉ cần chạm, cô ấy sẽ làm lần lượt từng việc.
+
+VẬT NUÔI VÀ CÔNG TRÌNH
+Nuôi gà, vịt, lạc đà không bướu, bò, cừu và ngựa. Xây nhà gỗ, cối xay gió, lò bánh, khung dệt, giếng và kho thóc, làm bột, bánh mì và vải.
+
+MỎ VÀ ĐÁ QUÝ
+Mở mỏ than, sắt và vàng, rồi mỏ hồng ngọc, ngọc lục bảo và kim cương. Thuê người giúp làm việc trong mỏ thay bạn.
+
+THUNG LŨNG SỐNG ĐỘNG
+Ngày và đêm, các mùa, mưa, tuyết và những dải sương mù. Thắp sáng đêm bằng đèn đường, trang trí bằng hoa, lối đi và tượng, gặp hươu, cáo và thỏ, hoàn thành đơn hàng của hàng xóm.
+
+VÀ CÒN NỮA
+- Câu chuyện theo chương với dân làng thân thiện
+- Vùng đất mới để mở khóa, và luôn có thể quay lại
+- Nhiệm vụ hằng ngày, phần thưởng, bộ sưu tập và chợ
+- Tạo nhân vật: dáng người, làn da, tóc và quần áo
+- Tự động chơi 15 phút khi bạn muốn nghỉ (bằng cách xem quảng cáo)
+
+CÔNG BẰNG VÀ THƯ GIÃN
+Không có mạng sống, không phải chờ lâu. Chơi ngoại tuyến. Quảng cáo chỉ xuất hiện trong menu và lúc nghỉ tự nhiên, không bao giờ trong những phút đầu. Video luôn do bạn chọn, với nút ghi "Xem quảng cáo". Nhạc đồng quê, 16 ngôn ngữ.
+
+Hãy xây ngôi nhà hoang dã của bạn ngay hôm nay!
+
+RELEASE NOTES:
+Phiên bản đầu tiên của Wildhome: nông trại, vật nuôi, mỏ, người giúp, câu chuyện theo chương, vùng đất mới, ngày và đêm, các mùa và thời tiết.
