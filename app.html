@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CP Digital – Tutte le app e i giochi</title>
+<meta name="description" content="Tutti i giochi e le app di CP Digital per Android, gratis su Google Play.">
+<meta property="og:title" content="CP Digital – Tutte le app e i giochi">
+<meta property="og:description" content="Giochi e app per Android, gratis su Google Play.">
+<meta name="theme-color" content="#1b1f3b">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<style>
+:root{--bg:#0f1226;--card:#1b1f3b;--card2:#242a52;--txt:#f2f3fb;--mut:#a8adcf;--acc:#3ddc84;--acc2:#6c8cff}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:radial-gradient(1200px 600px at 50% -200px,#2c3478 0,var(--bg) 70%) fixed;color:var(--txt)}
+header{text-align:center;padding:48px 16px 24px}
+header img{width:64px;height:64px}
+h1{margin:12px 0 6px;font-size:clamp(26px,6vw,40px)}
+header p{margin:0;color:var(--mut);font-size:17px}
+.all{display:inline-block;margin-top:18px;padding:12px 22px;border-radius:999px;background:var(--acc);color:#08210f;font-weight:700;text-decoration:none}
+nav{position:sticky;top:0;z-index:5;display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:12px 16px;background:rgba(15,18,38,.85);backdrop-filter:blur(8px)}
+nav button{border:1px solid #3a4180;background:transparent;color:var(--txt);padding:8px 16px;border-radius:999px;font-size:15px;cursor:pointer}
+nav button.on{background:var(--acc2);border-color:var(--acc2)}
+main{max-width:1100px;margin:0 auto;padding:16px}
+h2{margin:28px 4px 14px;font-size:22px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+a.app{display:flex;flex-direction:column;align-items:center;text-align:center;gap:10px;padding:18px 12px;border-radius:18px;background:var(--card);color:var(--txt);text-decoration:none;transition:transform .15s,background .15s}
+a.app:hover{transform:translateY(-4px);background:var(--card2)}
+a.app img{width:84px;height:84px;border-radius:20px;box-shadow:0 6px 18px rgba(0,0,0,.4)}
+.n{font-weight:700;font-size:16px}
+.d{color:var(--mut);font-size:13px;line-height:1.3}
+.get{margin-top:auto;font-size:13px;font-weight:700;color:var(--acc)}
+footer{text-align:center;color:var(--mut);font-size:14px;padding:40px 16px}
+footer a{color:var(--mut)}
+@media(max-width:420px){.grid{grid-template-columns:repeat(2,1fr)}a.app img{width:72px;height:72px}}
+</style>
+</head>
+<body>
+<header>
+<img src="assets/logo.svg" alt="">
+<h1>CP Digital</h1>
+<p>Giochi e app per Android, gratis su Google Play</p>
+<a class="all" href="https://play.google.com/store/apps/developer?id=CpDigital">Apri tutto su Google Play</a>
+</header>
+<nav>
+<button data-f="all" class="on">Tutto</button>
+<button data-f="g">Giochi</button>
+<button data-f="k">Per bambini</button>
+<button data-f="a">App</button>
+</nav>
+<main id="main"></main>
+<footer>Tocca un'icona per installarla da Google Play.<br><a href="index.html">cpdigitalapps.github.io</a> · <a href="privacy.html">Privacy</a></footer>
+<script>
+const I='https://play-lh.googleusercontent.com/';
+// [pacchetto, nome, descrizione, tipo (g=gioco, k=bambini, a=app), icona]
+const L=[
+['mythbound','Myth Bound','Gioco di ruolo epico','g','Igicg7MGOBAtMEXZjoZdM0MLK5cqN4JKtE5pivT3YsWm0VBOtqqo_0zITxFhZyy8dSECLxgWeB7vMox_aqkk'],
+['legendarymythologies','Legendary Mythologies','Avventura mitologica 3D','g','IPbNIvDJ8uTMx-KNOQ9LBQAd_F9Zvmm8O3lowUrEP_Fnc-SW0Pnpw0ldnPhpwwaoaP2MZ1h3yhUT8QsiLgdwDA'],
+['nowerland','Nowerland','Avventura di Alice','g','U1sVq3yx4eWP8hWmfHO-t9_URk-0YS8rZCZuJWFD9YMfpFKx0JPlBizN8dRILH_7VtiDg0M7rPE96OrHJoRmO5E'],
+['geniano','Geniano','Avventura dal libro di Collodi','g','HZwwVMAjWizM62KrR9mVBXzN3QBdsrNzHH_avM_8V6wEmX4LJ17SMb8OBDtvUovIHzgC1pnhEKOk7OvTF6mcucM'],
+['wardzero','Ward Zero','Sparatutto zombie 3D','g','zX5Uw907xIwkR5M-6zYEpg7Fl22ohpwRRDOd9wHw27Z5KfSZsIvKdlz0rP6rPxVAO75ip6Y5J_Vzmm-r8wXVoA'],
+['endworlddawn','Endworld Dawn','Sopravvivenza horror','g','Omw0uCfZkNI3SFAPZBQp5cTbiEk5A1U20EWuHqMxxFXvM1h7_cVmOhrqdpBudUWoWD0GiSwkVAe1U3_fGqoQan8'],
+['kalvoreth','Kalvoreth','Vendetta contro gli zombie','g','0maL2YTh6qj2eEUBJioUQzd_CeAI947qWCzfXHnhEZOXahyMrdnzkcxrashYZqc98amqx16NudCrRBN6Y0swqA'],
+['zombrath','Zombrath','Sparatutto zombie offline','g','NJES_lRDScuUOfcqoZBPlb1vOmA-Iu7aOwK3-ktZy_dpkPSWSRib1ciLDcibRthMhLabQcwTrQluZXVz-ApX'],
+['ceneridestino','Ceneri del Destino','Picchiaduro 3D','g','JufFKcwdIwe73PHttWVKCFtuEI8dlV3-vJwcCSPQ9bFjZm3nAD7wKqAR7mqPDZ7pAF_6JMdz_uYJSq_hxeQf0oA'],
+['kickoffsuperhit','Kickoff Super Hit','Calcio 3D','g','N7HD6Pm4CMWowA4usD3YmPWvhES_LicFHUiEt1PFnRAJMG5tDB4zBbwOoPObL6_9nPWl5grulNzh8iEGWJZWoj8'],
+['neonovertake','Neon Overtake','Corse in autostrada','g','y0eN_lZEBTtoQszJnNLmUEH0ja4lT-aW6_W8GUGo6jBGmJwdyjtN0em5P7fVCgnFYH3nliavdKw5VgtxW4oBcg'],
+['costarossa','Costarossa','Corse retro anni 80','g','41VmPI7iJXtO1R7GLEVg-sQiIULC3kRvQGSK9gSvuLpc6eOx36ZpZ0QqAiwBjGcpCYwMpUqwYhqKoQjF51BHlw'],
+['rustyhills','Rusty Hills','Corse in salita','g','zSt2xvuhWs_VXU9JlAKhWX5eB3ro0VRmuZy9x5NiVkZo-pqg6cIWO3odpK89PJCmVZPdba9_EN2BZPskIxj-'],
+['ruinrush','Ruin Rush','Corsa nella giungla','g','9DEql6TViN0UpLoCPrpMPTS29F46ERb-ahuYbPzMf3L2hRScFGhol-US_xUhjaj6SpRPYBGBHCFf9jh4LirEggo'],
+['runevoro','Runevoro','Corsa infinita 3D','g','sahSk0Ebqzs42PZCINvxef8QvCqiesQyuIc46HUGuod20zXICin5jryXwL30CkaLtIH3-2zaHbbDI42zcwlLlN0'],
+['sprintercityman','Sprinter City Man','Corsa in città 3D','g','NPME9Vr-9wSR76kDoRzrJDB8RLPihuphcG8OuEYObjfpWlE2X1Px5fuCPsuWdpNYfY6B9Y5iL_ZKJ0WGPo16fa8'],
+['fenno','Fenno','Platform con una volpe','g','V_7CvmaxCHIdSJYfhZ-JmAZhyVkwNsb4qeRR3IFUvLr_De71Cfnt1ybZvHv9ZnZkbPmKGb3BCnZehJi_Q179'],
+['zampolo','Zampolo','Avventura nel bosco','g','ZZlUEzGD0BUaLBNzcTI-mg7lHsY_WXit50634Kt6xV_HaLayYqb_QCd_0wHTUmPG5__JbSF1qZ8flr2reCpymg'],
+['valorhold','Valorhold','Difesa con eroi','g','cDdIYzUfnedVCh1ciaFmWzzj5TopNXM4vgKLYv2Zc4YWh8YMuKHorH6i4bXPZGYG1x9zeYf2t5s0NJRwC8E3'],
+['wallkeep','Wallkeep','Difesa del castello','g','okODxa6QXdwg2QP4a9P8-GnHCV96Ns-fiQvPRbanWHbrb-Q-lbMde3r4km8NIjvZ-moVZbFa3t8Zixo_sywC'],
+['vaelcore','Vaelcore','Difesa del nucleo','g','s86MAhnNyOp2NaI_NWUMwNlRlUq3cp43xWIk3mAuZazPhlaqeQD6M7iF21HBvyL60gxyq0JTMsdcXOy9Qrh7PA'],
+['brontak','Brontak','Robot contro i mostri','g','vkGJkX5RP8fSgM4K0GDD992mxkJC5ew9Hd6s4DT29DnfEqfJXG1OpOj2JflvQziFpDF2KbTtEZDHb4bOBfnE'],
+['tizzorn','Tizzorn','Gioco di ruolo idle','g','ftmqQrCiaAvOkRbiJkHy0F-hbCl6JjuAAJPdWmIcza7UDSoYkOGAGKqLa6h8V6dtDjBZbCweRuKXYIa5m5iT'],
+['sorelune','Sorelune','Gioco di ruolo a carte','g','T3a2N8yaZVe1soRg3x5r-lChkNY13IcaDdAWq7bbplCJpzj2-MTIVtynaLFyhfW8OWOkF3urIHI8biHCEnBgTQ'],
+['solenne','Cronache di Solenne','Gioco di ruolo','g','gHmY0jlQkFFlJQIWu4tEnY3sLEZ2GBNWp6O18vRRJ5NgwUi1AGiYQKn2VqRhrxq5TYePOfNbkXtJjRKd0JBzs00'],
+['ancientwoods','Ancient Woods','Villaggio nella foresta','g','QjBMrtsHyEQFOJVtxdMStaz0ftus5VGu38lVXRMLEuWfooKrCyViBNZH30sPdg5ppic__VZ4nYaNa7jeZTAE'],
+['pizzambo','Pizzambo','Gestisci la pizzeria','g','zzyVOnyCR4L4THHjdsQr2lIuuHKzkcMiovCLK0L_Qdzwhq_0VIDDhlE8XcwSabyneIHakMZeCaWvr-DhHQPadg'],
+['vaultville','Vaultville','Banca idle','g','GgsGECYBZKbMjP7k0cHDDSdNR4MgDRMYyOqcBWijoxV_BgWvarki0YDo_IdAnwW1qCOUjcOj9hO3vVOGZg2PyDo'],
+['nubetto','Nubetto','Animaletto virtuale','g','SMy0sVGjGQNYs64uwtXlHMrkcI-jmAsheXXYZHFMd3iJnEjTSLq8KYM5_kPu_mQLaniI7UQDqx3rW-a22Y-G'],
+['waterbau','Water Bau','Pesca con l\'arpione','g','iRNHkrgxVUXfDajoV5Wq9GwleIcQRIRHNjQhgXwkQpIRgxVA9hVY5WGQBGHnKyVSxrqI-OYAz0uS91K7BnO7Kw'],
+['snakoro','Snakoro','Sfida tra serpenti','g','xw_gYUYQ-6K30zVZ9iMlv13wad3rhhIHT0CVy8uJ4GCOngB3XWtAhwd5ARjMdaFby7v4bitneTziCTypIP5B'],
+['woodlio','Woodlio','Puzzle di legno','g','zz9-X6zZCmytyFCXIUvb41PkoSQKRLxaBH9ksK2iF2EZgnIoDWDleyOzUVxBm4dl0OBhfdljh1lqVm7bSt4Rxw'],
+['berrylo','Berrylo','Match 3 di frutta','g','nZzjbEj5t36W-8XcJoUG6uvzVX0xJ77AX283iQmPksOvPzPGh1DHUbulF3kzqBWeQPsvNAITdoTuAcm5MjI_oA'],
+['quadfall','Quadfall','Blocchi che cadono','g','i7hTDziI7HwRSRvCpfp6CoD-NfMmmBY64pmVEE7XalbPank2PIOfQGF086ruLo-hAoU23tPUhVF0jsCic9ZE'],
+['fiorlette','Fiorlette','Gioco di parole','g','VlY4yZnUFpTjaxb2vZsPs9aF5XyssyV2YM8bYP4KsOS4ddgr_V2hzVH1kLsi3vHnycCT8LKjhI36SDUab3p1yg'],
+['pokerello','Pokerello','Texas Hold\'em online (18+)','g','m58KHNvyGyJutRECPLYzz5NzD9gonucwWNHswmG_E_iqRrSPhd8qSj4WyjBcPXIXYtR6A9-nxL9I15528_ii'],
+['ciribella','Ciribella','Casa delle bambole','k','92nBFbEB9y5-yDKVlmHLDdW8Q9xKt8g_mOMGQPnlQ3oh_vPRVmCuTQFc4QCxQv7axLCcbcO5t8RJlUVuSEJMsQ'],
+['buffotto','Buffotto','La casa buffa','k','M8Lv3ztL7JoKLY5WtoFg5gId6uKfLeJzRWoqkvbxemYm3uL9jUDskGm8HzVtoGqApvuimLbkARLbDgI_hyOqXmE'],
+['vruffo','Vruffo','Officina delle auto buffe','k','BY3sD--_6W3JYaXSAWIQZXEVG7jdYLe4NIjFmMMSVfUoao3eBuIND7U1HsAkDvTK9VzEgaCW-E5D7UefXySuGw'],
+['sauretto','Sauretto','Uova e fossili di dino','k','lZngpMNRgQCtj6upq_aj1f1f05qVPl92KtQedk6Pv4t2pe8IchSGBnDBXTw0KncPM46_pgaWFIVL6gjYDj9EDg'],
+['montaro','Montaro 4K','Editor video','a','yzompdNy3tF0qXmHkXDjzkhoDVWWwZlAbErZmnAvWA_N28worArEJhdCyoc2plbq60QrluuCIgRgqQ77LWvpPQ'],
+['facenza','Facenza','Editor viso ed età','a','E2PDTRot1txzxzssOlPSUJ8mSO2QIZ9M2tGDSHHyjDLRLIPWxc88t3GKCINviuj-odqeLV1xZ-PCN3_rjcsNSA'],
+['singerlegend','Singer Legend','Karaoke e canto','a','stOxYK2abDD0DNo1niEta1F-77Tk7NCpO6Uh-jwb-buOrxusexADEB0oPRvRQuKgIAm-099F4u6wUHmvRbJO'],
+['fretiva','Fretiva','Impara la chitarra','a','9HCm5meDUh9TMY3fpvq66PxNds1NDPnrfiHr0h4Ct0xmrCbtdVMAvCdglO_qXJIwpDpm0uNti1fDsnGeuBv8GA'],
+['tastipiano','Tasti Piano','Impara il pianoforte','a','QJg8XIBLSEGiBFUdu-lc43ePmtqmmio0tKYCygmFBm9mTQnV-0U9gMz8KOYqRFzYVcqZklNsm3P7MSpbRD60h20'],
+['tikabum','Tikabum','Impara la batteria','a','kLo_U31KnKyXG7b7IWdRLpEcrAHVRFcNRol6_WnR4PWvKe7aJGDG0hMsPXmwaUw1U3CWJtsLOMWLRqF6I0Nf6tE'],
+['pienofuel','PienoFuel','Distributori vicini','a','e0Yr-TzUqaBQYuPK1kTAjid9nqdvKiX1FMUHhfUk9vOuEHOJEGmUf2k-rzjq71tHtifZvyRikpxJQ1uF0utPfNw'],
+['tachivo','Tachivo','Tachimetro GPS','a','sdri34ZmQ4eQxfM2UyyJ8-QNCX_hiniWTtAPR0o9apAOqMT6iRA0cv-iyrrxBShLvEkRAf_UASAh3mFMaZDpKcw'],
+['laptimer','Lap Timer','Cronometro per la pista','a','uvcZkriFomLkEEHEcRQAqvyVaiA2RbgIBbu1NimDDgPnyBQwKWD8DrlSxMZzX5w24lC3c0gZRl5h9T29j5yTsw'],
+['rodaggio','Rodaggio','Quiz patente','a','z5DNJqJquXrOF-wxnJJKWz2IWJXcTLRL2v3LPwfqpBsZ1v-jRx6xoluIr97srolXWXw6mMmaRJy1z-RTq8_HTfw'],
+['soldiva','Soldiva','Budget e risparmio','a','GY0BC1D-CV9QaJ_M1bLorOZGpu1JsWbiggZG1LxCBzKtn2nMv0ppPaigs1EHyIa4ZgFFUnry8gV8MwSMHh22qw'],
+['agendella','Agendella','Agenda per parrucchieri','a','eJU4yxXPsvKojY8WwasCRI1wfr6XVNvHIrVuiSGqQlJ5KN0d9wi8X0To2eH2y6HQZUB3RbDlU-7o3UEIgDnH81E'],
+['indovigol','Indovigol','Pronostici Serie A','a','sagCT2ZXNsOjJDRZ8VyOe29prNkqRpc5QIYnPJzGhFS-w3ZKAIbA432Kf5TvN4m8-HWrYfFKS6eVH8Z4g3gjBA'],
+['novantella','Novantella','Statistiche 6/90 (18+)','a','YRVw16EJCqm-JJ7SKsGUA7wHIjv-h1OjAeHfV0A1DJ5k3d-x0RIAPBkj33E-JI9wNPvUM1m3BOOvuh-cU0E6EsE'],
+];
+const S={g:'Giochi',k:'Per bambini',a:'App'};
+const M=document.getElementById('main');
+function show(f){M.innerHTML='';for(const t of['g','k','a']){if(f!=='all'&&f!==t)continue;const r=L.filter(x=>x[3]===t);
+M.insertAdjacentHTML('beforeend','<h2>'+S[t]+' ('+r.length+')</h2><div class="grid">'+r.map(x=>'<a class="app" href="https://play.google.com/store/apps/details?id=com.cpdigital.'+x[0]+'"><img loading="lazy" src="'+I+x[4]+'=s168-rw" alt=""><span class="n">'+x[1]+'</span><span class="d">'+x[2]+'</span><span class="get">Scarica gratis</span></a>').join('')+'</div>');}}
+document.querySelectorAll('nav button').forEach(b=>b.onclick=()=>{document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x===b));show(b.dataset.f);});
+show('all');
+</script>
+</body>
+</html>
