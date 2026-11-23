@@ -1,0 +1,48 @@
+<en-US>
+First release of Lost Orbital: 22 story missions, 8 armors, katana, plasma weapons and ninja powers. Have fun!
+</en-US>
+<it-IT>
+Prima versione di Lost Orbital: 22 missioni della storia, 8 armature, katana, armi al plasma e poteri da ninja. Buon divertimento!
+</it-IT>
+<es-ES>
+Primera versión de Lost Orbital: 22 misiones de historia, 8 armaduras, katana, armas de plasma y poderes ninja. ¡Diviértete!
+</es-ES>
+<fr-FR>
+Première version de Lost Orbital : 22 missions d'histoire, 8 armures, katana, armes à plasma et pouvoirs ninja. Amusez-vous bien !
+</fr-FR>
+<de-DE>
+Erste Version von Lost Orbital: 22 Story-Missionen, 8 Rüstungen, Katana, Plasmawaffen und Ninja-Kräfte. Viel Spaß!
+</de-DE>
+<pt-BR>
+Primeira versão de Lost Orbital: 22 missões de história, 8 armaduras, katana, armas de plasma e poderes ninja. Divirta-se!
+</pt-BR>
+<ru-RU>
+Первый выпуск Lost Orbital: 22 сюжетные миссии, 8 броневых костюмов, катана, плазменное оружие и силы ниндзя. Приятной игры!
+</ru-RU>
+<tr-TR>
+Lost Orbital'in ilk sürümü: 22 hikaye görevi, 8 zırh, katana, plazma silahları ve ninja güçleri. İyi eğlenceler!
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Lost Orbital: 22 misje fabularne, 8 zbroi, katana, broń plazmowa i moce ninja. Miłej zabawy!
+</pl-PL>
+<nl-NL>
+Eerste versie van Lost Orbital: 22 verhaalmissies, 8 harnassen, katana, plasmawapens en ninjakrachten. Veel plezier!
+</nl-NL>
+<uk>
+Перший випуск Lost Orbital: 22 сюжетні місії, 8 костюмів броні, катана, плазмова зброя та сили ніндзя. Приємної гри!
+</uk>
+<id>
+Rilis pertama Lost Orbital: 22 misi cerita, 8 armor, katana, senjata plasma, dan kekuatan ninja. Selamat bersenang-senang!
+</id>
+<vi>
+Phiên bản đầu tiên của Lost Orbital: 22 nhiệm vụ cốt truyện, 8 bộ giáp, katana, vũ khí plasma và năng lực ninja. Chúc bạn chơi vui!
+</vi>
+<ja-JP>
+Lost Orbitalの初回リリース: 全22ストーリーミッション、8種のアーマー、刀、プラズマ武器、忍者の能力。お楽しみください!
+</ja-JP>
+<ko-KR>
+Lost Orbital 첫 출시: 스토리 미션 22개, 아머 8종, 카타나, 플라즈마 무기, 닌자 능력. 즐거운 시간 되세요!
+</ko-KR>
+<zh-CN>
+Lost Orbital 首次发布：22个剧情任务、8套装甲、武士刀、等离子武器和忍者能力。祝你玩得开心！
+</zh-CN>
