@@ -1,0 +1,48 @@
+<en-US>
+First release: 20 worlds and 600 levels, 7 elemental heroes, stackable power-ups, weapons and gear to upgrade, 8 game modes and 4 difficulty levels. Plays offline, in 16 languages.
+</en-US>
+<it-IT>
+Prima versione: 20 mondi e 600 livelli, 7 eroi elementali, potenziamenti che si sommano, armi ed equipaggiamento da potenziare, 8 modalità e 4 difficoltà. Si gioca offline, in 16 lingue.
+</it-IT>
+<es-ES>
+Primera versión: 20 mundos y 600 niveles, 7 héroes elementales, mejoras acumulables, armas y equipo para mejorar, 8 modos de juego y 4 dificultades. Sin conexión, en 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version : 20 mondes et 600 niveaux, 7 héros élémentaires, bonus cumulables, armes et équipement à améliorer, 8 modes de jeu et 4 difficultés. Jouable hors ligne, en 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version: 20 Welten und 600 Level, 7 Elementhelden, kombinierbare Upgrades, Waffen und Ausrüstung zum Verbessern, 8 Spielmodi und 4 Schwierigkeitsgrade. Offline spielbar, in 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão: 20 mundos e 600 fases, 7 heróis elementais, melhorias acumuláveis, armas e equipamentos para evoluir, 8 modos de jogo e 4 dificuldades. Jogue offline, em 16 idiomas.
+</pt-BR>
+<ru-RU>
+Первая версия: 20 миров и 600 уровней, 7 героев стихий, суммирующиеся улучшения, оружие и снаряжение для прокачки, 8 режимов и 4 уровня сложности. Играйте без интернета, на 16 языках.
+</ru-RU>
+<tr-TR>
+İlk sürüm: 20 dünya ve 600 bölüm, 7 element kahramanı, birikebilen güçlendirmeler, geliştirilebilir silahlar ve ekipman, 8 oyun modu ve 4 zorluk seviyesi. Çevrimdışı, 16 dilde.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja: 20 światów i 600 poziomów, 7 bohaterów żywiołów, kumulujące się ulepszenia, broń i wyposażenie do ulepszania, 8 trybów gry i 4 poziomy trudności. Gra offline, w 16 językach.
+</pl-PL>
+<nl-NL>
+Eerste versie: 20 werelden en 600 levels, 7 elementhelden, stapelbare power-ups, wapens en uitrusting om te verbeteren, 8 spelmodi en 4 moeilijkheidsgraden. Speelbaar offline, in 16 talen.
+</nl-NL>
+<uk>
+Перша версія: 20 світів і 600 рівнів, 7 героїв стихій, покращення, що сумуються, зброя та спорядження для прокачування, 8 режимів і 4 рівні складності. Грайте без інтернету, 16 мовами.
+</uk>
+<id>
+Versi pertama: 20 dunia dan 600 level, 7 pahlawan elemen, peningkatan yang bisa ditumpuk, senjata dan perlengkapan untuk ditingkatkan, 8 mode permainan dan 4 tingkat kesulitan. Bisa dimainkan offline, dalam 16 bahasa.
+</id>
+<vi>
+Phiên bản đầu tiên: 20 thế giới và 600 màn, 7 anh hùng nguyên tố, nâng cấp cộng dồn, vũ khí và trang bị để nâng cấp, 8 chế độ chơi và 4 mức độ khó. Chơi ngoại tuyến, 16 ngôn ngữ.
+</vi>
+<ja-JP>
+最初のバージョン：20のワールドと600のステージ、7人の属性ヒーロー、重ねられるパワーアップ、強化できる武器と装備、8つのモードと4つの難易度。オフラインで遊べて、16言語に対応。
+</ja-JP>
+<ko-KR>
+첫 번째 버전: 20개의 월드와 600개의 스테이지, 7명의 속성 영웅, 중첩되는 강화, 업그레이드할 수 있는 무기와 장비, 8가지 모드와 4단계 난이도. 오프라인 플레이, 16개 언어 지원.
+</ko-KR>
+<zh-CN>
+首个版本：20个世界和600个关卡，7位元素英雄，可叠加的强化，可升级的武器和装备，8种游戏模式和4种难度。支持离线游玩，16种语言。
+</zh-CN>

@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Strzelanka 2D
+
+SHORT:
+Biegaj, skacz i unikaj, a bohater strzela sam. Offline, bez energii.
+
+FULL:
+Rivet Blaster to szybka platformówka 2D w stylu run and gun, w której bohater strzela sam. Ty tylko biegasz, skaczesz i robisz zwrot: celowanie jest automatyczne, więc każda sekunda to dobre poruszanie się, unikanie pocisków i wybór odpowiedniego wzmocnienia.
+
+20 ŚWIATÓW, 600 POZIOMÓW
+Lasy, pustynie, lodowce, wulkany, fabryki, Księżyc i więcej: 20 światów po 30 poziomów, boss co 10 poziomów oraz nowi wrogowie, którzy chodzą, skaczą, latają, strzelają i dzielą się. Każdy poziom przetestował nasz robot, więc zawsze da się go przejść.
+
+WZMOCNIENIA, KTÓRE SIĘ SUMUJĄ
+Po każdym pokoju wybierz jedno z trzech wzmocnień: większe obrażenia, szybszy ogień, podwójna lufa, strzał podwójny i potrójny, strzały ukośne, pociski przebijające i odbijające się, potrójny skok, tarcza, kradzież życia, trafienia krytyczne i inne. Wszystkie się sumują, a każda gra zaczyna się od zera, więc żadna rozgrywka nie jest taka sama.
+
+7 ELEMENTALNYCH BOHATERÓW
+Rivet z żelaza, Vampa z ognia, Brina z lodu, Tossina z trucizny, Granito z ziemi, Arcano z magii i Raffica z wiatru. Każdy ma prawdziwą moc specjalną: płonące pociski, mrożące strzały, trucizna, magia samonaprowadzająca, fale uderzeniowe, potrójny skok. Zbieraj ich odłamki, aby ich odblokować i zwiększać liczbę gwiazdek.
+
+BROŃ I EKWIPUNEK
+Blaster, pistolet maszynowy, strzelba, laser i wyrzutnia rakiet, a także zbroja, hełm, buty i rdzeń. Ulepszaj je za monety, koła zębate i materiały znalezione na polu walki.
+
+WIELE TRYBÓW
+Nieskończona wieża, wyzwanie dnia, kopalnia materiałów, pochód bossów, przetrwanie, arena robotów z 10 ligami i cztery wieże żywiołów. Codzienne misje, kamienie milowe, 7-dniowy kalendarz i skrzynie gwiazd sprawiają, że nagrody nie przestają przychodzić.
+
+UCZCIWIE DLA WSZYSTKICH
+Bez energii, bez żyć, na które trzeba czekać, bez płacenia za przewagę: nie ma niczego do kupienia. Reklamy z nagrodą to zawsze Twój wybór i wyraźnie podpisane "Obejrzyj reklamę". Cztery poziomy trudności, od Łatwego do Koszmaru. Działa offline, oszczędza baterię, w 16 językach.
+
+Wskakuj do gry, nie przestawaj się ruszać, a resztę zrobi Twój blaster!

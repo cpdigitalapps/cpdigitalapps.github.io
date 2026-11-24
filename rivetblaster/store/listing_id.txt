@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Game Tembak 2D
+
+SHORT:
+Lari, lompat, menghindar, pahlawan menembak sendiri. Offline, tanpa energi.
+
+FULL:
+Rivet Blaster adalah game platformer run and gun 2D yang cepat, di mana pahlawanmu menembak sendiri. Kamu hanya berlari, melompat, dan dash: bidikan otomatis, jadi setiap detik adalah soal bergerak dengan baik, menghindari peluru, dan memilih power-up yang tepat.
+
+20 DUNIA, 600 LEVEL
+Hutan, gurun, gletser, gunung berapi, pabrik, bulan, dan banyak lagi: 20 dunia dengan masing-masing 30 level, bos setiap 10 level, dan musuh baru yang berjalan, melompat, terbang, menembak, dan membelah diri. Setiap level sudah diuji oleh robot game kami, jadi selalu bisa diselesaikan.
+
+POWER-UP YANG BERTUMPUK
+Setelah setiap ruangan pilih satu dari tiga power-up: damage lebih besar, tembakan lebih cepat, laras ganda, tembakan ganda dan tiga arah, tembakan diagonal, peluru menembus dan memantul, lompat tiga kali, perisai, curi nyawa, serangan kritis, dan lainnya. Semuanya bertumpuk, dan setiap permainan dimulai lagi dari nol, jadi tidak ada dua permainan yang sama.
+
+7 PAHLAWAN ELEMEN
+Rivet dari besi, Vampa dari api, Brina dari es, Tossina dari racun, Granito dari tanah, Arcano dari sihir, dan Raffica dari angin. Masing-masing punya kekuatan khusus yang nyata: peluru membakar, tembakan membekukan, racun, sihir pengejar, gelombang kejut, lompat tiga kali. Kumpulkan pecahan mereka untuk membukanya dan menaikkan bintangnya.
+
+SENJATA DAN PERLENGKAPAN
+Blaster, SMG, shotgun, laser, dan peluncur roket, ditambah armor, helm, sepatu bot, dan inti. Tingkatkan dengan koin, roda gigi, dan material yang kamu temukan di medan pertempuran.
+
+BANYAK MODE
+Menara tanpa akhir, tantangan harian, tambang material, boss rush, bertahan hidup, arena robot dengan 10 liga, dan empat menara elemen. Misi harian, pencapaian, kalender 7 hari, dan peti bintang membuat hadiah terus datang.
+
+ADIL UNTUK SEMUA
+Tanpa energi, tanpa nyawa yang harus ditunggu, tanpa pay to win: tidak ada yang perlu dibeli. Iklan dengan hadiah selalu pilihanmu dan tertulis jelas "Tonton iklan". Empat tingkat kesulitan, dari Mudah sampai Mimpi Buruk. Bisa dimainkan offline, hemat baterai, dalam 16 bahasa.
+
+Ayo masuk, terus bergerak, dan biarkan blaster-mu yang mengurus sisanya!

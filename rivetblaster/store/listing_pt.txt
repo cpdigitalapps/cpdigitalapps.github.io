@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Corra e Atire
+
+SHORT:
+Corra, pule e desvie enquanto seu herói atira sozinho. Offline, sem energia.
+
+FULL:
+Rivet Blaster é um rápido jogo de plataforma 2D de correr e atirar em que seu herói atira sozinho. Você só corre, pula e dá dash: a mira é automática, então cada segundo conta para se mover bem, desviar das balas e escolher o power-up certo.
+
+20 MUNDOS, 600 FASES
+Florestas, desertos, geleiras, vulcões, fábricas, a lua e muito mais: 20 mundos com 30 fases cada, um chefe a cada 10 fases e novos inimigos que andam, pulam, voam, atiram e se dividem. Cada fase foi testada pelo nosso robô, então sempre dá para vencer.
+
+POWER-UPS QUE SE ACUMULAM
+Depois de cada sala, escolha um entre três power-ups: mais dano, tiro mais rápido, cano duplo, tiro duplo e triplo, tiros na diagonal, balas que perfuram e ricocheteiam, pulo triplo, escudo, roubo de vida, acertos críticos e mais. Todos se acumulam e cada partida recomeça do zero, então nenhuma é igual à outra.
+
+7 HERÓIS ELEMENTAIS
+Rivet de ferro, Vampa de fogo, Brina de gelo, Tossina de veneno, Granito de terra, Arcano de magia e Raffica de vento. Cada um tem um poder especial de verdade: balas em chamas, tiros que congelam, veneno, magia teleguiada, ondas de choque, pulo triplo. Junte os fragmentos deles para desbloqueá-los e subir suas estrelas.
+
+ARMAS E EQUIPAMENTOS
+Blaster, submetralhadora, escopeta, laser e lança-foguetes, além de armadura, capacete, botas e núcleo. Melhore tudo com moedas, engrenagens e os materiais que você encontra no campo de batalha.
+
+MUITOS MODOS
+Torre sem fim, desafio diário, mina de materiais, corrida de chefes, sobrevivência, arena de robôs com 10 ligas e quatro torres elementais. Missões diárias, marcos, um calendário de 7 dias e baús de estrelas mantêm as recompensas chegando.
+
+JUSTO PARA TODOS
+Sem energia, sem vidas para esperar, sem pay to win: não há nada para comprar. Anúncios com recompensa são sempre uma escolha sua e dizem claramente "Assistir anúncio". Quatro níveis de dificuldade, do Fácil ao Pesadelo. Funciona offline, economiza bateria e está em 16 idiomas.
+
+Entre na ação, não pare de se mover e deixe seu blaster fazer o resto!

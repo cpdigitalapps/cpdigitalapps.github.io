@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Run and Gun
+
+SHORT:
+Lauf, spring, weich aus: Dein Held schießt selbst. Offline, ohne Energie.
+
+FULL:
+Rivet Blaster ist ein schneller 2D-Run-and-Gun-Plattformer, in dem dein Held von selbst schießt. Du läufst, springst und sprintest nur: Das Zielen ist automatisch, also zählt jede Sekunde für gutes Bewegen, das Ausweichen vor Kugeln und die Wahl des richtigen Power-ups.
+
+20 WELTEN, 600 LEVEL
+Wälder, Wüsten, Gletscher, Vulkane, Fabriken, der Mond und mehr: 20 Welten mit je 30 Levels, ein Boss alle 10 Level und neue Gegner, die laufen, springen, fliegen, schießen und sich teilen. Jedes Level wurde von unserem Spielroboter getestet und ist daher immer schaffbar.
+
+POWER-UPS, DIE SICH ADDIEREN
+Nach jedem Raum wählst du eines von drei Power-ups: mehr Schaden, schnelleres Feuer, Doppellauf, Doppel- und Dreifachschuss, Schüsse in die Diagonale, durchschlagende und abprallende Kugeln, Dreifachsprung, Schild, Lebensraub, kritische Treffer und mehr. Alle addieren sich und jeder Durchgang beginnt bei null, daher gleicht keine Runde der anderen.
+
+7 ELEMENT-HELDEN
+Rivet aus Eisen, Vampa aus Feuer, Brina aus Eis, Tossina aus Gift, Granito aus Erde, Arcano aus Magie und Raffica aus Wind. Jeder hat eine echte Spezialkraft: brennende Kugeln, gefrierende Schüsse, Gift, zielsuchende Magie, Schockwellen, Dreifachsprung. Sammle ihre Splitter, um sie freizuschalten und ihre Sterne zu erhöhen.
+
+WAFFEN UND AUSRÜSTUNG
+Blaster, Maschinenpistole, Schrotflinte, Laser und Raketenwerfer, dazu Rüstung, Helm, Stiefel und Kern. Verbessere sie mit Münzen, Zahnrädern und den Materialien, die du auf dem Schlachtfeld findest.
+
+VIELE MODI
+Endloser Turm, Tagesherausforderung, Materialmine, Boss-Rush, Überleben, Roboter-Arena mit 10 Ligen und vier Elementtürme. Tägliche Missionen, Meilensteine, ein 7-Tage-Kalender und Sternentruhen sorgen für ständig neue Belohnungen.
+
+FAIR FÜR ALLE
+Keine Energie, keine Leben, auf die man warten muss, kein Pay to Win: Es gibt nichts zu kaufen. Werbung mit Belohnung ist immer deine Entscheidung und sagt klar "Werbung ansehen". Vier Schwierigkeitsgrade, von Leicht bis Albtraum. Spielbar offline, schont den Akku und in 16 Sprachen.
+
+Spring rein, bleib in Bewegung und lass deinen Blaster den Rest erledigen!

@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Run and Gun
+
+SHORT:
+Run, jump and dodge while your hero shoots by himself. Offline, no energy.
+
+FULL:
+Rivet Blaster is a fast 2D run and gun platformer where your hero shoots on his own. You only run, jump and dash: aim is automatic, so every second is about moving well, dodging bullets and choosing the right power-up.
+
+20 WORLDS, 600 LEVELS
+Forests, deserts, glaciers, volcanoes, factories, the moon and more: 20 worlds with 30 levels each, a boss every 10 levels and new enemies that walk, jump, fly, shoot and split. Every level was tested by our game robot, so it is always beatable.
+
+POWER-UPS THAT STACK
+After each room pick one of three power-ups: more damage, faster fire, double barrel, double and triple shot, diagonal shots, piercing and bouncing bullets, triple jump, shield, life steal, critical hits and more. They all stack, and every run starts again from zero, so no two games are the same.
+
+7 ELEMENTAL HEROES
+Rivet of iron, Vampa of fire, Brina of ice, Tossina of poison, Granito of earth, Arcano of magic and Raffica of wind. Each one has a real special power: burning bullets, freezing shots, poison, homing magic, shockwaves, triple jump. Collect their shards to unlock them and raise their stars.
+
+WEAPONS AND GEAR
+Blaster, SMG, shotgun, laser and rocket launcher, plus armor, helmet, boots and core. Upgrade them with coins, gears and the materials you find on the battlefield.
+
+MANY MODES
+Endless tower, daily challenge, material mine, boss rush, survival, robot arena with 10 leagues and four elemental towers. Daily missions, milestones, a 7 day calendar and star chests keep the rewards coming.
+
+FAIR FOR EVERYONE
+No energy, no lives to wait for, no pay to win: there is nothing to buy. Ads with a reward are always your choice and say clearly "Watch an ad". Four difficulty levels, from Easy to Nightmare. Plays offline, light on the battery, in 16 languages.
+
+Jump in, keep moving and let your blaster do the rest!

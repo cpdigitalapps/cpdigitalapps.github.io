@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Cours et Tire
+
+SHORT:
+Cours, saute, esquive : ton héros tire tout seul. Hors ligne, sans énergie.
+
+FULL:
+Rivet Blaster est un jeu de plateforme 2D rapide de type run and gun où ton héros tire tout seul. Tu n'as qu'à courir, sauter et foncer : la visée est automatique, donc chaque seconde sert à bien te déplacer, esquiver les balles et choisir le bon bonus.
+
+20 MONDES, 600 NIVEAUX
+Forêts, déserts, glaciers, volcans, usines, la lune et bien plus : 20 mondes de 30 niveaux chacun, un boss tous les 10 niveaux et de nouveaux ennemis qui marchent, sautent, volent, tirent et se divisent. Chaque niveau a été testé par notre robot, il est donc toujours possible de le réussir.
+
+DES BONUS QUI S'ADDITIONNENT
+Après chaque salle, choisis un bonus parmi trois : plus de dégâts, tir plus rapide, double canon, tir double et triple, tirs en diagonale, balles perforantes et rebondissantes, triple saut, bouclier, vol de vie, coups critiques et bien d'autres. Ils s'additionnent tous et chaque partie repart de zéro : deux parties ne se ressemblent jamais.
+
+7 HÉROS ÉLÉMENTAIRES
+Rivet de fer, Vampa de feu, Brina de glace, Tossina de poison, Granito de terre, Arcano de magie et Raffica de vent. Chacun a un vrai pouvoir spécial : balles brûlantes, tirs glaçants, poison, magie à tête chercheuse, ondes de choc, triple saut. Récupère leurs éclats pour les débloquer et gagner des étoiles.
+
+ARMES ET ÉQUIPEMENT
+Blaster, pistolet-mitrailleur, fusil à pompe, laser et lance-roquettes, plus armure, casque, bottes et noyau. Améliore-les avec des pièces, des engrenages et les matériaux trouvés sur le champ de bataille.
+
+DE NOMBREUX MODES
+Tour sans fin, défi du jour, mine de matériaux, enchaînement de boss, survie, arène de robots avec 10 ligues et quatre tours élémentaires. Missions quotidiennes, objectifs, calendrier de 7 jours et coffres d'étoiles te donnent toujours de nouvelles récompenses.
+
+ÉQUITABLE POUR TOUS
+Pas d'énergie, pas de vies à attendre, pas de pay to win : il n'y a rien à acheter. Les pubs avec récompense sont toujours ton choix et indiquent clairement "Regarder une pub". Quatre niveaux de difficulté, de Facile à Cauchemar. Jouable hors ligne, léger pour la batterie, en 16 langues.
+
+Lance-toi, ne t'arrête pas et laisse ton blaster faire le reste !

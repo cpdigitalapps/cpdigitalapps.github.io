@@ -1,0 +1,28 @@
+TITLE:
+Rivet Blaster: Koş ve Ateş Et
+
+SHORT:
+Koş, zıpla ve kaç, kahramanın kendi kendine ateş etsin. Çevrimdışı, enerjisiz.
+
+FULL:
+Rivet Blaster, kahramanının kendi kendine ateş ettiği hızlı bir 2D koş ve ateş et platform oyunudur. Sen sadece koşar, zıplar ve atılırsın: nişan otomatiktir, bu yüzden her saniye iyi hareket etmeye, kurşunlardan kaçmaya ve doğru güçlendirmeyi seçmeye ayrılır.
+
+20 DÜNYA, 600 BÖLÜM
+Ormanlar, çöller, buzullar, yanardağlar, fabrikalar, ay ve daha fazlası: her biri 30 bölümlük 20 dünya, her 10 bölümde bir patron ve yürüyen, zıplayan, uçan, ateş eden ve bölünen yeni düşmanlar. Her bölümü oyun robotumuz test etti, yani her zaman geçilebilir.
+
+BİRBİRİNE EKLENEN GÜÇLENDİRMELER
+Her odadan sonra üç güçlendirmeden birini seç: daha fazla hasar, daha hızlı ateş, çift namlu, çift ve üçlü atış, çapraz atışlar, delen ve sekerek giden mermiler, üçlü zıplama, kalkan, can çalma, kritik vuruşlar ve daha fazlası. Hepsi birbirine eklenir ve her oyun sıfırdan başlar, bu yüzden hiçbir oyun diğerine benzemez.
+
+7 ELEMENT KAHRAMANI
+Demirden Rivet, ateşten Vampa, buzdan Brina, zehirden Tossina, topraktan Granito, büyüden Arcano ve rüzgârdan Raffica. Her birinin gerçek bir özel gücü var: yakan mermiler, donduran atışlar, zehir, güdümlü büyü, şok dalgaları, üçlü zıplama. Kilidini açmak ve yıldızlarını yükseltmek için parçalarını topla.
+
+SİLAHLAR VE EKİPMAN
+Blaster, hafif makineli tüfek, pompalı tüfek, lazer ve roketatar, ayrıca zırh, kask, bot ve çekirdek. Bunları paralarla, dişlilerle ve savaş alanında bulduğun malzemelerle geliştir.
+
+PEK ÇOK MOD
+Sonsuz kule, günün görevi, malzeme madeni, patron akını, hayatta kalma, 10 ligli robot arenası ve dört element kulesi. Günlük görevler, kilometre taşları, 7 günlük takvim ve yıldız sandıkları ödülleri sürekli getirir.
+
+HERKES İÇİN ADİL
+Enerji yok, beklenecek can yok, pay to win yok: satın alınacak hiçbir şey yok. Ödüllü reklamlar her zaman senin tercihindir ve açıkça "Reklam izle" yazar. Kolaydan Kâbusa kadar dört zorluk seviyesi. Çevrimdışı oynanır, pili az harcar ve 16 dilde sunulur.
+
+Hemen dal, hareket etmeye devam et ve gerisini blasterına bırak!
