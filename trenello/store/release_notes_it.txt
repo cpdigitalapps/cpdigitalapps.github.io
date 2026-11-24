@@ -1,0 +1,1 @@
+Prima versione di Trenello: guida il treno, fermati preciso alla banchina e fai salire i passeggeri. 10 paesaggi, 8 treni, 4 modalità, meteo e notte, e la vera visuale dalla cabina del macchinista.

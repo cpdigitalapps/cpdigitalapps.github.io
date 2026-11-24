@@ -1,0 +1,1 @@
+Première version de Trenello : conduisez le train, arrêtez-vous pile au quai et faites monter les voyageurs. 10 paysages, 8 trains, 4 modes de jeu, météo et nuit, et une vraie vue de cabine.

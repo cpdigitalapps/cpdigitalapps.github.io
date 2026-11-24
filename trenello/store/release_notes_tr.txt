@@ -1,0 +1,1 @@
+Trenello'nun ilk sürümü: treni sür, tam peronda dur ve yolcuları al. 10 manzara, 8 tren, 4 oyun modu, hava durumu ve gece, ayrıca gerçek bir makinist kabini görünümü.

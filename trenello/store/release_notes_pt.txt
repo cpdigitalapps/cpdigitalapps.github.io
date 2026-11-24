@@ -1,0 +1,1 @@
+Primeira versão do Trenello: dirija o trem, pare certinho na plataforma e embarque os passageiros. 10 paisagens, 8 trens, 4 modos de jogo, clima e noite, e uma vista real da cabine do maquinista.

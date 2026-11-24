@@ -1,0 +1,32 @@
+TITLE:
+Trenello: Juego de Trenes
+
+SHORT:
+Conduce el tren y párate justo en el andén. Ligero, sin conexión, sin vidas.
+
+FULL:
+Mantén pulsado para avanzar, suelta para frenar: ¿puedes parar tu tren justo en el andén?
+
+Trenello es un colorido juego de conducir trenes para todos. Recorre praderas, pueblos costeros, bosques nevados, desiertos, campos de lavanda, islas tropicales y altas montañas. Reduce la velocidad en las curvas, cruza túneles y detente lo más cerca posible del cartel de la estación: cuanto más preciso seas, más monedas ganarás.
+
+CÓMO SE JUEGA
+• Mantén el dedo en la pantalla para acelerar y levántalo para frenar.
+• Para dentro de la zona verde para recoger a los pasajeros.
+• Las paradas PERFECTAS (a menos de un metro) dan monedas triples.
+• Respeta los límites de velocidad en las curvas y vigila los pasos a nivel.
+
+MUCHO QUE HACER
+• Niveles sin fin en 10 paisajes distintos
+• 4 modos de juego: Jugar, Contrarreloj, Sin fin y Reto diario
+• 8 trenes por desbloquear: modernos, de vapor, de alta velocidad y dorados
+• Mejoras: motor, frenos, billetes y precisión
+• Cambian el tiempo y la hora del día: sol, nubes, lluvia, nieve, atardecer y noche
+• 6 cámaras, incluida la cabina del maquinista con indicadores reales y limpiaparabrisas
+• Pasajeros que caminan hasta las puertas y suben a tu tren
+• Música alegre y sonidos de tren
+• 16 idiomas
+
+JUEGA DONDE QUIERAS
+Trenello funciona sin conexión y no tiene vidas ni temporizadores de espera. Juega un nivel en un minuto o conduce todo el tiempo que quieras.
+
+El juego es gratuito y contiene anuncios. Ver un vídeo es siempre opcional y te da el doble de monedas.

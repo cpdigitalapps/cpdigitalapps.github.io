@@ -1,0 +1,32 @@
+TITLE:
+Trenello: Jeu de Train
+
+SHORT:
+Conduisez le train et arrêtez-vous pile au quai. Léger, hors ligne, sans vies.
+
+FULL:
+Maintenez pour avancer, relâchez pour freiner : saurez-vous arrêter votre train pile au quai ?
+
+Trenello est un jeu de conduite de train coloré, pour tout le monde. Traversez des prairies, des villes balnéaires, des forêts enneigées, des déserts, des champs de lavande, des îles tropicales et de hautes montagnes. Ralentissez dans les virages, passez dans les tunnels et arrêtez-vous au plus près du panneau de la gare : plus vous êtes précis, plus vous gagnez de pièces.
+
+COMMENT JOUER
+• Gardez le doigt sur l'écran pour accélérer, relevez-le pour freiner.
+• Arrêtez-vous dans la zone verte pour faire monter les voyageurs.
+• Les arrêts PARFAITS (à moins d'un mètre) rapportent des pièces triples.
+• Respectez les limitations de vitesse dans les virages et surveillez les passages à niveau.
+
+BEAUCOUP À FAIRE
+• Niveaux sans fin dans 10 paysages différents
+• 4 modes de jeu : Jouer, Contre la montre, Sans fin et Défi du jour
+• 8 trains à débloquer : modernes, à vapeur, à grande vitesse et dorés
+• Améliorations : moteur, freins, billets et précision
+• La météo et l'heure changent : soleil, nuages, pluie, neige, coucher de soleil et nuit
+• 6 vues de caméra, dont la cabine du conducteur avec de vrais cadrans et des essuie-glaces
+• Des voyageurs qui marchent jusqu'aux portes et montent dans votre train
+• Musique joyeuse et bruitages de train
+• 16 langues
+
+JOUEZ PARTOUT
+Trenello fonctionne hors ligne, sans vies ni temps d'attente. Jouez un niveau en une minute ou roulez aussi longtemps que vous voulez.
+
+Le jeu est gratuit et contient des publicités. Regarder une vidéo est toujours facultatif et vous donne le double de pièces.

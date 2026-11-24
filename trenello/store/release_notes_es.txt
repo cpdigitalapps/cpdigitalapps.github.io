@@ -1,0 +1,1 @@
+Primera versión de Trenello: conduce el tren, párate justo en el andén y recoge a los pasajeros. 10 paisajes, 8 trenes, 4 modos de juego, clima y noche, y vista de cabina del maquinista.

@@ -1,0 +1,1 @@
+Rilis pertama Trenello: kemudikan kereta, berhenti tepat di peron, dan jemput penumpang. 10 lanskap, 8 kereta, 4 mode permainan, cuaca dan malam hari, serta tampilan kabin masinis yang nyata.

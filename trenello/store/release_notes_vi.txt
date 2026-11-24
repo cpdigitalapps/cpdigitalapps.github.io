@@ -1,0 +1,1 @@
+Phiên bản đầu tiên của Trenello: lái tàu, dừng đúng sân ga và đón hành khách. 10 phong cảnh, 8 con tàu, 4 chế độ chơi, thời tiết và ban đêm, cùng góc nhìn từ cabin lái thực tế.

@@ -1,0 +1,1 @@
+Eerste versie van Trenello: bestuur de trein, stop precies bij het perron en haal de passagiers op. 10 landschappen, 8 treinen, 4 spelmodi, weer en nacht, en een echte machinistencabine.

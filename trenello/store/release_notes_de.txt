@@ -1,0 +1,1 @@
+Erste Version von Trenello: Fahre den Zug, halte genau am Bahnsteig und nimm die Fahrgäste mit. 10 Landschaften, 8 Züge, 4 Spielmodi, Wetter und Nacht sowie eine echte Führerstand-Ansicht.

@@ -1,0 +1,32 @@
+TITLE:
+Trenello: Jogo de Trem
+
+SHORT:
+Dirija o trem e pare certinho na plataforma. Leve, offline, sem vidas.
+
+FULL:
+Segure para acelerar, solte para frear: você consegue parar o trem exatamente na plataforma?
+
+Trenello é um jogo de dirigir trem, colorido e para todos. Passe por campos, cidades litorâneas, florestas com neve, desertos, campos de lavanda, ilhas tropicais e altas montanhas. Reduza nas curvas, atravesse túneis e pare o mais perto possível da placa da estação: quanto mais preciso você for, mais moedas ganha.
+
+COMO JOGAR
+• Mantenha o dedo na tela para acelerar e solte para frear.
+• Pare dentro da zona verde para embarcar os passageiros.
+• Paradas PERFEITAS (a menos de um metro) dão moedas em triplo.
+• Respeite os limites de velocidade nas curvas e fique atento às passagens de nível.
+
+MUITO PARA FAZER
+• Fases sem fim em 10 paisagens diferentes
+• 4 modos de jogo: Jogar, Contra o tempo, Sem fim e Desafio diário
+• 8 trens para desbloquear: modernos, a vapor, de alta velocidade e dourados
+• Melhorias: motor, freios, bilhetes e precisão
+• O clima e a hora do dia mudam: sol, nuvens, chuva, neve, pôr do sol e noite
+• 6 câmeras, incluindo a cabine do maquinista com medidores reais e limpadores de para-brisa
+• Passageiros que caminham até as portas e embarcam no seu trem
+• Música alegre e sons de trem
+• 16 idiomas
+
+JOGUE ONDE QUISER
+Trenello funciona offline e não tem vidas nem tempo de espera. Jogue uma fase em um minuto ou dirija o quanto quiser.
+
+O jogo é gratuito e contém anúncios. Assistir a um vídeo é sempre opcional e dá o dobro de moedas.

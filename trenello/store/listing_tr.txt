@@ -1,0 +1,32 @@
+TITLE:
+Trenello: Tren İstasyonu Oyunu
+
+SHORT:
+Treni sür ve tam peronda dur. Hafif, çevrimdışı, canlar yok.
+
+FULL:
+Basılı tut, git; bırak, fren yap: trenini tam peronda durdurabilir misin?
+
+Trenello, herkes için renkli bir tren sürme oyunu. Çayırlardan, deniz kenarı kasabalarından, karlı ormanlardan, çöllerden, lavanta tarlalarından, tropikal adalardan ve yüksek dağlardan geç. Virajlarda yavaşla, tünellerden geç ve istasyon tabelasına olabildiğince yakın dur: ne kadar hassas olursan o kadar çok jeton kazanırsın.
+
+NASIL OYNANIR
+• Hızlanmak için parmağını ekranda basılı tut, fren yapmak için kaldır.
+• Yolcuları almak için yeşil bölgede dur.
+• MÜKEMMEL duruşlar (bir metre içinde) üç kat jeton kazandırır.
+• Virajlardaki hız sınırlarına uy ve hemzemin geçitlere dikkat et.
+
+YAPILACAK ÇOK ŞEY VAR
+• 10 farklı manzarada sonsuz seviyeler
+• 4 oyun modu: Oyna, Zamana Karşı, Sonsuz ve Günün Görevi
+• Açılacak 8 tren: modern, buharlı, hızlı ve altın trenler
+• Geliştirmeler: motor, frenler, biletler ve hassasiyet
+• Değişen hava durumu ve gün saati: güneş, bulutlar, yağmur, kar, gün batımı ve gece
+• Gerçek göstergeler ve silecekli makinist kabini dahil 6 kamera görünümü
+• Kapılara yürüyüp trenine binen yolcular
+• Neşeli müzik ve tren sesleri
+• 16 dil
+
+HER YERDE OYNA
+Trenello çevrimdışı çalışır; can ya da bekleme sayacı yoktur. Bir seviyeyi bir dakikada oyna ya da istediğin kadar yolculuk et.
+
+Oyun ücretsizdir ve reklam içerir. Video izlemek her zaman senin tercihindir ve çift jeton kazandırır.
