@@ -5,13 +5,13 @@ SHORT:
 Cours, saute, esquive : ton héros tire tout seul. Hors ligne, sans énergie.
 
 FULL:
-Rivet Blaster est un jeu de plateforme 2D rapide de type run and gun où ton héros tire tout seul. Tu n'as qu'à courir, sauter et foncer : la visée est automatique, donc chaque seconde sert à bien te déplacer, esquiver les balles et choisir le bon bonus.
+Rivet Blaster est un jeu de plateforme 2D rapide de type run and gun où ton héros tire tout seul. Tu te déplaces au joystick et tu sautes avec un seul bouton (appuie encore pour le double saut) : la visée est automatique, donc chaque seconde sert à bien te déplacer, esquiver les balles et choisir le bon bonus.
 
-20 MONDES, 600 NIVEAUX
-Forêts, déserts, glaciers, volcans, usines, la lune et bien plus : 20 mondes de 30 niveaux chacun, un boss tous les 10 niveaux et de nouveaux ennemis qui marchent, sautent, volent, tirent et se divisent. Chaque niveau a été testé par notre robot, il est donc toujours possible de le réussir.
+20 MONDES, 30 ÉTAPES CHACUN
+Forêts, déserts, glaciers, volcans, usines, la lune et bien plus : chaque monde est une course de 30 étapes de plus en plus dures, avec un boss aux étapes 10, 20 et 30. Les ennemis marchent, sautent, volent, tirent, se divisent et se protègent derrière des boucliers. Termine l'étape 30 pour ouvrir le monde suivant et tente de battre ton record.
 
 DES BONUS QUI S'ADDITIONNENT
-Après chaque salle, choisis un bonus parmi trois : plus de dégâts, tir plus rapide, double canon, tir double et triple, tirs en diagonale, balles perforantes et rebondissantes, triple saut, bouclier, vol de vie, coups critiques et bien d'autres. Ils s'additionnent tous et chaque partie repart de zéro : deux parties ne se ressemblent jamais.
+Choisis un avantage de départ, puis monte de niveau en battant des ennemis et choisis à chaque fois un bonus parmi trois : plus de dégâts, tir plus rapide, double canon, tir double et triple, tirs en diagonale, balles perforantes et rebondissantes, triple saut, bouclier, vol de vie, coups critiques et bien d'autres. Ils s'additionnent tous jusqu'à l'étape 30 : deux parties ne se ressemblent jamais.
 
 7 HÉROS ÉLÉMENTAIRES
 Rivet de fer, Vampa de feu, Brina de glace, Tossina de poison, Granito de terre, Arcano de magie et Raffica de vent. Chacun a un vrai pouvoir spécial : balles brûlantes, tirs glaçants, poison, magie à tête chercheuse, ondes de choc, triple saut. Récupère leurs éclats pour les débloquer et gagner des étoiles.

@@ -5,13 +5,13 @@ SHORT:
 Chạy, nhảy, né đạn, nhân vật tự bắn. Chơi offline, không cần năng lượng.
 
 FULL:
-Rivet Blaster là game platformer run and gun 2D nhịp độ nhanh, nơi nhân vật của bạn tự động bắn. Bạn chỉ cần chạy, nhảy và lướt: việc ngắm bắn là tự động, nên mỗi giây đều dành cho di chuyển khéo léo, né đạn và chọn đúng vật phẩm tăng sức mạnh.
+Rivet Blaster là game platformer run and gun 2D nhịp độ nhanh, nơi nhân vật của bạn tự động bắn. Bạn di chuyển bằng joystick và nhảy bằng một nút duy nhất (chạm lần nữa để nhảy đôi): việc ngắm bắn là tự động, nên mỗi giây đều dành cho di chuyển khéo léo, né đạn và chọn đúng vật phẩm tăng sức mạnh.
 
-20 THẾ GIỚI, 600 MÀN CHƠI
-Rừng, sa mạc, sông băng, núi lửa, nhà máy, mặt trăng và nhiều hơn nữa: 20 thế giới, mỗi thế giới 30 màn, cứ 10 màn có một trùm và kẻ địch mới biết đi, nhảy, bay, bắn và phân tách. Mọi màn chơi đều đã được robot của chúng tôi chơi thử, nên luôn có thể vượt qua.
+20 THẾ GIỚI, MỖI THẾ GIỚI 30 CHẶNG
+Rừng, sa mạc, sông băng, núi lửa, nhà máy, mặt trăng và nhiều hơn nữa: mỗi thế giới là một hành trình 30 chặng ngày càng khó, với một trùm ở chặng 10, 20 và 30. Kẻ địch biết đi, nhảy, bay, bắn, phân tách và núp sau khiên. Vượt qua chặng 30 để mở thế giới tiếp theo và thử phá kỷ lục của bạn.
 
 VẬT PHẨM CỘNG DỒN
-Sau mỗi phòng, chọn một trong ba vật phẩm: sát thương cao hơn, bắn nhanh hơn, nòng đôi, bắn đôi và bắn ba, bắn chéo, đạn xuyên và đạn nảy, nhảy ba lần, khiên, hút máu, đòn chí mạng và nhiều hơn nữa. Tất cả đều cộng dồn, và mỗi lượt chơi bắt đầu lại từ số không, nên không có hai ván nào giống nhau.
+Chọn một lợi thế khởi đầu, rồi lên cấp bằng cách hạ kẻ địch và mỗi lần chọn một trong ba vật phẩm: sát thương cao hơn, bắn nhanh hơn, nòng đôi, bắn đôi và bắn ba, bắn chéo, đạn xuyên và đạn nảy, nhảy ba lần, khiên, hút máu, đòn chí mạng và nhiều hơn nữa. Tất cả đều cộng dồn đến chặng 30, nên không có hai lượt chơi nào giống nhau.
 
 7 ANH HÙNG NGUYÊN TỐ
 Rivet của sắt, Vampa của lửa, Brina của băng, Tossina của độc, Granito của đất, Arcano của phép thuật và Raffica của gió. Mỗi người có một sức mạnh đặc biệt thực sự: đạn cháy, đạn đóng băng, độc, phép thuật tự dẫn đường, sóng xung kích, nhảy ba lần. Thu thập mảnh của họ để mở khóa và tăng sao.

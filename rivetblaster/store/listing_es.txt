@@ -5,13 +5,13 @@ SHORT:
 Corre, salta y esquiva mientras tu héroe dispara solo. Sin internet ni energía.
 
 FULL:
-Rivet Blaster es un rápido juego de plataformas 2D de correr y disparar en el que tu héroe dispara solo. Tú solo corres, saltas y haces un dash: la puntería es automática, así que cada segundo cuenta para moverte bien, esquivar balas y elegir la mejora adecuada.
+Rivet Blaster es un rápido juego de plataformas 2D de correr y disparar en el que tu héroe dispara solo. Te mueves con el joystick y saltas con un solo botón (púlsalo otra vez para el doble salto): la puntería es automática, así que cada segundo cuenta para moverte bien, esquivar balas y elegir la mejora adecuada.
 
-20 MUNDOS, 600 NIVELES
-Bosques, desiertos, glaciares, volcanes, fábricas, la luna y mucho más: 20 mundos de 30 niveles cada uno, un jefe cada 10 niveles y nuevos enemigos que caminan, saltan, vuelan, disparan y se dividen. Cada nivel fue probado por nuestro robot, así que siempre se puede superar.
+20 MUNDOS, 30 FASES CADA UNO
+Bosques, desiertos, glaciares, volcanes, fábricas, la luna y mucho más: cada mundo es una carrera de 30 fases cada vez más difíciles, con un jefe en las fases 10, 20 y 30. Los enemigos caminan, saltan, vuelan, disparan, se dividen y se protegen con escudos. Supera la fase 30 para abrir el siguiente mundo e intenta batir tu récord.
 
 MEJORAS QUE SE ACUMULAN
-Después de cada sala eliges una de tres mejoras: más daño, disparo más rápido, doble cañón, disparo doble y triple, disparos en diagonal, balas que perforan y rebotan, triple salto, escudo, robo de vida, golpes críticos y más. Todas se acumulan y cada partida empieza de cero, así que no hay dos iguales.
+Elige una ventaja inicial, luego sube de nivel derrotando enemigos y elige cada vez una de tres mejoras: más daño, disparo más rápido, doble cañón, disparo doble y triple, disparos en diagonal, balas que perforan y rebotan, triple salto, escudo, robo de vida, golpes críticos y más. Todas se acumulan hasta la fase 30, así que no hay dos partidas iguales.
 
 7 HÉROES ELEMENTALES
 Rivet de hierro, Vampa de fuego, Brina de hielo, Tossina de veneno, Granito de tierra, Arcano de magia y Raffica de viento. Cada uno tiene un poder especial real: balas que queman, disparos que congelan, veneno, magia guiada, ondas de choque, triple salto. Reúne sus fragmentos para desbloquearlos y subir sus estrellas.

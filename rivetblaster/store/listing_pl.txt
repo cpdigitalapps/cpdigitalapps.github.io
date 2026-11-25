@@ -5,13 +5,13 @@ SHORT:
 Biegaj, skacz i unikaj, a bohater strzela sam. Offline, bez energii.
 
 FULL:
-Rivet Blaster to szybka platformówka 2D w stylu run and gun, w której bohater strzela sam. Ty tylko biegasz, skaczesz i robisz zwrot: celowanie jest automatyczne, więc każda sekunda to dobre poruszanie się, unikanie pocisków i wybór odpowiedniego wzmocnienia.
+Rivet Blaster to szybka platformówka 2D w stylu run and gun, w której bohater strzela sam. Poruszasz się joystickiem i skaczesz jednym przyciskiem (dotknij ponownie, by wykonać podwójny skok): celowanie jest automatyczne, więc każda sekunda to dobre poruszanie się, unikanie pocisków i wybór odpowiedniego wzmocnienia.
 
-20 ŚWIATÓW, 600 POZIOMÓW
-Lasy, pustynie, lodowce, wulkany, fabryki, Księżyc i więcej: 20 światów po 30 poziomów, boss co 10 poziomów oraz nowi wrogowie, którzy chodzą, skaczą, latają, strzelają i dzielą się. Każdy poziom przetestował nasz robot, więc zawsze da się go przejść.
+20 ŚWIATÓW, PO 30 ETAPÓW
+Lasy, pustynie, lodowce, wulkany, fabryki, Księżyc i więcej: każdy świat to bieg przez 30 coraz trudniejszych etapów, z bossem na etapach 10, 20 i 30. Wrogowie chodzą, skaczą, latają, strzelają, dzielą się i chowają za tarczami. Przejdź etap 30, aby otworzyć kolejny świat, i spróbuj pobić swój rekord.
 
 WZMOCNIENIA, KTÓRE SIĘ SUMUJĄ
-Po każdym pokoju wybierz jedno z trzech wzmocnień: większe obrażenia, szybszy ogień, podwójna lufa, strzał podwójny i potrójny, strzały ukośne, pociski przebijające i odbijające się, potrójny skok, tarcza, kradzież życia, trafienia krytyczne i inne. Wszystkie się sumują, a każda gra zaczyna się od zera, więc żadna rozgrywka nie jest taka sama.
+Wybierz bonus na start, potem zdobywaj poziomy, pokonując wrogów, i za każdym razem wybierz jedno z trzech wzmocnień: większe obrażenia, szybszy ogień, podwójna lufa, strzał podwójny i potrójny, strzały ukośne, pociski przebijające i odbijające się, potrójny skok, tarcza, kradzież życia, trafienia krytyczne i inne. Wszystkie sumują się do etapu 30, więc żaden bieg nie jest taki sam.
 
 7 ELEMENTALNYCH BOHATERÓW
 Rivet z żelaza, Vampa z ognia, Brina z lodu, Tossina z trucizny, Granito z ziemi, Arcano z magii i Raffica z wiatru. Każdy ma prawdziwą moc specjalną: płonące pociski, mrożące strzały, trucizna, magia samonaprowadzająca, fale uderzeniowe, potrójny skok. Zbieraj ich odłamki, aby ich odblokować i zwiększać liczbę gwiazdek.

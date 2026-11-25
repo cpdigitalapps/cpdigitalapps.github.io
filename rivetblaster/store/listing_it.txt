@@ -5,13 +5,13 @@ SHORT:
 Corri, salta e schiva mentre il tuo eroe spara da solo. Offline, senza energia.
 
 FULL:
-Rivet Blaster è un veloce platform 2D run and gun in cui il tuo eroe spara da solo. Tu devi solo correre, saltare e scattare: la mira è automatica, quindi ogni secondo conta per muoversi bene, schivare i proiettili e scegliere il potenziamento giusto.
+Rivet Blaster è un veloce platform 2D run and gun in cui il tuo eroe spara da solo. Ti muovi con il joystick e salti con un solo pulsante (tocca ancora per il doppio salto): la mira è automatica, quindi ogni secondo conta per muoversi bene, schivare i proiettili e scegliere il potenziamento giusto.
 
-20 MONDI, 600 LIVELLI
-Foreste, deserti, ghiacciai, vulcani, fabbriche, la luna e molto altro: 20 mondi da 30 livelli ciascuno, un boss ogni 10 livelli e nemici nuovi che camminano, saltano, volano, sparano e si dividono. Ogni livello è stato provato dal nostro robot, quindi si può sempre superare.
+20 MONDI, 30 FASI CIASCUNO
+Foreste, deserti, ghiacciai, vulcani, fabbriche, la luna e molto altro: ogni mondo è una corsa di 30 fasi sempre più difficili, con un boss alle fasi 10, 20 e 30. I nemici camminano, saltano, volano, sparano, si dividono e si riparano dietro gli scudi. Supera la fase 30 per aprire il mondo successivo e prova a battere il tuo record.
 
 POTENZIAMENTI CHE SI SOMMANO
-Dopo ogni stanza scegli uno tra tre potenziamenti: più danno, fuoco più rapido, doppia canna, colpo doppio e triplo, colpi in diagonale, proiettili che perforano e rimbalzano, triplo salto, scudo, furto di vita, colpi critici e altro ancora. Si sommano tutti e ogni partita riparte da zero, quindi non ce ne sono due uguali.
+Scegli un vantaggio di partenza, poi sali di livello sconfiggendo i nemici e scegli ogni volta uno tra tre potenziamenti: più danno, fuoco più rapido, doppia canna, colpo doppio e triplo, colpi in diagonale, proiettili che perforano e rimbalzano, triplo salto, scudo, furto di vita, colpi critici e altro ancora. Si sommano tutti fino alla fase 30, quindi non ci sono due corse uguali.
 
 7 EROI ELEMENTALI
 Rivet di ferro, Vampa di fuoco, Brina di ghiaccio, Tossina di veleno, Granito di terra, Arcano di magia e Raffica di vento. Ognuno ha un vero potere speciale: proiettili che bruciano, colpi che gelano, veleno, magia guidata, onde d'urto, triplo salto. Raccogli le loro schegge per sbloccarli e far crescere le stelle.

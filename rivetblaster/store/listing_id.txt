@@ -5,13 +5,13 @@ SHORT:
 Lari, lompat, menghindar, pahlawan menembak sendiri. Offline, tanpa energi.
 
 FULL:
-Rivet Blaster adalah game platformer run and gun 2D yang cepat, di mana pahlawanmu menembak sendiri. Kamu hanya berlari, melompat, dan dash: bidikan otomatis, jadi setiap detik adalah soal bergerak dengan baik, menghindari peluru, dan memilih power-up yang tepat.
+Rivet Blaster adalah game platformer run and gun 2D yang cepat, di mana pahlawanmu menembak sendiri. Kamu bergerak dengan joystick dan melompat dengan satu tombol (ketuk lagi untuk lompat ganda): bidikan otomatis, jadi setiap detik adalah soal bergerak dengan baik, menghindari peluru, dan memilih power-up yang tepat.
 
-20 DUNIA, 600 LEVEL
-Hutan, gurun, gletser, gunung berapi, pabrik, bulan, dan banyak lagi: 20 dunia dengan masing-masing 30 level, bos setiap 10 level, dan musuh baru yang berjalan, melompat, terbang, menembak, dan membelah diri. Setiap level sudah diuji oleh robot game kami, jadi selalu bisa diselesaikan.
+20 DUNIA, MASING-MASING 30 TAHAP
+Hutan, gurun, gletser, gunung berapi, pabrik, bulan, dan banyak lagi: setiap dunia adalah satu perjalanan 30 tahap yang makin sulit, dengan bos di tahap 10, 20, dan 30. Musuh berjalan, melompat, terbang, menembak, membelah diri, dan bersembunyi di balik perisai. Selesaikan tahap 30 untuk membuka dunia berikutnya dan coba pecahkan rekormu.
 
 POWER-UP YANG BERTUMPUK
-Setelah setiap ruangan pilih satu dari tiga power-up: damage lebih besar, tembakan lebih cepat, laras ganda, tembakan ganda dan tiga arah, tembakan diagonal, peluru menembus dan memantul, lompat tiga kali, perisai, curi nyawa, serangan kritis, dan lainnya. Semuanya bertumpuk, dan setiap permainan dimulai lagi dari nol, jadi tidak ada dua permainan yang sama.
+Pilih keuntungan awal, lalu naik level dengan mengalahkan musuh dan pilih satu dari tiga power-up setiap kali: damage lebih besar, tembakan lebih cepat, laras ganda, tembakan ganda dan tiga arah, tembakan diagonal, peluru menembus dan memantul, lompat tiga kali, perisai, curi nyawa, serangan kritis, dan lainnya. Semuanya bertumpuk sampai tahap 30, jadi tidak ada dua permainan yang sama.
 
 7 PAHLAWAN ELEMEN
 Rivet dari besi, Vampa dari api, Brina dari es, Tossina dari racun, Granito dari tanah, Arcano dari sihir, dan Raffica dari angin. Masing-masing punya kekuatan khusus yang nyata: peluru membakar, tembakan membekukan, racun, sihir pengejar, gelombang kejut, lompat tiga kali. Kumpulkan pecahan mereka untuk membukanya dan menaikkan bintangnya.

@@ -5,13 +5,13 @@ SHORT:
 Run, jump and dodge while your hero shoots by himself. Offline, no energy.
 
 FULL:
-Rivet Blaster is a fast 2D run and gun platformer where your hero shoots on his own. You only run, jump and dash: aim is automatic, so every second is about moving well, dodging bullets and choosing the right power-up.
+Rivet Blaster is a fast 2D run and gun platformer where your hero shoots on his own. You move with the joystick and jump with one button (tap again for a double jump): aim is automatic, so every second is about moving well, dodging bullets and choosing the right power-up.
 
-20 WORLDS, 600 LEVELS
-Forests, deserts, glaciers, volcanoes, factories, the moon and more: 20 worlds with 30 levels each, a boss every 10 levels and new enemies that walk, jump, fly, shoot and split. Every level was tested by our game robot, so it is always beatable.
+20 WORLDS, 30 STAGES EACH
+Forests, deserts, glaciers, volcanoes, factories, the moon and more: every world is one run of 30 stages that get harder and harder, with a boss at stages 10, 20 and 30. Enemies walk, jump, fly, shoot, split and hide behind shields. Beat stage 30 to open the next world and try to beat your record.
 
 POWER-UPS THAT STACK
-After each room pick one of three power-ups: more damage, faster fire, double barrel, double and triple shot, diagonal shots, piercing and bouncing bullets, triple jump, shield, life steal, critical hits and more. They all stack, and every run starts again from zero, so no two games are the same.
+Pick a starting perk, then level up by defeating enemies and choose one of three power-ups each time: more damage, faster fire, double barrel, double and triple shot, diagonal shots, piercing and bouncing bullets, triple jump, shield, life steal, critical hits and more. They all stack until stage 30, so no two runs are the same.
 
 7 ELEMENTAL HEROES
 Rivet of iron, Vampa of fire, Brina of ice, Tossina of poison, Granito of earth, Arcano of magic and Raffica of wind. Each one has a real special power: burning bullets, freezing shots, poison, homing magic, shockwaves, triple jump. Collect their shards to unlock them and raise their stars.

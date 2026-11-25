@@ -5,13 +5,13 @@ SHORT:
 Ren, spring en ontwijk terwijl je held zelf schiet. Offline, zonder energie.
 
 FULL:
-Rivet Blaster is een snelle 2D run and gun platformgame waarin je held zelf schiet. Jij rent, springt en dasht alleen: het richten gaat automatisch, dus elke seconde draait om goed bewegen, kogels ontwijken en de juiste power-up kiezen.
+Rivet Blaster is een snelle 2D run and gun platformgame waarin je held zelf schiet. Je beweegt met de joystick en springt met één knop (tik nogmaals voor een dubbele sprong): het richten gaat automatisch, dus elke seconde draait om goed bewegen, kogels ontwijken en de juiste power-up kiezen.
 
-20 WERELDEN, 600 LEVELS
-Bossen, woestijnen, gletsjers, vulkanen, fabrieken, de maan en meer: 20 werelden met elk 30 levels, om de 10 levels een eindbaas en nieuwe vijanden die lopen, springen, vliegen, schieten en zich splitsen. Elk level is getest door onze spelrobot, dus je kunt het altijd uitspelen.
+20 WERELDEN, ELK 30 STAGES
+Bossen, woestijnen, gletsjers, vulkanen, fabrieken, de maan en meer: elke wereld is een run van 30 steeds moeilijkere stages, met een eindbaas bij stage 10, 20 en 30. Vijanden lopen, springen, vliegen, schieten, splitsen zich en verschuilen zich achter schilden. Versla stage 30 om de volgende wereld te openen en probeer je record te verbeteren.
 
 POWER-UPS DIE SAMEN STAPELEN
-Kies na elke kamer een van drie power-ups: meer schade, sneller vuren, dubbele loop, dubbel en drievoudig schot, diagonale schoten, doordringende en stuiterende kogels, drievoudige sprong, schild, levensdiefstal, kritieke treffers en meer. Ze stapelen allemaal, en elke run begint weer bij nul, dus geen twee potjes zijn hetzelfde.
+Kies een startvoordeel, stijg daarna een level door vijanden te verslaan en kies elke keer een van drie power-ups: meer schade, sneller vuren, dubbele loop, dubbel en drievoudig schot, diagonale schoten, doordringende en stuiterende kogels, drievoudige sprong, schild, levensdiefstal, kritieke treffers en meer. Ze stapelen allemaal tot stage 30, dus geen twee runs zijn hetzelfde.
 
 7 ELEMENTAIRE HELDEN
 Rivet van ijzer, Vampa van vuur, Brina van ijs, Tossina van gif, Granito van aarde, Arcano van magie en Raffica van wind. Elk heeft een echte speciale kracht: brandende kogels, bevriezende schoten, gif, zoekende magie, schokgolven, drievoudige sprong. Verzamel hun scherven om ze te ontgrendelen en hun sterren te verhogen.

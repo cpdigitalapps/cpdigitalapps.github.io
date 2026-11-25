@@ -5,13 +5,13 @@ SHORT:
 Corra, pule e desvie enquanto seu herói atira sozinho. Offline, sem energia.
 
 FULL:
-Rivet Blaster é um rápido jogo de plataforma 2D de correr e atirar em que seu herói atira sozinho. Você só corre, pula e dá dash: a mira é automática, então cada segundo conta para se mover bem, desviar das balas e escolher o power-up certo.
+Rivet Blaster é um rápido jogo de plataforma 2D de correr e atirar em que seu herói atira sozinho. Você se move com o joystick e pula com um só botão (toque de novo para o pulo duplo): a mira é automática, então cada segundo conta para se mover bem, desviar das balas e escolher o power-up certo.
 
-20 MUNDOS, 600 FASES
-Florestas, desertos, geleiras, vulcões, fábricas, a lua e muito mais: 20 mundos com 30 fases cada, um chefe a cada 10 fases e novos inimigos que andam, pulam, voam, atiram e se dividem. Cada fase foi testada pelo nosso robô, então sempre dá para vencer.
+20 MUNDOS, 30 ETAPAS CADA
+Florestas, desertos, geleiras, vulcões, fábricas, a lua e muito mais: cada mundo é uma corrida de 30 etapas cada vez mais difíceis, com um chefe nas etapas 10, 20 e 30. Os inimigos andam, pulam, voam, atiram, se dividem e se escondem atrás de escudos. Vença a etapa 30 para abrir o próximo mundo e tente bater seu recorde.
 
 POWER-UPS QUE SE ACUMULAM
-Depois de cada sala, escolha um entre três power-ups: mais dano, tiro mais rápido, cano duplo, tiro duplo e triplo, tiros na diagonal, balas que perfuram e ricocheteiam, pulo triplo, escudo, roubo de vida, acertos críticos e mais. Todos se acumulam e cada partida recomeça do zero, então nenhuma é igual à outra.
+Escolha uma vantagem inicial, depois suba de nível derrotando inimigos e escolha a cada vez um entre três power-ups: mais dano, tiro mais rápido, cano duplo, tiro duplo e triplo, tiros na diagonal, balas que perfuram e ricocheteiam, pulo triplo, escudo, roubo de vida, acertos críticos e mais. Todos se acumulam até a etapa 30, então nenhuma corrida é igual à outra.
 
 7 HERÓIS ELEMENTAIS
 Rivet de ferro, Vampa de fogo, Brina de gelo, Tossina de veneno, Granito de terra, Arcano de magia e Raffica de vento. Cada um tem um poder especial de verdade: balas em chamas, tiros que congelam, veneno, magia teleguiada, ondas de choque, pulo triplo. Junte os fragmentos deles para desbloqueá-los e subir suas estrelas.
