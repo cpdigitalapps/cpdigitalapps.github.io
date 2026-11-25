@@ -1,0 +1,48 @@
+<en-US>
+First release of Mythgrave: 8 heroes, 16 weapons with evolutions, 5 lands, 5 game modes, Temple, Armoury and Forge, 28 achievements and a bestiary. Fully offline, in 16 languages.
+</en-US>
+<it-IT>
+Prima versione di Mythgrave: 8 eroi, 16 armi con evoluzioni, 5 terre, 5 modalità, Tempio, Armeria e Fucina, 28 imprese e un bestiario. Tutto offline, in 16 lingue.
+</it-IT>
+<es-ES>
+Primera versión de Mythgrave: 8 héroes, 16 armas con evoluciones, 5 tierras, 5 modos de juego, Templo, Armería y Fragua, 28 hazañas y un bestiario. Totalmente sin conexión, en 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version de Mythgrave : 8 héros, 16 armes avec évolutions, 5 terres, 5 modes de jeu, Temple, Armurerie et Forge, 28 exploits et un bestiaire. Entièrement hors ligne, en 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version von Mythgrave: 8 Helden, 16 Waffen mit Evolutionen, 5 Länder, 5 Spielmodi, Tempel, Rüstkammer und Schmiede, 28 Erfolge und ein Bestiarium. Komplett offline, in 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão de Mythgrave: 8 heróis, 16 armas com evoluções, 5 terras, 5 modos de jogo, Templo, Armaria e Forja, 28 conquistas e um bestiário. Totalmente offline, em 16 idiomas.
+</pt-BR>
+<ru-RU>
+Первый выпуск Mythgrave: 8 героев, 16 видов оружия с эволюциями, 5 миров, 5 режимов, Храм, Оружейная и Кузница, 28 подвигов и бестиарий. Полностью офлайн, на 16 языках.
+</ru-RU>
+<tr-TR>
+Mythgrave'in ilk sürümü: 8 kahraman, evrimli 16 silah, 5 diyar, 5 oyun modu, Tapınak, Cephanelik ve Demirhane, 28 başarı ve bir Canavar Kitabı. Tamamen çevrimdışı, 16 dilde.
+</tr-TR>
+<pl-PL>
+Pierwsze wydanie Mythgrave: 8 bohaterów, 16 broni z ewolucjami, 5 krain, 5 trybów, Świątynia, Zbrojownia i Kuźnia, 28 osiągnięć i bestiariusz. W pełni offline, w 16 językach.
+</pl-PL>
+<nl-NL>
+Eerste versie van Mythgrave: 8 helden, 16 wapens met evoluties, 5 landen, 5 spelmodi, Tempel, Wapenkamer en Smidse, 28 prestaties en een bestiarium. Volledig offline, in 16 talen.
+</nl-NL>
+<uk>
+Перший випуск Mythgrave: 8 героїв, 16 видів зброї з еволюціями, 5 світів, 5 режимів, Храм, Зброярня та Кузня, 28 звершень і бестіарій. Повністю офлайн, 16 мовами.
+</uk>
+<id>
+Rilis pertama Mythgrave: 8 pahlawan, 16 senjata dengan evolusi, 5 wilayah, 5 mode permainan, Kuil, Gudang Senjata dan Tempa, 28 pencapaian, dan Bestiari. Sepenuhnya offline, dalam 16 bahasa.
+</id>
+<vi>
+Bản phát hành đầu tiên của Mythgrave: 8 anh hùng, 16 vũ khí có tiến hóa, 5 vùng đất, 5 chế độ chơi, Đền thờ, Kho giáp và Lò rèn, 28 thành tích và Sách quái vật. Hoàn toàn offline, có 16 ngôn ngữ.
+</vi>
+<ja-JP>
+Mythgrave の初回リリース:8人のヒーロー、進化する16種類の武器、5つの舞台、5つのモード、神殿、武具庫、鍛冶場、28個の実績、魔物図鑑。完全オフラインで、16言語に対応しています。
+</ja-JP>
+<ko-KR>
+Mythgrave 첫 출시: 영웅 8명, 진화하는 무기 16종, 5개의 무대, 5가지 모드, 신전, 무기고, 대장간, 업적 28개, 도감. 완전한 오프라인 플레이, 16개 언어 지원.
+</ko-KR>
+<zh-CN>
+Mythgrave 首次发布：8位英雄、16种可进化武器、5张地图、5种模式、神殿、军械库、锻造炉、28项成就和怪物图鉴。完全离线，支持16种语言。
+</zh-CN>
