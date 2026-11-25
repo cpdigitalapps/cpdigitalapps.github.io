@@ -1,0 +1,46 @@
+TITLE:
+Zombrake: Supervivencia Zombi
+
+SHORT:
+Sobrevive 60 segundos a hordas zombi. Sin conexión, sin energía, dispara solo
+
+FULL:
+¡Sobrevive al apocalipsis zombi, 60 segundos cada vez!
+
+Zombrake es un juego de acción 3D rápido: te mueves con un dedo y tu héroe apunta y dispara solo. Resiste a la horda durante 60 segundos, recoge gemas, sube de rango y elige un nuevo poder cada vez. Cada nivel es corto, intenso y diferente.
+
+600 NIVELES EN 30 ZONAS
+Desde las afueras de Port Ashen hasta el hospital, el metro, el puerto, el centro comercial, el campo militar y la ciudad en llamas. Después cruzas el mar y sigues hacia el norte: casco antiguo, parque urbano, escuela, estadio, cementerio, prisión, la presa, aeropuerto, las minas y zona cero. Cada zona tiene su propio mapa, sus zombis y su jefe.
+
+30 JEFES
+El Carnicero, el Coloso, el Paciente Cero, el Aullador, la Madre de las Esporas, el Abismo y muchos más. Cada jefe tiene ataques especiales: cargas, golpes al suelo, ácido, esporas y refuerzos.
+
+15 TIPOS DE ZOMBIS
+Corredores, reptantes, perros infectados, explosivos, escupidores, soldados con armadura, gritones que aceleran a la horda, sombras que solo ves de cerca, saltadores, curanderos y brutos gigantes.
+
+CREA TU HÉROE
+- 7 armas para desbloquear y mejorar: fusil de asalto, pistolas gemelas, escopeta de corredera, subfusil, fusil de precisión, ametralladora rotativa y lanzallamas.
+- 3 héroes con habilidades propias: Rex el soldado, Marta la médica, Nathan el pesado.
+- Equipo con 4 rarezas: cascos, chalecos, botas y guantes.
+- 18 poderes para elegir durante los niveles y 10 combos secretos: rayo en cadena, esferas giratorias, escudo de energía, minas, balas incendiarias y de hielo, granadas de fragmentación y más.
+- La Armería y el Refugio: mejoras permanentes, un dron que vuela contigo y un almacén que produce monedas.
+
+SIEMPRE HAY ALGO QUE HACER
+- 4 modos: Campaña, Infinito, Asalto de Brutos y Reto del día.
+- Misiones diarias y semanales, un regalo de 7 días que nunca pierdes, 3 estrellas en cada nivel.
+- Medallas, estadísticas y una historia en 31 capítulos.
+- Eventos de temporada con decoraciones y monedas extra.
+
+JUSTO Y SIN CONEXIÓN
+- Se juega sin conexión, no necesitas internet.
+- Sin energía, sin vidas que esperar.
+- Sin compras con dinero real: lo consigues todo jugando.
+- Anuncios solo en los menús y entre niveles, nunca mientras juegas. Los vídeos opcionales siempre dicen "Ver un anuncio".
+
+GRÁFICOS PARA CADA MÓVIL
+Ajustes Bajo, Medio, Alto y Ultra, de 30 a 120 FPS, resolución 3D, sombras, efectos, zoom acercando y alejando. 16 idiomas.
+
+¡Descarga Zombrake y descubre cuánto tiempo puedes sobrevivir!
+
+RELEASE NOTES:
+Primera versión de Zombrake: 600 niveles, 30 jefes, 7 armas, 3 héroes, misiones, medallas y 16 idiomas.

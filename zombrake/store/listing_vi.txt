@@ -1,0 +1,46 @@
+TITLE:
+Zombrake: Sinh Tồn Zombie 3D
+
+SHORT:
+Sống sót 60 giây trước bầy zombie. Chơi offline, không năng lượng, tự động bắn
+
+FULL:
+Sống sót qua ngày tận thế zombie, mỗi lần 60 giây!
+
+Zombrake là game hành động 3D nhịp nhanh: bạn di chuyển bằng một ngón tay, còn anh hùng của bạn tự ngắm và tự bắn. Chống chọi bầy zombie trong 60 giây, nhặt đá quý, lên hạng và mỗi lần chọn một sức mạnh mới. Mỗi màn chơi ngắn, căng thẳng và khác nhau.
+
+600 MÀN CHƠI TRONG 30 KHU VỰC
+Từ vùng ngoại ô Port Ashen đến bệnh viện, tàu điện ngầm, bến cảng, trung tâm thương mại, trại quân sự và thành phố lửa. Rồi vượt biển và tiến lên phía bắc: phố cổ, công viên, trường học, sân vận động, nghĩa trang, nhà tù, đập nước, sân bay, hầm mỏ và điểm số không. Mỗi khu vực có bản đồ, zombie và trùm riêng.
+
+30 TRÙM
+Gã Đồ Tể, Gã Khổng Lồ, Bệnh nhân số 0, Kẻ Tru Hú, Mẹ Bào Tử, Vực Thẳm và nhiều trùm khác. Mỗi trùm có đòn đặc biệt: lao tới, đập xuống đất, axit, bào tử và gọi viện binh.
+
+15 LOẠI ZOMBIE
+Zombie chạy nhanh, zombie bò, chó nhiễm bệnh, zombie phát nổ, zombie phun độc, lính mặc giáp, kẻ gào thét làm bầy zombie nhanh hơn, bóng ma chỉ thấy khi ở gần, zombie nhảy, zombie chữa lành và quái khổng lồ.
+
+XÂY DỰNG ANH HÙNG CỦA BẠN
+- 7 vũ khí để mở khóa và nâng cấp: súng trường tấn công, súng lục đôi, súng ngắn pump-action, tiểu liên, súng bắn tỉa, súng máy xoay và súng phun lửa.
+- 3 anh hùng với kỹ năng riêng: Rex người lính, Marta y tá, Nathan người khổng lồ.
+- Trang bị có 4 độ hiếm: mũ giáp, áo giáp, giày và găng tay.
+- 18 sức mạnh để chọn trong màn chơi và 10 combo bí mật: sét lan truyền, quả cầu xoay, khiên năng lượng, mìn, đạn lửa và đạn băng, lựu đạn chùm và nhiều hơn nữa.
+- Kho vũ khí và Nơi trú ẩn: nâng cấp vĩnh viễn, drone bay cùng bạn và nhà kho sinh ra xu.
+
+LUÔN CÓ VIỆC ĐỂ LÀM
+- 4 chế độ: Chiến dịch, Vô tận, Đợt tấn công khổng lồ và Thử thách hằng ngày.
+- Nhiệm vụ hằng ngày và hằng tuần, quà 7 ngày không bao giờ mất, 3 sao cho mỗi màn.
+- Huy chương, thống kê và cốt truyện gồm 31 chương.
+- Sự kiện theo mùa với đồ trang trí và xu thưởng.
+
+CÔNG BẰNG VÀ OFFLINE
+- Chơi offline, không cần internet.
+- Không năng lượng, không phải chờ hồi mạng.
+- Không mua bằng tiền thật: bạn kiếm mọi thứ bằng cách chơi.
+- Quảng cáo chỉ xuất hiện ở menu và giữa các màn, không bao giờ khi đang chơi. Video tùy chọn luôn ghi rõ "Xem quảng cáo".
+
+ĐỒ HỌA CHO MỌI ĐIỆN THOẠI
+Các mức Thấp, Trung bình, Cao và Ultra, từ 30 đến 120 FPS, độ phân giải 3D, bóng đổ, hiệu ứng, phóng to và thu nhỏ. 16 ngôn ngữ.
+
+Tải Zombrake và xem bạn sống sót được bao lâu!
+
+RELEASE NOTES:
+Phiên bản đầu tiên của Zombrake: 600 màn chơi, 30 trùm, 7 vũ khí, 3 anh hùng, nhiệm vụ, huy chương và 16 ngôn ngữ.

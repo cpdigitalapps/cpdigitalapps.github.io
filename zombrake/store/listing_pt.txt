@@ -1,0 +1,46 @@
+TITLE:
+Zombrake: Sobrevivência Zumbi
+
+SHORT:
+Sobreviva 60 segundos a hordas de zumbis. Offline, sem energia, atira sozinho
+
+FULL:
+Sobreviva ao apocalipse zumbi, 60 segundos de cada vez!
+
+Zombrake é um jogo de ação 3D rápido: você se move com um dedo e seu herói mira e atira sozinho. Resista à horda por 60 segundos, colete gemas, suba de nível e escolha um novo poder a cada vez. Cada fase é curta, intensa e diferente.
+
+600 FASES EM 30 ZONAS
+Do subúrbio de Port Ashen ao hospital, ao metrô, ao porto, ao shopping, à base militar e à cidade em chamas. Depois você atravessa o mar e segue para o norte: cidade antiga, parque da cidade, escola, estádio, cemitério, prisão, a represa, aeroporto, as minas e marco zero. Cada zona tem seu próprio mapa, seus zumbis e seu chefão.
+
+30 CHEFÕES
+O Açougueiro, o Colosso, o Paciente Zero, o Uivador, a Mãe dos Esporos, o Abismo e muitos outros. Cada chefão tem ataques especiais: investidas, golpes no chão, ácido, esporos e reforços.
+
+15 TIPOS DE ZUMBIS
+Corredores, rastejantes, cães infectados, explosivos, cuspidores, soldados blindados, gritadores que deixam a horda mais rápida, sombras que você só vê de perto, saltadores, curandeiros e brutamontes gigantes.
+
+CRIE O SEU HERÓI
+- 7 armas para desbloquear e melhorar: fuzil de assalto, pistolas duplas, espingarda calibre 12, submetralhadora, fuzil de precisão, metralhadora rotativa e lança-chamas.
+- 3 heróis com habilidades próprias: Rex o soldado, Marta a médica, Nathan o pesadão.
+- Equipamento com 4 raridades: capacetes, coletes, botas e luvas.
+- 18 poderes para escolher durante as fases e 10 combos secretos: raio em cadeia, esferas giratórias, escudo de energia, minas, balas incendiárias e de gelo, granadas de fragmentação e mais.
+- O Arsenal e o Abrigo: melhorias permanentes, um drone que voa com você e um depósito que produz moedas.
+
+SEMPRE TEM ALGO PARA FAZER
+- 4 modos: Campanha, Infinito, Ataque dos Brutamontes e Desafio do dia.
+- Missões diárias e semanais, um presente de 7 dias que você nunca perde, 3 estrelas em cada fase.
+- Medalhas, estatísticas e uma história em 31 capítulos.
+- Eventos sazonais com decorações e moedas extras.
+
+JUSTO E OFFLINE
+- Joga-se offline, sem precisar de internet.
+- Sem energia, sem vidas para esperar.
+- Sem compras com dinheiro real: você ganha tudo jogando.
+- Anúncios só nos menus e entre as fases, nunca enquanto você joga. Os vídeos opcionais sempre dizem "Ver um anúncio".
+
+GRÁFICOS PARA QUALQUER CELULAR
+Predefinições Baixo, Médio, Alto e Ultra, de 30 a 120 FPS, resolução 3D, sombras, efeitos, zoom para aproximar e afastar. 16 idiomas.
+
+Baixe Zombrake e descubra por quanto tempo você consegue sobreviver!
+
+RELEASE NOTES:
+Primeira versão de Zombrake: 600 fases, 30 chefões, 7 armas, 3 heróis, missões, medalhas e 16 idiomas.

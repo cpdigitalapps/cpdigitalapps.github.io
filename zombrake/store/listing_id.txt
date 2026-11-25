@@ -1,0 +1,46 @@
+TITLE:
+Zombrake: Survival Zombie 3D
+
+SHORT:
+Bertahan 60 detik dari gerombolan zombi. Offline, tanpa energi, tembak otomatis
+
+FULL:
+Bertahan di kiamat zombi, 60 detik demi 60 detik!
+
+Zombrake adalah game aksi 3D yang cepat: kamu bergerak dengan satu jari, dan pahlawanmu membidik serta menembak sendiri. Bertahanlah dari gerombolan selama 60 detik, kumpulkan permata, naik peringkat, dan pilih kekuatan baru setiap kali. Setiap level singkat, menegangkan, dan berbeda.
+
+600 LEVEL DI 30 ZONA
+Dari pinggiran Port Ashen ke rumah sakit, kereta bawah tanah, pelabuhan, pusat perbelanjaan, pangkalan militer, dan kota yang terbakar. Lalu seberangi laut dan menuju utara: kota tua, taman kota, sekolah, stadion, pemakaman, penjara, bendungan, bandara, tambang, dan titik nol. Setiap zona punya peta, zombi, dan bos sendiri.
+
+30 BOS
+Si Tukang Jagal, Sang Kolosus, Pasien Nol, Si Pelolong, Induk Spora, Sang Jurang, dan banyak lagi. Setiap bos punya serangan khusus: serudukan, hantaman ke tanah, asam, spora, dan bala bantuan.
+
+15 JENIS ZOMBI
+Zombi pelari, perayap, anjing terinfeksi, zombi peledak, peludah, tentara berbaju zirah, penjerit yang membuat gerombolan lebih cepat, bayangan yang hanya terlihat dari dekat, pelompat, penyembuh, dan zombi raksasa.
+
+BANGUN PAHLAWANMU
+- 7 senjata untuk dibuka dan ditingkatkan: senapan serbu, pistol ganda, senapan pompa, senapan mesin ringan, senapan runduk, senapan mesin putar, dan pelempar api.
+- 3 pahlawan dengan kemampuan sendiri: Rex sang prajurit, Marta sang medis, Nathan si tangguh.
+- Perlengkapan dengan 4 tingkat kelangkaan: helm, rompi, sepatu bot, dan sarung tangan.
+- 18 kekuatan untuk dipilih saat bermain dan 10 kombinasi rahasia: petir berantai, bola berputar, perisai energi, ranjau, peluru api dan es, granat tandan, dan lainnya.
+- Gudang senjata dan Markas: peningkatan permanen, drone yang terbang bersamamu, dan gudang penghasil koin.
+
+SELALU ADA YANG DILAKUKAN
+- 4 mode: Kampanye, Tanpa akhir, Serbuan Zombi Raksasa, dan Tantangan Harian.
+- Misi harian dan mingguan, hadiah 7 hari yang tidak pernah hangus, 3 bintang di setiap level.
+- Medali, statistik, dan cerita dalam 31 bab.
+- Acara musiman dengan dekorasi dan koin bonus.
+
+ADIL DAN OFFLINE
+- Bisa dimainkan offline tanpa internet.
+- Tanpa energi, tanpa nyawa yang harus ditunggu.
+- Tanpa pembelian uang sungguhan: semuanya didapat dengan bermain.
+- Iklan hanya di menu dan di antara level, tidak pernah saat bermain. Video opsional selalu bertuliskan "Tonton iklan".
+
+GRAFIK UNTUK SEMUA PONSEL
+Preset Rendah, Sedang, Tinggi, dan Ultra, 30 hingga 120 FPS, resolusi 3D, bayangan, efek, zoom masuk dan keluar. 16 bahasa.
+
+Unduh Zombrake dan buktikan seberapa lama kamu bertahan!
+
+RELEASE NOTES:
+Rilis pertama Zombrake: 600 level, 30 bos, 7 senjata, 3 pahlawan, misi, medali, dan 16 bahasa.

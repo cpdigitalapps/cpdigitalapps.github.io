@@ -1,0 +1,46 @@
+TITLE:
+Zombrake: Zombi Hayatta Kal
+
+SHORT:
+60 saniye zombi sürüsüne karşı hayatta kal. Çevrimdışı, enerjisiz, oto atış
+
+FULL:
+Zombi kıyametinde hayatta kal, her seferinde 60 saniye!
+
+Zombrake hızlı bir 3D aksiyon oyunudur: tek parmakla hareket edersin, kahramanın kendi nişan alır ve ateş eder. Sürüye karşı 60 saniye dayan, elmas topla, rütbe atla ve her seferinde yeni bir güç seç. Her bölüm kısa, yoğun ve birbirinden farklıdır.
+
+30 BÖLGEDE 600 BÖLÜM
+Port Ashen varoşlarından hastaneye, metroya, limana, alışveriş merkezine, askeri kampa ve yanan şehre. Sonra denizi geçip kuzeye ilerlersin: eski şehir, şehir parkı, okul, stadyum, mezarlık, hapishane, baraj, havalimanı, madenler ve sıfır noktası. Her bölgenin kendi haritası, kendi zombileri ve kendi patronu var.
+
+30 PATRON
+Kasap, Devasa, Sıfır Hasta, Uluyan, Spor Ana, Uçurum ve daha fazlası. Her patronun özel saldırıları var: hücumlar, yere vuruşlar, asit, sporlar ve takviyeler.
+
+15 ÇEŞİT ZOMBİ
+Koşucular, sürünenler, enfekte köpekler, patlayanlar, tükürenler, zırhlı askerler, sürüyü hızlandıran çığlıkçılar, sadece yakından görünen gölgeler, zıplayanlar, şifacılar ve dev devasa zombiler.
+
+KAHRAMANINI GELİŞTİR
+- Açıp geliştirebileceğin 7 silah: saldırı tüfeği, ikiz tabancalar, pompalı tüfek, hafif makineli tüfek, keskin nişancı tüfeği, döner makineli tüfek ve alev makinesi.
+- Kendi yeteneklerine sahip 3 kahraman: asker Rex, sağlıkçı Marta, ağır silahçı Nathan.
+- 4 nadirlik seviyesinde ekipman: miğferler, yelekler, botlar ve eldivenler.
+- Bölümler sırasında seçebileceğin 18 güç ve 10 gizli kombinasyon: zincir yıldırım, dönen küreler, enerji kalkanı, mayınlar, ateş ve buz mermileri, misket bombaları ve daha fazlası.
+- Cephanelik ve Sığınak: kalıcı geliştirmeler, seninle uçan bir drone ve altın üreten bir depo.
+
+HER ZAMAN YAPACAK BİR ŞEY VAR
+- 4 mod: Kampanya, Sonsuz, Devasa Zombi Saldırısı ve Günlük Meydan Okuma.
+- Günlük ve haftalık görevler, asla kaybetmediğin 7 günlük hediye, her bölümde 3 yıldız.
+- Madalyalar, istatistikler ve 31 bölümlük bir hikaye.
+- Süslemeler ve bonus altınlarla mevsimlik etkinlikler.
+
+ADİL VE ÇEVRİMDIŞI
+- Çevrimdışı oynanır, internet gerekmez.
+- Enerji yok, beklenecek can yok.
+- Gerçek parayla satın alma yok: her şeyi oynayarak kazanırsın.
+- Reklamlar yalnızca menülerde ve bölümler arasında, oynarken asla. İsteğe bağlı videolarda her zaman "reklam izle" yazar.
+
+HER TELEFON İÇİN GRAFİK
+Düşük, Orta, Yüksek ve Ultra ayarları, 30 ile 120 FPS arası, 3D çözünürlük, gölgeler, efektler, yakınlaştırma ve uzaklaştırma. 16 dil.
+
+Zombrake'i indir ve ne kadar dayanabileceğini gör!
+
+RELEASE NOTES:
+Zombrake'in ilk sürümü: 600 bölüm, 30 patron, 7 silah, 3 kahraman, görevler, madalyalar ve 16 dil.
