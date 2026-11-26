@@ -1,0 +1,48 @@
+<en-US>
+First release of Grimstair: loot ruined buildings, climb the stairs, rescue hostages and escape alive. 100 levels in 5 zones, weapons and equipment to find, a base that grows, daily rewards and chests.
+</en-US>
+<it-IT>
+Prima versione di Grimstair: saccheggia palazzi in rovina, sali le scale, salva gli ostaggi e fuggi vivo. 100 livelli in 5 zone, armi ed equipaggiamento da trovare, una base che cresce, premi del giorno e bauli.
+</it-IT>
+<es-ES>
+Primera versión de Grimstair: saquea edificios en ruinas, sube las escaleras, rescata rehenes y escapa con vida. 100 niveles en 5 zonas, armas y equipo por encontrar, una base que crece, premios diarios y cofres.
+</es-ES>
+<fr-FR>
+Première version de Grimstair : fouille des immeubles en ruine, monte les escaliers, libère des otages et fuis en vie. 100 niveaux dans 5 zones, armes et équipement à trouver, une base qui grandit, récompenses du jour et coffres.
+</fr-FR>
+<de-DE>
+Erste Version von Grimstair: Plündere Ruinen, steige Treppen hoch, rette Geiseln und entkomme lebend. 100 Level in 5 Zonen, Waffen und Ausrüstung zum Finden, eine wachsende Basis, Tagesbelohnungen und Truhen.
+</de-DE>
+<pt-PT>
+Primeira versão de Grimstair: saqueia edifícios em ruínas, sobe as escadas, salva reféns e foge com vida. 100 níveis em 5 zonas, armas e equipamento para encontrar, uma base que cresce, prémios diários e baús.
+</pt-PT>
+<ru-RU>
+Первая версия Grimstair: обыскивай руины, поднимайся по лестницам, спасай заложников и выбирайся живым. 100 уровней в 5 зонах, оружие и снаряжение, растущая база, ежедневные награды и сундуки.
+</ru-RU>
+<tr-TR>
+Grimstair'in ilk sürümü: harabe binaları yağmala, merdivenleri çık, rehineleri kurtar ve canlı kaç. 5 bölgede 100 seviye, bulunacak silahlar ve teçhizat, büyüyen bir üs, günlük ödüller ve sandıklar.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja Grimstair: plądruj ruiny, wspinaj się po schodach, ratuj zakładników i uciekaj żywy. 100 poziomów w 5 strefach, broń i ekwipunek do znalezienia, rozwijająca się baza, nagrody dnia i skrzynie.
+</pl-PL>
+<nl-NL>
+Eerste versie van Grimstair: plunder ruïnes, beklim de trappen, red gijzelaars en ontsnap levend. 100 levels in 5 zones, wapens en uitrusting om te vinden, een groeiende basis, dagbeloningen en kisten.
+</nl-NL>
+<uk>
+Перша версія Grimstair: обшукуй руїни, підіймайся сходами, рятуй заручників і тікай живим. 100 рівнів у 5 зонах, зброя та спорядження, база, що зростає, щоденні нагороди та скрині.
+</uk>
+<id>
+Versi pertama Grimstair: jarah gedung hancur, naiki tangga, selamatkan sandera dan kabur hidup-hidup. 100 level di 5 zona, senjata dan perlengkapan untuk ditemukan, markas yang berkembang, hadiah harian dan peti.
+</id>
+<vi>
+Phiên bản đầu tiên của Grimstair: lục soát tòa nhà đổ nát, leo cầu thang, giải cứu con tin và thoát thân. 100 màn trong 5 khu vực, vũ khí và trang bị, căn cứ phát triển, quà hằng ngày và rương.
+</vi>
+<ja-JP>
+Grimstair最初のバージョン：廃墟をあさり、階段を登り、人質を救出して生きて脱出しよう。5つのエリアに100レベル、武器と装備、成長する拠点、デイリー報酬と宝箱。
+</ja-JP>
+<ko-KR>
+Grimstair 첫 버전: 폐허를 뒤지고 계단을 올라 인질을 구출하고 살아서 탈출하세요. 5개 구역 100개 레벨, 무기와 장비, 성장하는 기지, 일일 보상과 상자.
+</ko-KR>
+<zh-CN>
+Grimstair首个版本：搜刮废墟大楼，爬上楼梯，营救人质并活着撤离。5个区域100个关卡，可寻找的武器和装备，不断发展的基地，每日奖励和宝箱。
+</zh-CN>
