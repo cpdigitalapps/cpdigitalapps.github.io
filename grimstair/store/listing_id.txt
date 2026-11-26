@@ -1,0 +1,37 @@
+TITLE: Grimstair: Kabur dari Zombi
+SHORT: Jarah gedung hancur, naiki tangga gelap, selamatkan sandera dan kabur hidup
+FULL:
+Kota sudah runtuh. Setiap gedung menyimpan persediaan, senjata, dan penyintas... dan orang mati masih berkeliaran.
+
+Grimstair adalah game platformer ekstraksi zombi 2D. Masuki distrik yang hancur, naiki tangga lantai demi lantai hanya dengan senter, buka peti, isi ransel, dan capai titik kabur sebelum gerombolan tiba. Jika kamu mati, semua yang kamu bawa hilang.
+
+JARAH, NAIK, KABUR
+- Jelajahi gedung hingga 5 lantai: dapur, kantor, bangsal rumah sakit, bengkel, gudang senjata, dan banyak lagi
+- Senter menghasilkan bayangan nyata: lantai di atas tetap gelap sampai kamu ke sana
+- Buka peti dan ambil barang berserakan: kotak P3K, amunisi, emas, laptop, serum langka
+- Atur ransel berkotak: apakah satu ruangan lagi sepadan, atau saatnya lari?
+- Kabur dari atap atau ujung jalan, saat gerombolan makin dekat
+
+MAKIN KUAT SETAHAP DEMI SETAHAP
+- Temukan dan buka senjata baru: pistol, SMG, shotgun, senapan serbu
+- Peningkatan senjata: damage lebih besar, magasin lebih besar, tembakan lebih cepat, isi ulang lebih cepat
+- 5 perlengkapan: helm, rompi, sepatu bot, sarung tangan, dan sabuk
+- Tingkatkan tempat persembunyian: meja kerja, klinik, ruang latihan, ruang radio, gudang amunisi
+
+SELAMATKAN SANDERA, BANGUN BASISMU
+- Bebaskan penyintas yang terikat dan bawa mereka pulang
+- Di basis mereka bekerja untukmu: pedagang, mekanik, dokter, pandai senjata, pengintai
+- Mereka menghasilkan koin, suku cadang, kotak P3K, peningkatan, dan peti, bahkan saat kamu tidak bermain
+
+100 LEVEL DAN HADIAH HARIAN
+- 5 zona: kota tua, pinggiran kota, pelabuhan, rumah sakit, dan pangkalan militer
+- 20 level per zona dengan bos, kabur dengan batas waktu, perburuan zombi, dan misi penyelamatan
+- Misi harian, kalender hadiah 7 hari, serta peti kayu, perak, dan emas
+
+DIBUAT UNTUK PONSEL
+- Kontrol mudah: gerak dengan satu jari, penyintas membidik dan menembak sendiri
+- Serangan pisau saat peluru habis
+- Zoom masuk dan keluar dengan dua jari
+- Bisa dimainkan offline, dalam 16 bahasa
+
+Gratis dengan iklan. Video berhadiah selalu opsional.

@@ -1,0 +1,37 @@
+TITLE: Grimstair: Thoát Khỏi Zombie
+SHORT: Lục soát tòa nhà đổ nát, leo cầu thang tối, giải cứu con tin và thoát thân
+FULL:
+Thành phố đã sụp đổ. Mỗi tòa nhà đều giấu vật tư, vũ khí và người sống sót... còn những xác sống vẫn lang thang khắp nơi.
+
+Grimstair là game hành động platform 2D về chủ đề thoát thân khỏi zombie. Bạn bước vào một khu phố đổ nát, leo từng tầng cầu thang chỉ với chiếc đèn pin, mở thùng đồ, lấp đầy ba lô và chạy tới điểm thoát trước khi bầy zombie ập đến. Nếu chết, bạn sẽ mất toàn bộ những gì đang mang theo.
+
+LỤC SOÁT, LEO TẦNG, THOÁT THÂN
+- Khám phá các tòa nhà cao tới 5 tầng: nhà bếp, văn phòng, phòng bệnh viện, xưởng, kho vũ khí và nhiều nơi khác
+- Đèn pin tạo ra bóng đổ thật: tầng trên vẫn tối đen cho tới khi bạn bước lên đó
+- Mở thùng đồ và nhặt đồ vật rơi vãi: bộ cứu thương, đạn, vàng, laptop, huyết thanh hiếm
+- Sắp xếp ba lô dạng lưới: có đáng vào thêm một phòng nữa không, hay đã đến lúc chạy?
+- Thoát thân từ sân thượng hoặc cuối con phố, trong khi bầy zombie đang áp sát
+
+MẠNH LÊN TỪNG BƯỚC
+- Tìm và mở khóa vũ khí mới: súng lục, tiểu liên, súng săn, súng trường
+- Nâng cấp vũ khí: sát thương cao hơn, băng đạn lớn hơn, bắn nhanh hơn, nạp đạn nhanh hơn
+- 5 món trang bị: mũ bảo hiểm, áo giáp, giày, găng tay và thắt lưng
+- Nâng cấp nơi trú ẩn: bàn chế tạo, phòng y tế, phòng tập, phòng vô tuyến, kho đạn
+
+GIẢI CỨU CON TIN, XÂY DỰNG CĂN CỨ
+- Cởi trói cho những người sống sót và đưa họ về nhà
+- Tại căn cứ, họ làm việc cho bạn: thương nhân, thợ máy, bác sĩ, thợ súng, trinh sát
+- Họ tạo ra xu, phụ tùng, bộ cứu thương, nâng cấp và rương, kể cả khi bạn không chơi
+
+100 MÀN CHƠI VÀ QUÀ HẰNG NGÀY
+- 5 khu vực: phố cổ, ngoại ô, bến cảng, bệnh viện và căn cứ quân sự
+- Mỗi khu có 20 màn với trùm, màn thoát thân có giới hạn thời gian, săn zombie và giải cứu con tin
+- Nhiệm vụ hằng ngày, lịch quà 7 ngày và các rương gỗ, bạc, vàng
+
+DÀNH CHO ĐIỆN THOẠI
+- Điều khiển đơn giản: di chuyển bằng một ngón tay, nhân vật tự ngắm và bắn
+- Tấn công bằng dao khi hết đạn
+- Phóng to, thu nhỏ bằng hai ngón tay
+- Chơi offline, hỗ trợ 16 ngôn ngữ
+
+Miễn phí, có quảng cáo. Video nhận thưởng luôn là tùy chọn.

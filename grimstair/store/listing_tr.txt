@@ -1,0 +1,37 @@
+TITLE: Grimstair: Zombi Kaçış Oyunu
+SHORT: Harabe binaları yağmala, karanlık merdivenleri çık, rehineleri kurtar ve kaç
+FULL:
+Şehir çöktü. Her binada erzak, silah ve hayatta kalanlar saklı... ama ölüler hâlâ dolaşıyor.
+
+Grimstair, 2D bir zombi kaçış platform oyunudur. Harabe bir mahalleye gir, sadece el fenerinle kat kat merdiven çık, sandıkları aç, sırt çantanı doldur ve sürü gelmeden kaçış noktasına ulaş. Ölürsen taşıdığın her şeyi kaybedersin.
+
+YAĞMALA, ÇIK, KAÇ
+- 5 kata kadar binaları keşfet: mutfaklar, ofisler, hastane koğuşları, atölyeler, cephaneler ve daha fazlası
+- El fenerin gerçek gölgeler oluşturur: bir üst kat, oraya çıkana kadar karanlık kalır
+- Sandıkları aç, yerdeki eşyaları topla: ilk yardım çantaları, mühimmat, altın, dizüstü bilgisayarlar, nadir serum
+- Izgara şeklindeki sırt çantanı yönet: bir oda daha değer mi, yoksa kaçma zamanı mı?
+- Sürü yaklaşırken çatılardan ya da sokağın sonundan kaç
+
+ADIM ADIM GÜÇLEN
+- Yeni silahlar bul ve aç: tabanca, hafif makineli, pompalı tüfek, saldırı tüfeği
+- Silah geliştirmeleri: daha fazla hasar, daha büyük şarjör, daha hızlı atış, daha hızlı yeniden doldurma
+- 5 teçhizat parçası: kask, yelek, bot, eldiven ve kemer
+- Sığınağını geliştir: tezgâh, revir, spor salonu, telsiz odası, cephanelik
+
+REHİNELERİ KURTAR, ÜSSÜNÜ KUR
+- Bağlı kalan hayatta kalanları serbest bırak ve eve getir
+- Üste senin için çalışırlar: tüccar, tamirci, doktor, silah ustası, izci
+- Sen yokken bile para, yedek parça, ilk yardım çantası, geliştirme ve sandık üretirler
+
+100 BÖLÜM VE GÜNLÜK ÖDÜLLER
+- 5 bölge: eski şehir, banliyö, liman, hastane ve askeri üs
+- Her bölgede 20 bölüm: patronlar, süreli kaçışlar, avlanma ve kurtarma görevleri
+- Günlük görevler, 7 günlük ödül takvimi ve ahşap, gümüş ve altın sandıklar
+
+TELEFONLAR İÇİN YAPILDI
+- Basit kontroller: tek parmakla hareket et, hayatta kalan kendi kendine nişan alıp ateş eder
+- Mermin bitince bıçakla saldırı
+- İki parmakla yakınlaştır ve uzaklaştır
+- İnternetsiz oynanır, 16 dilde
+
+Reklamlarla ücretsiz oynanır. Ödüllü videolar her zaman isteğe bağlıdır.

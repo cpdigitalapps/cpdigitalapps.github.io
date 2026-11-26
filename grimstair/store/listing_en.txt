@@ -1,0 +1,37 @@
+TITLE: Grimstair: Zombie Extraction
+SHORT: Loot ruined buildings, climb dark stairs, rescue hostages and escape alive
+FULL:
+The city has fallen. Every building hides supplies, weapons and survivors... and the dead are still walking.
+
+Grimstair is a 2D zombie extraction platformer. Enter a ruined district, climb the stairs floor by floor with only your flashlight, open crates, fill your backpack and reach the escape point before the horde arrives. Die, and you lose everything you carried.
+
+LOOT, CLIMB, ESCAPE
+- Explore buildings with up to 5 floors: kitchens, offices, hospital wards, workshops, armories and more
+- Your flashlight casts real shadows: the floor above stays dark until you go there
+- Open crates and pick up loose items: medkits, ammo, gold, laptops, rare serum
+- Manage your grid backpack: is it worth one more room or is it time to run?
+- Escape from the rooftops or the end of the street, while the horde closes in
+
+GET STRONGER STEP BY STEP
+- Find and unlock new weapons: pistol, SMG, shotgun, assault rifle
+- Weapon upgrades: more damage, bigger magazine, faster fire, quicker reload
+- 5 pieces of equipment: helmet, vest, boots, gloves and belt
+- Upgrade your safehouse: workbench, infirmary, gym, radio room, ammo depot
+
+RESCUE HOSTAGES, BUILD YOUR BASE
+- Free tied-up survivors and bring them home
+- At the base they work for you: trader, mechanic, doctor, gunsmith, scout
+- They produce coins, spare parts, medkits, upgrades and chests, even while you are away
+
+100 LEVELS AND DAILY REWARDS
+- 5 zones: old town, suburbs, port, hospital and military base
+- 20 levels per zone with bosses, timed escapes, kill hunts and rescue missions
+- Daily missions, a 7-day reward calendar and wooden, silver and gold chests
+
+MADE FOR PHONES
+- Simple controls: move with one finger, the survivor aims and fires on his own
+- Knife attack when you run out of bullets
+- Zoom in and out with two fingers
+- Plays offline, in 16 languages
+
+Free to play with ads. Rewarded videos are always optional.

@@ -1,0 +1,37 @@
+TITLE: Grimstair: Extracción Zombi
+SHORT: Saquea edificios en ruinas, sube escaleras, rescata rehenes y escapa con vida
+FULL:
+La ciudad ha caído. Cada edificio esconde suministros, armas y supervivientes... y los muertos siguen caminando.
+
+Grimstair es un plataformas 2D de extracción contra zombis. Entra en un barrio en ruinas, sube las escaleras piso a piso con tu linterna como única luz, abre cajas, llena la mochila y llega al punto de escape antes de que llegue la horda. Si mueres, pierdes todo lo que llevabas.
+
+SAQUEA, SUBE, ESCAPA
+- Explora edificios de hasta 5 pisos: cocinas, oficinas, salas de hospital, talleres, armerías y más
+- Tu linterna proyecta sombras reales: el piso de arriba sigue a oscuras hasta que subes
+- Abre cajas y recoge objetos sueltos: botiquines, munición, oro, portátiles, suero raro
+- Gestiona tu mochila de casillas: ¿merece la pena una habitación más o es hora de correr?
+- Escapa desde las azoteas o desde el final de la calle mientras la horda te rodea
+
+MEJORA PASO A PASO
+- Encuentra y desbloquea armas nuevas: pistola, subfusil, escopeta, fusil de asalto
+- Mejoras de arma: más daño, cargador más grande, más cadencia, recarga más rápida
+- 5 piezas de equipo: casco, chaleco, botas, guantes y cinturón
+- Mejora tu refugio: banco de trabajo, enfermería, gimnasio, sala de radio, polvorín
+
+RESCATA REHENES, CONSTRUYE TU BASE
+- Libera a los supervivientes atados y llévalos a casa
+- En la base trabajan para ti: comerciante, mecánico, médico, armero, explorador
+- Producen monedas, repuestos, botiquines, mejoras y cofres, incluso mientras estás fuera
+
+100 NIVELES Y PREMIOS DIARIOS
+- 5 zonas: casco antiguo, afueras, puerto, hospital y base militar
+- 20 niveles por zona con jefes, escapes contrarreloj, cacerías y misiones de rescate
+- Misiones diarias, calendario de premios de 7 días y cofres de madera, plata y oro
+
+PENSADO PARA MÓVILES
+- Controles sencillos: te mueves con un dedo y el superviviente apunta y dispara solo
+- Ataque con cuchillo cuando se acaban las balas
+- Acerca y aleja la cámara con dos dedos
+- Funciona sin conexión, en 16 idiomas
+
+Gratis con anuncios. Los vídeos con premio son siempre opcionales.

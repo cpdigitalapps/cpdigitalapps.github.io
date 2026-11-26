@@ -1,0 +1,37 @@
+TITLE: Grimstair: Ucieczka z Zombie
+SHORT: Plądruj ruiny, wspinaj się po ciemnych schodach, ratuj zakładników i uciekaj
+FULL:
+Miasto upadło. W każdym budynku kryją się zapasy, broń i ocaleni... a umarli wciąż chodzą.
+
+Grimstair to platformówka 2D o ucieczce przed zombie. Wejdź do zrujnowanej dzielnicy, wspinaj się piętro po piętrze tylko z latarką, otwieraj skrzynie, napełniaj plecak i dotrzyj do punktu ucieczki, zanim nadejdzie horda. Jeśli zginiesz, tracisz wszystko, co niosłeś.
+
+PLĄDRUJ, WSPINAJ SIĘ, UCIEKAJ
+- Eksploruj budynki do 5 pięter: kuchnie, biura, szpitalne sale, warsztaty, zbrojownie i nie tylko
+- Latarka rzuca prawdziwe cienie: piętro wyżej pozostaje ciemne, dopóki tam nie wejdziesz
+- Otwieraj skrzynie i zbieraj leżące przedmioty: apteczki, amunicję, złoto, laptopy, rzadkie serum
+- Zarządzaj plecakiem w kratkę: czy warto zajrzeć do jeszcze jednego pokoju, czy czas uciekać?
+- Uciekaj z dachów albo z końca ulicy, gdy horda się zbliża
+
+STAWAJ SIĘ SILNIEJSZY KROK PO KROKU
+- Znajduj i odblokowuj nową broń: pistolet, pistolet maszynowy, strzelba, karabin szturmowy
+- Ulepszenia broni: więcej obrażeń, większy magazynek, szybszy ogień, szybsze przeładowanie
+- 5 elementów ekwipunku: hełm, kamizelka, buty, rękawice i pas
+- Rozbudowuj kryjówkę: warsztat, ambulatorium, siłownia, radiostacja, zbrojownia
+
+RATUJ ZAKŁADNIKÓW, BUDUJ BAZĘ
+- Uwalniaj związanych ocalałych i zabieraj ich do domu
+- W bazie pracują dla ciebie: handlarz, mechanik, lekarz, rusznikarz, zwiadowca
+- Produkują monety, części, apteczki, ulepszenia i skrzynie, nawet gdy cię nie ma
+
+100 POZIOMÓW I CODZIENNE NAGRODY
+- 5 stref: Stare Miasto, przedmieścia, port, szpital i baza wojskowa
+- 20 poziomów w każdej strefie z bossami, ucieczkami na czas, polowaniami i misjami ratunkowymi
+- Codzienne misje, 7-dniowy kalendarz nagród oraz drewniane, srebrne i złote skrzynie
+
+STWORZONA NA TELEFONY
+- Proste sterowanie: poruszaj się jednym palcem, ocalały sam celuje i strzela
+- Atak nożem, gdy skończą się naboje
+- Przybliżaj i oddalaj dwoma palcami
+- Działa offline, w 16 językach
+
+Darmowa gra z reklamami. Filmy z nagrodą są zawsze opcjonalne.

@@ -1,0 +1,37 @@
+TITLE: Grimstair: Évasion Zombie
+SHORT: Fouille des immeubles en ruine, monte les escaliers, libère des otages et fuis
+FULL:
+La ville est tombée. Chaque immeuble cache des vivres, des armes et des survivants... et les morts marchent encore.
+
+Grimstair est un jeu de plateforme 2D d'extraction contre des zombies. Entre dans un quartier en ruine, monte les escaliers étage par étage avec ta seule lampe torche, ouvre des caisses, remplis ton sac à dos et rejoins le point d'évasion avant l'arrivée de la horde. Si tu meurs, tu perds tout ce que tu portais.
+
+FOUILLE, GRIMPE, ÉVADE-TOI
+- Explore des immeubles jusqu'à 5 étages : cuisines, bureaux, chambres d'hôpital, ateliers, armureries et plus encore
+- Ta lampe torche projette de vraies ombres : l'étage du dessus reste noir tant que tu n'y es pas
+- Ouvre des caisses et ramasse des objets : trousses de soin, munitions, or, ordinateurs, sérum rare
+- Gère ton sac à dos à cases : une pièce de plus vaut-elle le risque, ou faut-il courir ?
+- Évade-toi par les toits ou par le bout de la rue pendant que la horde se rapproche
+
+DEVIENS PLUS FORT PAS À PAS
+- Trouve et débloque de nouvelles armes : pistolet, mitraillette, fusil à pompe, fusil d'assaut
+- Améliorations d'armes : plus de dégâts, chargeur plus grand, cadence plus rapide, rechargement plus court
+- 5 pièces d'équipement : casque, gilet, bottes, gants et ceinture
+- Améliore ton refuge : établi, infirmerie, salle d'entraînement, salle radio, réserve de munitions
+
+LIBÈRE DES OTAGES, BÂTIS TA BASE
+- Détache les survivants ligotés et ramène-les chez toi
+- À la base, ils travaillent pour toi : marchand, mécanicien, médecin, armurier, éclaireur
+- Ils produisent des pièces, des pièces détachées, des trousses, des améliorations et des coffres, même quand tu n'es pas là
+
+100 NIVEAUX ET RÉCOMPENSES QUOTIDIENNES
+- 5 zones : vieille ville, banlieue, port, hôpital et base militaire
+- 20 niveaux par zone avec des boss, des évasions chronométrées, des chasses et des missions de sauvetage
+- Missions du jour, calendrier de récompenses sur 7 jours et coffres en bois, en argent et en or
+
+PENSÉ POUR LES MOBILES
+- Commandes simples : tu te déplaces d'un doigt, le survivant vise et tire tout seul
+- Attaque au couteau quand tu n'as plus de balles
+- Zoom avant et arrière avec deux doigts
+- Fonctionne hors ligne, en 16 langues
+
+Gratuit avec publicités. Les vidéos avec récompense sont toujours facultatives.

@@ -1,0 +1,37 @@
+TITLE: Grimstair: Zombie-Extraktion
+SHORT: Plündere Ruinen, steige dunkle Treppen hoch, rette Geiseln und flieh lebend
+FULL:
+Die Stadt ist gefallen. In jedem Gebäude warten Vorräte, Waffen und Überlebende ... und die Toten laufen noch immer herum.
+
+Grimstair ist ein 2D-Zombie-Extraction-Plattformer. Betritt ein zerstörtes Viertel, steige Stockwerk für Stockwerk die Treppen hinauf, nur mit deiner Taschenlampe, öffne Kisten, fülle deinen Rucksack und erreiche den Fluchtpunkt, bevor die Horde eintrifft. Wenn du stirbst, verlierst du alles, was du getragen hast.
+
+PLÜNDERN, KLETTERN, ENTKOMMEN
+- Erkunde Gebäude mit bis zu 5 Stockwerken: Küchen, Büros, Krankenzimmer, Werkstätten, Waffenkammern und mehr
+- Deine Taschenlampe wirft echte Schatten: Das Stockwerk über dir bleibt dunkel, bis du hinaufgehst
+- Öffne Kisten und sammle lose Gegenstände: Medikits, Munition, Gold, Laptops, seltenes Serum
+- Verwalte deinen Rucksack mit Raster: Lohnt sich noch ein Raum oder wird es Zeit zu fliehen?
+- Flieh von den Dächern oder vom Ende der Straße, während die Horde näher kommt
+
+WIRD STÄRKER, SCHRITT FÜR SCHRITT
+- Finde und schalte neue Waffen frei: Pistole, MP, Schrotflinte, Sturmgewehr
+- Waffen-Upgrades: mehr Schaden, größeres Magazin, schnellere Schussfolge, schnelleres Nachladen
+- 5 Ausrüstungsteile: Helm, Weste, Stiefel, Handschuhe und Gürtel
+- Baue dein Versteck aus: Werkbank, Krankenstation, Trainingsraum, Funkraum, Munitionslager
+
+GEISELN RETTEN, BASIS AUFBAUEN
+- Befreie gefesselte Überlebende und bring sie nach Hause
+- In der Basis arbeiten sie für dich: Händler, Mechaniker, Arzt, Büchsenmacher, Späher
+- Sie produzieren Münzen, Ersatzteile, Medikits, Upgrades und Truhen, auch wenn du nicht spielst
+
+100 LEVELS UND TÄGLICHE BELOHNUNGEN
+- 5 Zonen: Altstadt, Vorort, Hafen, Klinik und Armeebasis
+- 20 Levels pro Zone mit Bossen, Fluchten auf Zeit, Jagden und Rettungsmissionen
+- Tägliche Missionen, ein 7-Tage-Belohnungskalender sowie Holz-, Silber- und Goldtruhen
+
+FÜR DAS HANDY GEMACHT
+- Einfache Steuerung: Bewege dich mit einem Finger, der Überlebende zielt und schießt von selbst
+- Messerangriff, wenn dir die Kugeln ausgehen
+- Zoome mit zwei Fingern hinein und heraus
+- Läuft offline, in 16 Sprachen
+
+Kostenlos spielbar mit Werbung. Videos für Belohnungen sind immer freiwillig.

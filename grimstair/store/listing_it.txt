@@ -1,0 +1,37 @@
+TITLE: Grimstair: Fuga dagli Zombie
+SHORT: Saccheggia palazzi in rovina, sali scale buie, salva gli ostaggi e fuggi vivo
+FULL:
+La città è caduta. Ogni palazzo nasconde provviste, armi e superstiti... e i morti camminano ancora.
+
+Grimstair è un platform 2D di estrazione con gli zombie. Entra in un quartiere in rovina, sali le scale piano per piano con la sola torcia, apri le casse, riempi lo zaino e raggiungi il punto di fuga prima che arrivi l'orda. Se muori, perdi tutto quello che hai addosso.
+
+SACCHEGGIA, SALI, FUGGI
+- Esplora palazzi fino a 5 piani: cucine, uffici, corsie d'ospedale, officine, armerie e altro
+- La torcia fa ombre vere: il piano di sopra resta buio finché non ci vai
+- Apri le casse e raccogli gli oggetti sparsi: kit medici, munizioni, oro, portatili, siero raro
+- Gestisci lo zaino a caselle: vale la pena un'altra stanza o è ora di scappare?
+- Fuggi dai tetti o in fondo alla strada mentre l'orda si avvicina
+
+DIVENTA PIÙ FORTE UN PASSO ALLA VOLTA
+- Trova e sblocca armi nuove: pistola, mitraglietta, fucile a pompa, fucile d'assalto
+- Potenziamenti delle armi: più danno, caricatore più grande, spara più veloce, ricarica più rapida
+- 5 pezzi di equipaggiamento: elmetto, giubbotto, stivali, guanti e cintura
+- Migliora il rifugio: banco da lavoro, infermeria, palestra, sala radio, deposito munizioni
+
+SALVA GLI OSTAGGI, COSTRUISCI LA TUA BASE
+- Libera i superstiti legati e portali a casa
+- Alla base lavorano per te: commerciante, meccanico, medico, armaiolo, esploratore
+- Producono monete, pezzi di ricambio, kit medici, potenziamenti e bauli, anche quando non giochi
+
+100 LIVELLI E PREMI OGNI GIORNO
+- 5 zone: città vecchia, periferia, porto, ospedale e base militare
+- 20 livelli per zona con capi, fughe a tempo, cacce agli zombie e missioni di salvataggio
+- Missioni del giorno, calendario di premi di 7 giorni e bauli di legno, d'argento e d'oro
+
+FATTO PER IL TELEFONO
+- Comandi semplici: ti muovi con un dito, il sopravvissuto mira e spara da solo
+- Coltello quando finiscono i colpi
+- Zoom avanti e indietro con due dita
+- Si gioca offline, in 16 lingue
+
+Gratis con pubblicità. I video con premio sono sempre una scelta.
