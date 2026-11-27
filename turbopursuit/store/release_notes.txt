@@ -1,0 +1,48 @@
+<en-US>
+First release: highway racing in traffic with police chases up to 5 stars, 21 cars and motorbikes, garage with paint, body kits, rims and upgrades, 16 game modes, career with 36 events, 6 circuits, 6 landscapes, 10 weather types and a fully adjustable camera. Plays offline, in 16 languages.
+</en-US>
+<it-IT>
+Prima versione: corse in autostrada nel traffico con inseguimenti della polizia fino a 5 stelle, 21 auto e moto, garage con vernici, kit, cerchi ed elaborazioni, 16 modalità, carriera con 36 eventi, 6 circuiti, 6 paesaggi, 10 tipi di meteo e telecamera regolabile. Si gioca offline, in 16 lingue.
+</it-IT>
+<es-ES>
+Primera versión: carreras en autopista con tráfico y persecuciones policiales de hasta 5 estrellas, 21 coches y motos, garaje con pintura, kits, llantas y mejoras, 16 modos, carrera profesional con 36 eventos, 6 circuitos, 6 paisajes, 10 climas y cámara ajustable. Sin conexión, en 16 idiomas.
+</es-ES>
+<fr-FR>
+Première version : courses sur autoroute dans le trafic avec poursuites de police jusqu'à 5 étoiles, 21 voitures et motos, garage avec peinture, kits, jantes et améliorations, 16 modes, carrière de 36 épreuves, 6 circuits, 6 paysages, 10 météos et caméra réglable. Hors ligne, en 16 langues.
+</fr-FR>
+<de-DE>
+Erste Version: Autobahnrennen im Verkehr mit Polizeiverfolgungen bis 5 Sterne, 21 Autos und Motorräder, Garage mit Lack, Kits, Felgen und Upgrades, 16 Spielmodi, Karriere mit 36 Events, 6 Rundstrecken, 6 Landschaften, 10 Wetterarten und einstellbare Kamera. Offline spielbar, in 16 Sprachen.
+</de-DE>
+<pt-BR>
+Primeira versão: corridas na rodovia com trânsito e perseguições policiais de até 5 estrelas, 21 carros e motos, garagem com pintura, kits, rodas e melhorias, 16 modos, carreira com 36 eventos, 6 circuitos, 6 paisagens, 10 climas e câmera ajustável. Jogue offline, em 16 idiomas.
+</pt-BR>
+<ru-RU>
+Первая версия: гонки по шоссе в потоке машин с погонями полиции до 5 звёзд, 21 автомобиль и мотоцикл, гараж с покраской, обвесами, дисками и улучшениями, 16 режимов, карьера из 36 событий, 6 трасс, 6 пейзажей, 10 видов погоды и настраиваемая камера. Без интернета, 16 языков.
+</ru-RU>
+<tr-TR>
+İlk sürüm: 5 yıldıza kadar polis kovalamacalı trafikte otoyol yarışları, 21 araba ve motosiklet, boya, kit, jant ve geliştirmeli garaj, 16 mod, 36 etkinlikli kariyer, 6 pist, 6 manzara, 10 hava durumu ve ayarlanabilir kamera. İnternetsiz, 16 dilde.
+</tr-TR>
+<pl-PL>
+Pierwsza wersja: wyścigi po autostradzie w ruchu z pościgami policji do 5 gwiazdek, 21 samochodów i motocykli, garaż z lakierem, kitami, felgami i ulepszeniami, 16 trybów, kariera z 36 wydarzeniami, 6 torów, 6 krajobrazów, 10 rodzajów pogody i regulowana kamera. Offline, w 16 językach.
+</pl-PL>
+<nl-NL>
+Eerste versie: snelwegraces in het verkeer met politieachtervolgingen tot 5 sterren, 21 auto's en motoren, garage met lak, kits, velgen en upgrades, 16 spelmodi, carrière met 36 evenementen, 6 circuits, 6 landschappen, 10 soorten weer en instelbare camera. Offline, in 16 talen.
+</nl-NL>
+<uk>
+Перша версія: перегони шосе в потоці машин із погонями поліції до 5 зірок, 21 автомобіль і мотоцикл, гараж із фарбою, обвісами, дисками й покращеннями, 16 режимів, кар'єра з 36 подій, 6 треків, 6 краєвидів, 10 видів погоди та налаштовувана камера. Без інтернету, 16 мов.
+</uk>
+<id>
+Versi pertama: balapan jalan tol di lalu lintas dengan kejar-kejaran polisi hingga 5 bintang, 21 mobil dan motor, garasi dengan cat, kit, velg, dan peningkatan, 16 mode, karier dengan 36 acara, 6 sirkuit, 6 pemandangan, 10 cuaca, dan kamera yang bisa diatur. Main offline, 16 bahasa.
+</id>
+<vi>
+Phiên bản đầu tiên: đua xe cao tốc giữa dòng xe với cảnh sát truy đuổi tới 5 sao, 21 ô tô và mô tô, gara với sơn, bộ body, mâm và nâng cấp, 16 chế độ, sự nghiệp 36 sự kiện, 6 trường đua, 6 phong cảnh, 10 kiểu thời tiết và camera tùy chỉnh. Chơi offline, 16 ngôn ngữ.
+</vi>
+<ja-JP>
+初リリース:交通の中を走るハイウェイレース、最大5つ星の警察の追跡、車とバイク21台、塗装・エアロ・ホイール・強化ができるガレージ、16のモード、36イベントのキャリア、6つのサーキット、6つの景色、10種類の天気、調整できるカメラ。オフライン対応、16言語。
+</ja-JP>
+<ko-KR>
+첫 출시: 교통 속 고속도로 레이싱과 최대 5성 경찰 추격전, 자동차와 오토바이 21대, 도색·키트·휠·업그레이드가 가능한 차고, 16가지 모드, 36개 이벤트의 커리어, 6개 서킷, 6가지 풍경, 10가지 날씨, 조절 가능한 카메라. 오프라인 플레이, 16개 언어.
+</ko-KR>
+<zh-CN>
+首个版本:在车流中飙驰高速公路,最高 5 星警察追捕,21 辆汽车和摩托车,可喷漆、改装套件、轮毂和性能升级的车库,16 种模式,36 场赛事的生涯,6 条赛道,6 种风景,10 种天气,可调节的镜头。支持离线,16 种语言。
+</zh-CN>

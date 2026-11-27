@@ -1,0 +1,31 @@
+TITLE:
+Turbo Pursuit: Araba Yarışı
+
+SHORT:
+Trafikte otoyol yarışı, polis kovalamacası, arabalar ve motosikletler
+
+FULL:
+Turbo Pursuit, gerçek trafikte geçen 3D bir otoyol yarış oyunudur. Tam gazla arabaların, minibüslerin ve kamyonların arasından geç, cesaretin yettiğince yakından sollama yap ve abarttığında polisten kaçmaya çalış.
+
+POLİS KOVALAMACALARI
+Çok hızlı gidersen ya da sık kaza yaparsan sirenler çalar. 5 yıldıza kadar aranma seviyesi: daha fazla devriye aracı, şeritlerde barikatlar, çivili şeritler ve projektörlü bir helikopter. Kaç ya da yakalan.
+
+21 ARAÇ: ARABALAR VE MOTOSİKLETLER
+Spor arabalar, klasik kupeler, günlük arabalar ve choppera'dan her virajda yatan pist SuperGP'sine kadar 6 motosiklet. Her motosikletin kendi sürüş pozisyonu var.
+
+GARAJ VE MODİFİYE
+Boya ve kaplama (parlak, metalik, mat, sedef, krom), fren kaliperleri, tamponlar, marşpiyeller, spoyler, geniş gövde kiti, 16-20 inç jantlar ve lastikler. Motor, turbo, şanzıman, süspansiyon, fren, yol tutuş ve nitro geliştir: her geliştirme sürüşü değiştirir.
+
+16 OYUN MODU
+Serbest sürüş, zamana karşı, sollama, hep hızlı, mesafe, düello, çift yön, temiz sürüş, yoğun saat, 5 rakibe karşı yarış, eleme, polis kovalamacası, drag yarışı, azami hız, pist yarışı ve hızlı tur. Ayrıca 36 etkinlikli kariyer ve çift ödüllü günlük görev.
+
+PİSTLER, MANZARALAR VE HAVA
+6 pist, 6 manzara (kırsal, sonbahar, çöl, dağ, orman, sahil) ve 10 hava durumu: güneşli sabah, gün batımı, sokak lambalı gece, yağmur, fırtına, sis. Uzun virajlar, yokuşlar ve inişler.
+
+KAMERAN SENİN TARZINDA
+4 görünüm (arka, uzak, kaput, tampon) ve her biri için 6 ayar: görüş açısı, yükseklik, mesafe, eğim, görüşün geri dönüşü ve dinamik hareket. Etrafa bakmak için parmağını kaydır.
+
+HERKES İÇİN KONTROLLER
+Düğmeler, joystick ya da telefonu eğerek sürüş. Yardımlarla kolay sürüş ya da süspansiyon, lastik tutuşu ve 6 vitesli gerçekçi fizik.
+
+İnternetsiz oynanır, reklamlarla ücretsiz. Ödüllü videolar her zaman senin tercihin. 16 dil.
